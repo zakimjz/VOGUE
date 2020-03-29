@@ -1,9 +1,10 @@
 import HmmerNull
 from Bio import SeqIO
 
+
 class ParseSeq:
-    def __init__ (self, handle, format, hmmorder, kvogue):
-        self.id = None 
+    def __init__(self, handle, format, hmmorder, kvogue):
+        self.id = None
         self.seq = []
         self._handle = handle
         self._format = format
@@ -12,7 +13,7 @@ class ParseSeq:
         if self._format == "fasta":
             self._record = SeqIO.parse(self._handle, "fasta")
         elif self._format == "spaced":
-            #read all lines into local mem
+            # read all lines into local mem
             self._lines = []
             self._ids = []
             for line in self._handle:
@@ -22,21 +23,21 @@ class ParseSeq:
                 else:
                     id = line.strip().split()[1]
                     self._ids.append(id)
-            self._curidx = 0 #init to first line
+            self._curidx = 0  # init to first line
 
     def parse_next_sequence(self):
         self.id = None
-        self.seq = [] 
+        self.seq = []
         if self._format == "fasta":
             try:
-                record = self._record.next() 
+                record = next(self._record)
             except StopIteration:
                 return
             #print record.id
             self.id = record.id
-            for i in range(0, len(record.seq)-self._hmmorder+1, 
-                            self._hmmorder):
-                #wd is a word of len hmmorder, counts as one sym
+            for i in range(0, len(record.seq)-self._hmmorder+1,
+                           self._hmmorder):
+                # wd is a word of len hmmorder, counts as one sym
                 wd = ''
                 for w in record.seq[i:i+self._hmmorder]:
                     if self._kvogue:
@@ -51,4 +52,3 @@ class ParseSeq:
                 self.seq = self._lines[self._curidx]
                 self._curidx += 1
         #print self.id, self.seq
-
