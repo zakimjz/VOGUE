@@ -4,6 +4,7 @@ VOGUE is a variable order and gapped HMM with with duration. It uses sequence mi
 
 Mohammed J. Zaki, Christopher D. Carothers, and Boleslaw K. Szymanski. VOGUE: a variable order hidden markov model with duration based on frequent sequence mining. ACM Transactions on Knowledge Discovery in Data, 4(1):Article 5, January 2010.
 
+Bouchra Bouqata, Christopher D. Carothers, Boleslaw K. Szymanski, and Mohammed J. Zaki. VOGUE: a novel variable order-gap state machine for modeling sequences. In 10th European Conference on Principles and Practice of Knowledge Discovery. September 2006.
 
 # How to
 
