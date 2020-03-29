@@ -111,7 +111,6 @@ look like:
 DEPENDENCIES:
 --------------
 VOGUE depends on the biopython package for fasta sequence parsing.
-It also uses psyco to speed up the computation.
 
 
 
