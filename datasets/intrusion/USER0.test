@@ -1,0 +1,278 @@
+> USER0423
+elm exit
+> USER0424
+elm ssinfo fg exit
+> USER0425
+finger <1> finger <1> finger <1> elm exit
+> USER0426
+elm elm finger <1> finger <1> finger <1> cls ls ph <2> ph <2> cls ph <2> ssinfo exit
+> USER0427
+elm ls finger <1> finger <1> finger <1> finger <1> finger <1> finger <1> finger <1> ls cls
+> USER0428
+ssinfo
+> USER0429
+exit
+> USER0430
+ls lsa ls cd <1> ls cd <1> lsa vi <1> cp <2> ll <1> elm finger <1> exit
+> USER0431
+elm finger <1> fg rlogin <1> ssinfo exit
+> USER0432
+exit
+> USER0433
+elm exit
+> USER0434
+elm exit
+> USER0435
+lwinfo <1> lwinfo <1> lwinfo <1> lwinfo <1> cd <1> ll chmod <2> elm exit
+> USER0436
+elm exit
+> USER0437
+elm whereis <1> whence <1> where <1> finger <1> finger <1> mail <1> whereis <1> cd <1> ls cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> ls ls ls | mre ls | more man <1> cd <1> ls cd <1> ls ls | more ls cd <1> ls cd <1> ls cd <1> ls | more cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> ls ls | more cd <1> ls mail <1> ls cd <1> s ls cd <1> cd <1> ls cd <1> ls whereis <1> whereis <1> elm whereis <1> ls cd ls whereis <1> ls <1> cat <1> rm -f <1> rm -f <1> rm -rf <1> mv <2> mkdir <1> cd <1> tar <3> cd uuencode <2> > <1> mailx -s <2> < <1> elm whereis <1> cd <1> ls <1> ls <1> ssinfo alias <1> lwinfo lwinfo <1> lwinfo <1> lwpages lwinfo <1> elm lwinfo <1> fg exit
+> USER0438
+elm finger <1> finger <1> elm exit
+> USER0439
+elm cd <1> ls ls <1> cd <1> cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> rlogin <1> exit
+> USER0440
+ls vi <1> source <1> source <1> acroread
+> USER0441
+cd <1> ls cd <1> ls cd <1> ls source <1> cd source <1> source <1> cd <1> ls man <1> man <1> lpq -Pmsl22 man <1> cancel <1> lpq -Pmsl22 cancel <1> cancel <1> man <1> man <1> cancel -u <1> lpq -Pmsl20 lpq -Pmsl20 lwinfo <1> lpq -Pmsl20 lpq -Pmsl20
+> USER0442
+rlogin <1> exit
+> USER0443
+elm exit
+> USER0444
+elm
+> USER0445
+elm
+> USER0446
+elm ls elm finger <1> vi <1> exit
+> USER0447
+elm elm elm exit
+> USER0448
+elm lp -dmsl21 <1> lpq -P <1> cancel <1> lp -dmsl23 lpq -Pmsl23 lp -d <2> lpq -Pmsl23 lpq -Pmsl22 finger <1> finger <1> exit
+> USER0449
+lpq -Pmsl22 lpq -Pmsl23 cancel <1> lpq -Pmsl21 lp -dmsl21 <1> lpq -Pmsl21 lpq -Pmsl21 date lpq -Pmsl21 lpq -Pmsl21 lpq -Pmsl21 cancel <1> cancel <1> lpq -Pmsl21 lpq -Pmsl21 lpq -Pmsl21 lpq -Pmsl21 lpq -Pmsl21 cancel <1> exit
+> USER0450
+elm lpq -Pmsl21 lpq -Pmsl20 lpq -Pmsl22 lpq -Pmsl23 vi <1> lp -d <2> lpq -Pmsl22 lpq -Pmsl23 lpq -Pmsl22 finger <1> mail <1> date ls elm exit
+> USER0451
+elm finger <1> finger <1> finger <1> finger <1> chfg chfn exit
+> USER0452
+elm finger <1> fg vi <1> rm <1> vi <1> fg ls vi <1> fg exit
+> USER0453
+source <1> source <1> rlogin ` <1>
+> USER0454
+elm finger <1> finger <1> finger <1> uptime finger finger <1> finger <1> finger <1> ruptime ls elm fg cd <1> ls ll cd alias | more more <1> more <1> quota -v elm elm elm elm cd <1> vi <1> exit
+> USER0455
+source <1> source <1> source <1> ruptime | more finger <1> finger <1> finger <1> finger <1> finger <1> rlogin <1> 1 more <1> more <1> more <1> finger <1> finger <1> finger <1> ls lwinfo <1> lwinfo <1> lwinfo <1> ls vi <1> ls alias alias | more enscript -2rG -dmsl22 <1> lpq -Pmsl22 lpq -Pmsl23 xlock lwinfo <1> lwinfo <1> lwinfo <1> lwinfo <1> ls <1> vi <1> quota -v ruptime man <1> man <1> ls cd <1> ls cd <1> ls cd <1> ls vi <1> vi <1> back back cd man ` <1>
+> USER0456
+rlogin <1> xterm rlogin <1> xhost xhost <1> rlogin <1>
+> USER0457
+exit
+> USER0458
+netscape
+> USER0459
+source <1> source <1> ls rm <1> rm <1> more <1> rm <1> ls more <1> rm <1> ls rm <1> more <1> ls more <1> ls quota quota -v vi <1> rlogin <1>
+> USER0460
+finger <1> exit
+> USER0461
+rlogin <1> exit
+> USER0462
+elm ls finger <1> finger <1> mail <1> rm <1> ls date ll <1> exit
+> USER0463
+elm exit
+> USER0464
+ssinfo thor thorplus alias exit
+> USER0465
+exit
+> USER0466
+elm vi <1> alias enscript -2rG -dmsl20 <1> finger <1> finger <1> alias <1> fg finger <1> exit
+> USER0467
+elm finger <1> fg ls cd <1> ls cd <1> ls cd <1> ls diff <2> cd <1> cd <1> ls cd <1> cd <1> ls cd <1> cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> cd <1> ls ls cd <1> cd <1> cd <1> ls elm fg finger <1> fg cd <1> ls cd <1> ls ll ll <1> cd <1> ll fg more <1> more <1> rm <1> vi <1> rm <1> vi <1> more <1> ls <1> ls more <1> rm <1> more <1> ftp <1> elm fg ll chgrp <1> chgrp <2> ls ls finger <1> chgrp <2> chgrp <2> vi <1> more <1> more <1> rm <1> more <1> vi <1> more <1> rm <1> quota -v cd <1> ll cd <1> ll ls elm fg exit
+> USER0468
+elm exit
+> USER0469
+elm exit
+> USER0470
+elm finger <1> finger <1> finger <1> finger <1> fg finger <1> finger <1> finger <1> finger <1> finger <1> finger <1> finger <1> ls finger <1> ls finger <1> fg finger <1> finger <1> finger <1> fg cd <1> ls ll cd <1> ls cd <1> cd <1> cd <1> ls ll cd <1> ls ll more <1> cd <1> ls cd <1> ls cd cd <1> ls cd <1> ls cd <1> ls cp <2> vi <1> fg ls fg exit
+> USER0471
+ls exit
+> USER0472
+exit
+> USER0473
+vi <1> finger <1> exit
+> USER0474
+elm ruptime finger rlogin <1> fg elm elm exit
+> USER0475
+ls cd <1> ls lp -dme244hp1 <1> lp -dme244hp2 <1> rm <1> rm <1> exit
+> USER0476
+mail cd <1> ls ftp <1> ls rm <1> rm <1> exit
+> USER0477
+lpq -Pme244hp lpq -Pme244hp man <1> ls finger <1> finger <1> mail <1> finger <1> finger <1> finger <1> date date date
+> USER0478
+ls cd <1> ls exit
+> USER0479
+elm ls rlogin <1> ls cd <1> ls ll lp -dlaebb280hp1 <1> lp -d <2> lp -d <2> ls rm <1> rm <1> exit
+> USER0480
+finger <1> exit
+> USER0481
+exit
+> USER0482
+exit
+> USER0483
+elm exit
+> USER0484
+finger <1> vi <1> cls r <1> elm exit
+> USER0485
+finger <1> elm exit
+> USER0486
+elm exit
+> USER0487
+elm rlogin <1> fg vi <1> elm fg ls quota -v cp <2> quota -v ls rm <1> exit
+> USER0488
+ls cd <1> ls ftp <1> exit
+> USER0489
+ls vi <1> vi <1> finger <1> finger <1> finger <1> finger <1> finger <1> exit
+> USER0490
+elm finger <1> elm exit
+> USER0491
+finger <1> finger <1> finger <1> finger <1> exit
+> USER0492
+whereis <1> xhost whence <1> exit
+> USER0493
+source <1> source <1> acroread acroread & finger <1> finger <1> lpq -Pmsl22 lpq -Pmsl20 lpq -Pmsl21 lpq -Pmsl21 lpq -Pmsl20 finger <1> finger <1> exit
+> USER0494
+source <1> source <1> ls mail <1> exit
+> USER0495
+elm exit
+> USER0496
+elm exit
+> USER0497
+ls cd <1> ls vi <1> ls exit
+> USER0498
+vi <1> cd <1> vi <1> exit
+> USER0499
+elm exit
+> USER0500
+ls -a cd <1> ls ll cd <1> ls -l ls -a quota -v exit
+> USER0501
+elm exit
+> USER0502
+elm exit
+> USER0503
+elm exit
+> USER0504
+elm exitexit exit
+> USER0505
+source <1> source <1> uptime finger ps -ef | more ps -aux | more rlogin <1> me uptime exit
+> USER0506
+uptime finger finger <1> rlogin <1> ls exit
+> USER0507
+elm exit
+> USER0508
+source <1> source <1> rlogin <1> exit
+> USER0509
+source <1> source <1> ls rm <1> xhost whereis <1> xhost <1> rlogin <1> exit
+> USER0510
+rlogin <1>
+> USER0511
+finger <1> elm lpq -Pmsl2 ftp <1> ls wc <1> lp -d <2> cancel <1> fg alias <1> ls unalias <1> alias alias | more enscript -h enscript -rG -dmsl21 <1> enscript -G -dmsl21 <1> elm ls wc <1> enscript -G -dmsl21 <1> enscript -2rG -dmsl21 <1> fg elm ls cancel <1> lpq -Pmsl22 cancel <1> lpq -Pmsl22 cancel <1> fg
+> USER0512
+rlogin <1> exit
+> USER0513
+ruptime ps -aux | more kill -9 <1> source <1> ssource <1> source <1> netscape
+> USER0514
+elm ls cp <2> ftp <1> finger date elm finger <1> fg finger <1> finger <1> fg exit
+> USER0515
+elm fin finger <1> ls diff <2> rm <1> exit
+> USER0516
+elm exit
+> USER0517
+elm cd <1> cd <1> vi <1> ls cd <1> cd <1> ls ll elm cd <1> cd <1> ls cd <1> chmod <2> cd <1> cd cd <1> chmod <2> vi <1> ls chmod <2> cd <1> chmod <2> ls cp <2> quota -v ls finger <1> exit
+> USER0518
+source <1> source <1> uptime finger finger <1> ruptime | more ls elm ls cd <1> ls ll <1> cd rlogin <1> rlogin <1> exit
+> USER0519
+elm elm ls ls -a vi <1> mkdir <1> exit fg ls <1> exit
+> USER0520
+source <1> source <1> source <1> xhost <1> rlogin <1> exit
+> USER0521
+source <1> source <1> netscape exit
+> USER0522
+source <1> source <1> cd <1> cd <1> ls cd <1> ls cd <1> ls ll xlock uptime who xlock finger <1> cls cd whereis <1> rlogin <1> ls whence <1> alias <1> unalias <1> rm <1> rlogin <1> xhost <1> rlogin <1> xlock man <1> cd <1> ls vi <1> exit
+> USER0523
+ls ls <1> cat <1> cat <1> rm -f <1> rm -f <1> rm -rf <1> mv <2> cd <1> tar <3> cd uuencode <2> > <1> mailx -s <2> < <1> elm ftp <1> enscript_msl21 <1> ls <1> rm <1> fg man <1> fg cd <1> ls vi <1> fg elm elm exit
+> USER0524
+lpq -Pmsl21 cancel <1> cancel <1> ftp <1> cat <1> cat <1> | more enscript -dmsl23 <1> exit
+> USER0525
+who setenv <2> netscape &
+> USER0526
+rlogin <1>
+> USER0527
+elm exit
+> USER0528
+elm lpq -Pmsl21 lpq -Pmsl20 lwinfo <1> lwpages fg date exit
+> USER0529
+elm ssinfo fg ls cd <1> ls vi <1> fg vi <1> fg finger <1> finger <1> finger <1> vi <1> ls ls fg vi <1> cd fg cd <1> ll cd <1> ll exit fg cd fg exit
+> USER0530
+elm finger <1> finger <1> ls cd <1> ls vi <1> lpq -Pmsl22 lpq -Pmsl23 lpq -Pmsl22 exit fg exit
+> USER0531
+elm finger <1> rlogin <1> fg ls gunzip <1> ls quot <1> quota -v elm -f <1> fg elm cat <1> fg elm finger <1> fg ver version rlogin <1> fg ls cd <1> ls vi <1> fg ls j vi <1>
+> USER0532
+exit
+> USER0533
+elm exit
+> USER0534
+elm set <3> elm ls cd <1> ls vi <1> exit
+> USER0535
+elm exit
+> USER0536
+mail exit
+> USER0537
+cd <1> ls vi <1> elm -f <1> cd <1> ls cd <1> ls exit
+> USER0538
+elm exit
+> USER0539
+elm exit
+> USER0540
+set <3> elm set <3> elm elm exit
+> USER0541
+elm exit
+> USER0542
+elm exit
+> USER0543
+elm ls rm <1> rm <1> rm <1> more <1> ls rlogin <1> rlogin <1> exit
+> USER0544
+elm
+> USER0545
+finger <1> finger <1> finger <1> man <1> elm
+> USER0546
+elm exit
+> USER0547
+elm exit
+> USER0548
+elm exit
+> USER0549
+elm man <1> man <1> fg exit
+> USER0550
+finger uptime rlogin <1>
+> USER0551
+elm exit
+> USER0552
+rlogin <1> rlogin <1>
+> USER0553
+rlogin -l <2>
+> USER0554
+vi <1> vi <1> exit
+> USER0555
+rlogin <1>
+> USER0556
+xlock finger <1> finger <1> finger <1> finger <1> finger <1> finger <1> finger <1> xhost <1> cls exit `
+> USER0557
+rlogin <1>
+> USER0558
+ruptime who ps -aux ps -ef | more finger <1> finger <1> ps -ef | more mail <1> mailx <1> finger <1> ruptime finger <1> uptime finger rlogin <1> exit
+> USER0559
+elm exit
+> USER0560
+xlock exit
+> USER0561
+finger finger <1> finger <1> finger <1> q quit exit

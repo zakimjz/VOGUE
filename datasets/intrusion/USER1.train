@@ -1,0 +1,734 @@
+> USER10
+date cd <1> ls cd <1> ls vi <1> setenv <2> ex3.out setenv <2> ex3.out vi <1> ex3.out setenv <2> ex3.out ex3.out ex3.out ex3.out ex3.out ex3 ex3.out
+> USER11
+cd <1> ls vi <1> ex3 ex3.out setenv <2> vi <1>
+> USER12
+ls cd <1> ls cd <1> ls cd <1> ls vi <1> exit
+> USER13
+cd <1> cd <1> ls vi <1> vi <1> vi <1> ls vi <1> MCC -o <2> ls ls ls cp <2> ls cp <2> vi <1> ls cp <2> cp <2> cp <2> vi <1> vi <1> vi <1> setenv <2> ex3.out ls setenv <2> ex3.out limit rlogin <1> exit
+> USER14
+finger <1> ls cd <1> cd <1> cd <1> vi <1> setenv <2> ls vi <1> vi <1> ls ex3.out vi <1> ex3.out ex3.out ls vi <1> ls setenv <2> ex3.out ls vi <1> ls ex3.out ex3.out vi <1> ex3.out vi <1> vi <1> ex3 ex3.out vi <1> ex3.out vi <1> ex3.out vi <1> ls vi <1> vi <1> ls ex3.out vi <1> vi <1> ex3.out ls vi <1> ls cd <1> ls vi <1> vi <1> ls ll <1> rm <1> vi <1> ls cd <1> ls ll <1> rm <1> ex3.out ls MCC -o <2> vi <1> ls MCC -o <2> MCC -o <2> ex3.out ex3.out vi <1> MCC -o <2> ex3.out vi <1> MCC -o <2> ex3.out ex3.out ex3.out vi <1> ls cd cd <1> ls ll more <1> vi <1> cd exit
+> USER15
+rlogin <1> rlogin <1> r <1> cd <1> ls cd <1> ls rm <1> cvd <1> cvd <1>
+> USER16
+setenv <2> xhost <1> rlogin <1> finger <1> r <1> finger <1> finger <1> finger <1> cls finger <1> finger <1> finger <1> fg exit
+> USER17
+<GENSYM:0>/env -signal <5> setenv <2> <GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5>
+> USER18
+finger <1> rlogin <1>
+> USER19
+cd <1> cvstatic
+> USER110
+cd <1> ls cd <1> ls cd <1> ls MCC -o <2> setenv <1> setenv <2> ex3.out cd <1> ls vi <1> vi <1> ls dt1 MCC -o <2> dt1 finger <1> cd <1> cd <1> cd <1> ls cd <1> ls cvd <1>
+> USER111
+<GENSYM:0>/env -signal <5>
+> USER112
+<GENSYM:0>/env -signal <5> setenv <2> <GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5>
+> USER113
+r <1> exit
+> USER114
+<GENSYM:0>/env -signal <5>
+> USER115
+rlogin <1>
+> USER116
+rlogin <1>
+> USER117
+cd <1> ls vi <1> ls whereis <1> which <1> whence <1> cd <1> ls <1> ls -l back vi <1> ls vi <1> vi <1> ls vi <1> MCC -o <2> ex1.out vi <1> MCC -o <2> & ls vi <1> MCC -o <2> ex2.out vi <1> ls MCC -o <2> ex2.out more <1> vi <1> MCC -o <2> ex2.out vi <1> MCC -o <2> ex2.out ls more <1> ls mkdir <1> cp <2> vi <1> MCC -o <2> & ls MCC -o <2> cp <2> ex*.data <1> cp <2> cp <2> cp <2> cp <2> cd <1> ls rm <1> cd <1> tar <2> tar <3> ls more <1> ls uuencode <2> ls more <1> uuencode <1> > <1> ls more <1> rm <1> uuencode <1> > <1> ls more <1> rm <1> mail <1> mail -s <2> < <1> mail -s <2> < <1> ftp <1> finger <1> date cls rlogin <1> exit
+> USER118
+man <1> man <1> man <1> | less man <1> man <1> man <1> man <1>
+> USER119
+cd <1> cvd <1>
+> USER120
+<GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5>
+> USER121
+r <1> finger <1>
+> USER122
+rlogin <1>
+> USER123
+rlogin <1> cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls ls <1> cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> cd <1> ls cd <1> ls ls <1> cd <1> ls cd <1> ls cd <1> ls
+> USER124
+r <1> exit
+> USER125
+exit
+> USER126
+vi <1> vi <1> source <1> cd <1> ls cd <1> ls cd <1> ls cd <1> ls emacs <1>
+> USER127
+ls cd <1> sl ls cd <1> ls emacs <1> whereis <1> cd <1> cd <1> ls cd <1> ls ls <1> cd <1> ls cd <1> ls cd <1> ls ls <1> ls -l <1> path $PATH source <1> cd cd <1> ls vi <1> emacs <1>
+> USER128
+cd <1> ls ls <1> cd <1> ls cd <1> ls cd <1> ls -R <1> ls -R <1> ls -R ls -R | grep <1> ls -R | grep <1> ls cd <1> ls cd <2> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls more <1> cd <1> ls cd <1> ls cat <1> | less more <1>
+> USER129
+setenv <2> cd <1> ls cd <1> ls
+> USER130
+ls cd <1> ls mailx <1> cd ls <1> exit
+> USER131
+ls cd <1> ls exit
+> USER132
+cd <1> ls cd <1> ls emacs <1> who vi <1> ls cd <1> ls cd <1> ls ls | more more <1> more <1> ls ls cd <1> ls cd <1> ll <1> ls cd <1> ll <1> diff <2> cd <1> cd <1> diff <2> vi <1> ls ls -l <1> diff <2> vi <1> ls cd <1> ls cd <1> ls cd <1> ls diff <2> ll vi <1> cd <1> ls cd <1> vi <1> ls vi <1> ls vi <1> ls <1> cd <1> ls cd <1> ls ls -R | grep <1> ls -R ls ls -R > <1> vi <1> ls mv <2> cd <1> vi <1> vi <1>
+> USER133
+cd <1> cd <1> ls cd <1> ls vi <1> ls vi <1>
+> USER134
+cd <1> ls cd <1> cd <1> ls cd <1> ls cd <1> more <1> cd <1> vi <1> procmail fg ls cd <1> ls cd <1> vi <1> lp lwinfo lp -d
+> USER135
+ls cd <1> ls cd <1> cd <1> ls <1> vi <1> ls vi <1> ls cd <1> ls grep <2> vi <1> ls cd <1> ls cd <1> ls ls -l <1> cd <1> ls cd <1> ls cd <1> vi <1>
+> USER136
+ls vi <1>
+> USER137
+ls ftp <1>
+> USER138
+cd <1> ls cd <1> ls vi <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls vi <1> exit
+> USER139
+vi <1> source <1> ls findfile <1> findtext <1> cd <1> ls cd <1> ls findtext <1> ls findtext <1> findtext <1> findtext <1> alias <1> findtext <1> findfile <1> findtext <1> exit
+> USER140
+rlogin <1>
+> USER141
+cd <1> ls -l <1> > <1> ls -l ls -l > <1> ls -l <1> cd tar -I <3> man <1> man <1> ls mkdir <1> mkdir <1> cd <1> ls -l | wc ls | more cp <2> cp <2> cp <2> cp <2> cp <2> ls -l <1> | wc ls -l <1> ls -l <1> ls -l | more cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> mkdir <1> mv <2> cd <1> mv <2> mkdir <1> ls cd <1> ls ls finger <1> cd <1> ls ll cd <1> ls cd <1> cd cd <1> ls cd <1> ls vi <1> ls cd ls vi <1> date ls cd <1> ls rm <1> uptime uptime ls cp <2> vi <1> tail <1> ls rm <1> exit
+> USER142
+cd <1> ls vi <1> exit
+> USER143
+cd <1> vi <1> cd rlogin <1> ping r <1> rlogin <1> cd <1> cd <1> ll <1> exit
+> USER144
+finger exit
+> USER145
+cd <1> ls tar <3> cd <1> ls ll <1> date vi <1> rm <1> ls cd <1> rm <1> ls tar <3> ls <1> rm <1> tar <3> rm <1> tar <3> rm <1> tar <3> rm <1> tar <3> rm <1> tar <3> rm <1> ls cd <1> ls man <1> ls uuencode <1> > <1> ll ls rm <1> man <1> man <1> uuencode <1> ls vi <1> ls cp <2> uuencode <2> uuencode <1> ls uuencode <2> ls uuencode <1> uuencode <2> > <1> uuencode <2> > <1> uuencode <2> > <1> uuencode <2> > <1> ls uuencode <2> > <1> uuencode <2> > <1> uuencode <2> > <1> uuencode <2> > <1> uuencode <2> > <1> mailx <1> ls <1> mail -s <2> < <1> mailx -s <2> < <1> mailx -s <2> < <1> mailx -s <2> < <1> mailx -s <2> < <1> mailx -s <2> < <1> mailx -s <2> < <1> mailx mailx -s <2> < <1> mailx -s <2> < <1> ls ls ls df rm <1> ls ls ls rmdir <1> rmdir <1> ls cd <1> cd <1> vi <1> ls cd cd <1> cd <1> ls vi <1> back cd cd <1> cd <1> fg ls vi <1> cd vi <1> source <1> ls cd <1> ls rm <1> cd <1> ls vi <1> ls ll <1> ls cd cd <1> date uptime at <1> at -l <1> exit
+> USER146
+xhost <1> rlogin <1> exit
+> USER147
+uptime cd <1> ls ps -ef | grep <1> cd ls cd <1> cp <2> vi <1> more <1> exit
+> USER148
+cd <1> vi <1> smake ls smake > <1> rm <1> smake > <1> more <1> vi <1> rm <1> smake > <1> ls vi <1> ls smake > <1> vi <1> rm <1> smake > <1> vi <1> rm <1> smake > <1> rm <1> ls cd <1> ls cd <1> ls date at <1> at -l <1> quit exit
+> USER149
+ls ls cd <1> ls cd <1> ls vi <1> cd <1> more <1> vi <1> vi <1> vi <1> more <1> vi <1> more <1> more <1> more <1> more <1> more <1> more <1> more <1> exit
+> USER150
+ls cd <1> vi <1> cd ls cd <1> ls cd <1> ls vi <1> cd cd <1> ls cd <1> ls cd <1> cd <1> vi <1> ls vi <1> cd cd <1> vi <1> cd <1> more <1> exit
+> USER151
+finger exit
+> USER152
+who uptime exit
+> USER153
+rlogin <1> ping <1> whereis <1> <GENSYM:1>/ping <1> rlogin <1> exit
+> USER154
+r <1> exit
+> USER155
+ls cd <1> ls vi <1> ls ls cd <1> ls cd <1> ls vi <1> ls ll chmod <2> ll | more ls ls | more chmod <2> ls | more ls vi <1> ls cd <1> ls smake cd cd <1> ls date at <1> at -l <1> exit
+> USER156
+ls rmdir -rf <1> rm -rf <1> ls cd <1> ls cd <1> ls vi <1> ls cd <1> ls cd <1> vi <1> ls rm <1> cd <1> ls rm <1> cd <1> rmdir <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> vi <1> exit
+> USER157
+cd <1> cd <1> vi <1> exit
+> USER158
+uptime cd <1> ll <1> vi <1> ls cd <1> ls ls <1> ls <1> diff <2> ls <1> diff <2> diff <2> diff <2> diff <2> ll <1> diff <2> ls <1> diff <2> diff <2> diff <2> diff <2> cp <2> diff <2> cp <2> diff <2> cp <2> diff <2> mail <1> cd <1> ls ll uptime ps -ef | more cd ls uptime exit
+> USER159
+ps uptime exit
+> USER160
+vi <1> limit ps -ef | grep <1> | more kill -9 <1> ps -ef | grep <1> | more ps -ef | grep <1> | more kill -9 <1> ps -ef | grep <1> | more kill -9 <1> kill -9 <1> kill -9 <1> kill -9 <1> ps -ef | grep <1> | more kill -9 <1> kill -9 <1> kill -9 <1> ps -ef | grep <1> | more kill -9 <1> kill -9 <1> kill -9 <1> ps -ef | grep <1> | more date date cd <1> cd cd <1> cd <1> cd <1> rlogin <1> exit
+> USER161
+cd <1> ls ll <1> tail <1> exit
+> USER162
+uptime ps -ef | grep <1> cd <1> ls cd <1> ls ll back ls date date at <1> at -1 <1> date at -l <1> j date uptime ps -ef | grep <1> ps -ef | grep <1> uptime exit
+> USER163
+ls cd <1> ls uptime ps -ef | grep <1> rlogin <1> cd <1> ll <1> vi <1> exit
+> USER164
+uptime finger ps -ef | grep <1> exit
+> USER165
+rlogin <1> ping <1> whereis <1> <GENSYM:1>/ping <1> rlogin <1> rlogin <1> r <1> ping <1> whereis <1> <GENSYM:1>/ping <1> <GENSYM:1>/ping <1> <GENSYM:2>/mow <GENSYM:1>/ping <1> finger <1> exit
+> USER166
+ls cd <1> ls cd <1> cd ls rm -rf <1> exit
+> USER167
+cd <1> ls ll cd <1> ll cd <1> ll cd <1> ls cd <1> ls cd <1> ls cd <1> cd <1> ls ll cd ls cd <1> ls cd <1> ls cp <2> cd cd <1> date
+> USER168
+cd <1> ls vi <1> vi <1> exit
+> USER169
+ls cd <1> ls cd <1> ll <1> cp <2> cp <2> ls <1> cd.. cd <1> cd <1> findfile <1> cd <1> cp <2> ls -l <1> cd <1> ls ll chmod <2> chmod <2> chmod <2> cd <1> ll <1> ll <1> cp <2> cd cd <1> date at <1> at -l <1> exit
+> USER170
+cd <1> ls ll <1> vi <1> ll cd <1> cd <1> makeLinks | nawk <1> rm ` <GENSYM:3>/makeLinks | nawk <1> ` makeLinks ll <1> cd <1> ls ll -R ls ll <1> ll <1> chmod <2> ls chmod <2> cd <1> ls -l | more chmod <2> ls -l | more back chmod <2> ls chmod <2> chmod <2> chmod <2> chmod <2> chmod <2> chmod <2> cd <1> ll cd <1> ls ll <1> ll <1> ll <1> ll <1> ls ll <1> ll ls ll <1> cd <1> ll chmod <2> chmod <2> cd <1> ls ll cd <1> ls ll <1> ll | more ll <1> | more chmod <2> ll <1> | more ls ll <1> cd <1> ls ll | more chmod <2> chmod <2> ll ll | more ls cd <1> ls cd <1> ls ll cd <1> cd <1> ll cd <1> ls cd <1> ll cd <1> ls ll more <1> ls chmod <2> cd <1> ls cd <1> ll cd <1> cdlib cd <1> cd <1> ls ll cd <1> ll cd <1> cd <1> ll cd <1> ll cd <1> ls ll chmod <2> chmod <2> cd <1> ls cd <1> ll cd <1> ls cd <1> ll ll | more chmod <2> ll | more chmod <2> chmod <1> chmod <2> chmod <3> ll | more cd <1> ls ll cd <1> ll cd <1> ls cd <1> cd <1> ls cd <1> ll cd <1> ll <1> ll <1> ls cd <1> ll cd <1> ll cd <1> ll cd <1> cd <1> ll cd <1> date at <1> at -l <1> ps -ef | grep <1> ls cd ls vi <1> cp <2> vi <1> cd <1> uptime ls ll <1> uptime finger <1> rlogin <1> df uptime at uptime ll <1> uptime ll <1> ps -ef | grep <1>
+> USER171
+cd <1> cd <1> ls cd <1> ls vi -R <1> vi -R <1> vi -R <1> vi -R <1> ls <1> vi -R <1> vi -R <1> vi -R <1> vi -R <1> cd <1> cd <1> ls <1> vi -R <1> uptime ls cd <1> ps
+> USER172
+cd <1> ls cd <1> ls cd <1> ls cd <1> ll df cd df exit
+> USER173
+uptime cd <1> ls ll <1> rlogin <1> rlogin -l <2>
+> USER174
+uptime ps -ef | grep <1> exit exit
+> USER175
+uptime finger <1> uptime ls ps -ef ps -ef | grep <1> ps -ef | grep <1> rlogin <1> uptime exit
+> USER176
+uptime ls cd <1> ls date at <1> at -l <1> date ps -ef | grep <1> ps-ef ps -ef finger <1> date uptime uptime cd <1> tail <1> tail <1> tail <1> tail <1> tail <1> tail <1> uptime tail <1> ll <1> exit
+> USER177
+uptime ps -ef ps -ef | grep <1> rlogin <1> exit
+> USER178
+ls uptime cd <1> ll <1> exit
+> USER179
+uptime exit
+> USER180
+cd <1> ll <1> cd <1> cd <1> cd <1> vi <1> ll ll <1> ll | more cd cd <1> ll <1> exit
+> USER181
+cd <1> ls ll <1> ls <1> ll <1> date ll <1> exit
+> USER182
+cd <1> ll <1> vi <1> exit
+> USER183
+rlogin <1> rlogin <1>
+> USER184
+cd <1> vi <1> ls cd <1> ls vi <1> smake <1> cd <1> ls cd <1> cd <1> ls vi <1> ls makeDSOs cd <1> ls cd <1> smake <1> cd <1> ls vi <1> smake <1> smake <1> ll <1> ll <1> cp <2> smake vi <1> vi <1> smake <1> Inducer Inducer setenv <2> Inducer cd ls cd <1> ls mv <2> myInducer rm <1> myInducer rm <1> rm <1> cd <1> ls cd <1> ls <1> ll <1> rm <1> df set <2> Inducer setenv <2> setenv <2> Inducer setenv <2> Inducer setenv <2> Inducer ls ll <1> $DISPLAY_STRUCT setenv <2> cd Inducer cd <1> Inducer cd vi <1> $PATH Inducer cd <1> Inducer $DISPGRAPH ll <1> dot <1> dot dot -h dot -? dot exit
+> USER185
+cd <1> cd <1> ls ll cd <1> cd <1> ls vi <1> cd <1> ll ll <1> cd <1> ls more <1> ls cd <1> ll cd <1> vi <1> vi <1> cd <1> ls vi <1> ls cd <1> ls vi <1> $DIRNAME smake <1> smake <1> vi <1> vi <1> man <1> make -f <2> cd <1> vi <1> cd <1> ls cd <1> ll cd <1> cd <1> cd <1> cd <1> l ls more <1> cd <1> ls vi <1> uptime cd <1> ls ll <1> ll <1> ls | more smake <1> smake <1> smake <1> smake <1> smake <1> ll <1> rm <1> smake <1> cp <2> ls <1> | more ls <1> ll <1> | more ll <1> | more ll <1> diff <2> ls <1> ls <1> | more diff <2> uptie uptime ps -ef | grep <1> uptime ps -ef | grep <1> ps -ef | grep <1> cd cd <1> ls cd <1> ls cd <1> ls vi <1> ls cd cd <1> ls cd <1> ls vi <1> cd <1> ls ll <1> ls <1> cd <1> ls cd <1> cd <1> ls vi <1> smake vi <1> smake <1> vi <1> smake <1> smake <1> cd <1> ls rm <1> smake <1> smake <1> rm <1> smake <1> date
+> USER186
+r <1> exit
+> USER187
+cd <1> ls ping <1> whereis <1> <GENSYM:1>/ping <1> finger <1> exit
+> USER188
+cd <1> ls cd <1> ls cd <1> ls cd <1> cd <1> vi <1> Inducer rm <1> cd cd <1> ls cd <1> ls Inducer -o <1> Inducer -o <1> ls vi <1> Inducer -o <1> ls more <1> Inducer -o <1> ls Inducer -o <1> cvd -o <2> cat <1> ls ls cd <1> ls cd <1> cd <1> cd <1> ls cd <1> cd <1> ls more <1> more <1> more <1> more <1>
+> USER189
+Inducer ls cd <1> mkdir <1> cd <1> Options vi <1> Inducer -o <1> rm <1> Inducer rm <1> ls vi <1> mv <2> cp <2> vi <1> Inducer -o <1> cvd <1> cd cd <1> vi <1> cvd <1> ls cd <1> cd <1> ls cd <1> ls vi <1> smake <1> cd <1> cd <1> cd <1> cvd -o <2> cvd <1> ls smake <1> vi <1> ll <1> ll <1> ll <1> | more mv <2> smake <1> ll <1> Inducer cvd <1> cd <1> ls cd <1> ls cd <1> ls vi <1> cd <1> ls cd <1> ls ll <1> vi <1> ll <1> cd finger <1> cd <1> ls ll <1> ls <1> cd ls -R | grep <1> findfile <1> rm <1> rm <1> <GENSYM:4>/core <GENSYM:5>/core <GENSYM:6>/core <GENSYM:7>/core <GENSYM:8>/core <GENSYM:9>/core <GENSYM:10>/core <GENSYM:11>/core <GENSYM:4>/core <GENSYM:5>/core <GENSYM:6>/core <GENSYM:7>/core <GENSYM:8>/core <GENSYM:9>/core <GENSYM:10>/core findfile <1> cd <1> rm <1> ls cd <1> ll cd findfile <1> df cd <1> ls diff <2> cp <2>
+> USER190
+cd <1> ls ll <1> more <1> exit
+> USER191
+cd <1> ls vi <1> vi <1> exit
+> USER192
+<GENSYM:0>/env -signal <5> Inducer -o <1> setenv <2> setenv <2> setenv <2> setenv <2> <GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5> setenv <2> <GENSYM:0>/env -signal <5>
+> USER193
+cd <1> cat <1> Inducer -o <1> ls Inducer -o <1> vi <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> ls cd <1> ls cd <1> ls rm <1> cp <2> cd <1> ls rm <1> rm <1> vi <1> mv <2> largest_child > <1> vi <1> ls vi <1> ls rm <1> largest_child > <1> rm <1> date at <1> at -l <1> ll ll rm <1> ls ll ll rm <1> uptime ps -ef | grep <1> ps -ef | grep <1> ll AccEst Inducer vi <1> uptime ps -ef | grep <1> ps -ef | grep <1> ps -ef | grep <1> ps -ef | grep <1> ps -ef | grep <1> date ls at <1> at -l <1> rm <1> date date date ll ll ll at -r at <1> at -l <1> ls ls head <1>
+> USER194
+setenv <2> setenv <2> setenv <2> setenv <2> Inducer <GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5>
+> USER195
+cd <1> ls <1> cd cd <1> ls cd <1> ls vi <1> ls ll <1> rm <1> ll <1> cd <1> cd cd <1> vi <1> chmod <2> ll <1> ll <1> fg fg exit
+> USER196
+ls cd <1> vi <1> vi <1> vi <1> exit
+> USER197
+ls cd <1> vi <1> vi <1> vi <1> vi <1> vi <1> ll ls | more more <1> whereis <1> cd <1> findfild <1> findfile <1> cd <1> vi <1> cd <1> vi <1> vi <1> findtext <1> cd cd <1> cd <1> vi <1> cd <1> vi <1> cd <1> cd <1> cd <1> ls cd <1> vi <1> cd <1> ls vi <1> vi <1> findtext <1> vi <1> vi <1> ls vi <1> vi <1> exit
+> USER198
+ls cd <1> vi <1> cd <1> ls cd <1> ls cd <1> ls vi <1> exit
+> USER199
+rlogin <1> exit
+> USER1100
+r <1> exit
+> USER1101
+cd <1> vi <1> exit
+> USER1102
+cd <1> ls vi <1> ls cd <1> ls cd <1> findfile <1> cd <1> vi <1> cd <1> findtext <1> cd <1> vi <1> fildtext <1> findtext <1> findtext <1> vi <1> vi <1> exit
+> USER1103
+cd <1> ls cd <1> vi <1> exit
+> USER1104
+cd <1> ls vi <1> smake <1> smake <1> smake <1> smake <1> who finger <1> ps -ef | more ps -ef | more finger <1> smake <1> smake <1> touch <1> smake <1> smake <1> smake <1> xv xview cd <1> cd <1> findtext <1> exit
+> USER1105
+cd <1> ls cd <1> ls cp <2> ls c4.5 -u -v -f <2> c4.5 -u -v -f <2> c4.5 -u -v -f <2> c4.5 -u -v -f <2> > <1> vi <1> cd set <2> Inducer setenv <2> setenv <2> setenv <2> set <2> setenv <2> Inducer rm <1> exit
+> USER1106
+cd <1> cd <1> ls vi <1> Inducer -o <1> vi <1> Inducer -o <1> vi <1> Inducer -o <1> vi <1> ls rm <1> Inducer -o <1> Inducer -o <1> vi <1> Inducer -o <1> vi <1> Inducer -o <1> cd <1> cd <1> ls ls | more rm <1> findfile <1> cd <1> findfild <1> findfile <1> cd <1> ls ll ls cd <1> cd <1> ls cd <1> ID3 ID3 -o <1> exit
+> USER1107
+cd <1> ls vi <1> ls more <1> ls more <1> ls more <1> ls rm <1> more <1> rm <1> ls rm <1> ls finger finger <1> finger <1> rlogin <1> netscape cd cd <1> ls whereis <1> cd <1> ls cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> cd <1> cd <1> ls ls cd <1> cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> cd <1> cd <1> ls cd <1> cd <1> ls cd <1> cd <1> ls cd <1> cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> ls ls <1> cd <1> ls cd <1> ls cd <1> findfile <1> cd <1> ls cd <1> cd <1> ls ll <1> netscape cd <1> ls cd <1> ls ll cd <1> ls cd <1> ls cd ls ps -ef | more cd <1> ls ll cd <1> ls ll cd <1> ll cd <1> ll date cd <1> ls cd <1> ls ll cd <1> ls cd <1> cd <1> ll ls cd <1> ls ll cd <1> ls su cd <1> cd <1> ls cd <1> cd cls exit
+> USER1108
+whoami exit
+> USER1109
+who cd <1> cd <1> ll date rm <1> exit
+> USER1110
+rlogin <1> exit
+> USER1111
+cd <1> ls cd <1> ls vi <1> cd <1> findtext <1> cd <1> ls <1> ls <1> | more vi <1> smake <1> smake touch <1> smake <1> smake <1> vi <1> smake <1> vi <1> smake <1> vi <1> vi <1> smake <1> vi <1> smake <1> vi <1> smake <1> vi <1> smake <1> smake vi <1> ls <1> mv <2> ls <1> ls <1> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> vi <1> ls diff <2> smake vi <1> vi <1> cd <1> vi <1> ls smake smake <1> cd cd <1> more <1>
+> USER1112
+cd <1> ls cd <1> ls more <1> c4.5 -u -v -f <2> > <1> vi <1> vi <1> vi <1> ls vi <1> cd cd <1> ls cd <1> cd <1> ls cd <1> ls c4.5.c vi <1> ls vi <1> ls cd ls uptime who cd <1> ls cd <1> ls Inducer -o <1> vi <1> Inducer -o <1> cd cd <1> smake <1> ls <1> ls <1> | more ls <1> smake <1> cvd <1>
+> USER1113
+finger <1> r <1> exi exit
+> USER1114
+r <1> exit
+> USER1115
+setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> <GENSYM:0>/env -signal <5> setenv <2> <GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5>
+> USER1116
+r <1> cd <1> ls cd <1> ls ls <1> ls <1> ls <1> cp <2> cp <2> cp <2> cp <2> r <1> exit
+> USER1117
+exit
+> USER1118
+uptime cd <1> cd <1> vi <1> ll <1> vi <1> smake <1> smake <1> cd <1> cd <1> ls Inducer -o <1>
+> USER1119
+ls cd <1> ls setenv <2> setenv <2> ls vi <1> mv <2> cp <2> vi <1> Inducer -o <1> cd ls cd <1> ls date vi <1> ls vi <1> back cd <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> setenv <2> setenv <2> setenv <2> Inducer -o <1> exit
+> USER1120
+cd <1> vi <1> smake <1> vi <1> smake <1> vi <1> smake <1> vi <1> vi <1> smake smake <1> vi <1> smake <1> exit exit
+> USER1121
+ls cd <1> ls cd <1> cd <1> ls Inducer -o <1> setenv <2> ls setenv <2> Inducer -o <1> Inducer -o <1> setenv <2> Inducer -o <1> setenv <2> setenv <2> Inducer -o <1> exit
+> USER1122
+rlogin <1>
+> USER1123
+uptime rlogin <1> rlogin <1> exit
+> USER1124
+cd <1> ls cd <1> ls more <1> more <1> cvd <1> cd <1> ls ls <1> more <1> cvd <1> cd cd <1> ls Inducer -o <1> setenv <2> Inducer -o <1> ls more <1> Inducer -o <1> setenv <2> Inducer -o <1> > <1> diff <2> Inducer -o <1> setenv <2> Inducer -o <1> setenv <2> Inducer -o <1>
+> USER1125
+cd ls cd <1> ls cd <1> Inducer -o <1> <GENSYM:0>/env -signal <5> cd <1> ls cd <1> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> <GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5> <GENSYM:0>/env -signal <5>
+> USER1126
+cd <1> ls mv <2> cd <1> ls who finger <1> finger <1> finger <1> ls more <1> rm <1> ls more <1> ls more <1> vi <1> cd cd <1> ls smake <1> cd <1> smake <1> cd <1> smake <1> cd <1> ls ls cd <1> ls more <1> makeDSOs ls more <1> ls more <1> ls cd <1> ls cd <1> ls cd <1> smake smake <1> cd <1> smake <1> cd <1> ls smake <1> cd <1> ls cd <1> ls smake <1> cd <1> ll smake <1> vi <1> smake <1> cd <1> cd <1> smake <1> smake <1> smake <1> smake <1> smake <1> smake <1> smake <1> cd <1> ls vi <1> ls cd <1> cd <1> vi <1> smake <1> vi <1> vi <1> smake <1> vi <1> smake <1> smake <1> cd <1> cd <1> ls vi <1> cd <1> cd <1> vi <1> cd <1> ls cd <1> ls vi <1> vi <1> ls cd <1> vi <1> cd <1> cd <1> smake <1> vi <1> cd <1> vi <1> back smake <1>
+> USER1127
+cd <1> ls cd <1> ls cp <2> vi <1> cat <1> ls Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> diff <2> vi <1> ls Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> setenv <2> Inducer -o <1> Inducer -o <1> rm <1> setenv <2> Inducer -o <1> Inducer -o <1> > <1> Inducer -o <1> setenv <2> Inducer -o <1> Inducer -o <1> setenv <2> Inducer -o <1> setenv <2> Inducer -o <1> vi <1> cp <2> vi <1> Inducer -o <1> Inducer -o <1> Inducer -o <1>
+> USER1128
+rlogin <1> cd <1> vi <1> exit
+> USER1129
+vi <1> netscape rm <1> rm <1> cd <1> ls vi <1> exit
+> USER1130
+cd <1> ls cd <1> ls
+> USER1131
+cd <1> c4.5 -u -v -f <2>
+> USER1132
+cd <1> findfile <1> cd <1> vi <1> uptime findtext <1> findtext <1> findtext <1> vi <1> vi <1> ls cd <1> cd <1> cd <1> ls cd <1> ls cd.. cd <1> cd <1> cd <1> ls vi <1> ls vi <1> vi <1> ls dttest.c more <1> more <1> more <1> more <1>
+> USER1133
+finger <1> rlogin <1> rlogin <1> finger <1> date rlogin <1> rlogin <1> r <1> netscape
+> USER1134
+exit
+> USER1135
+finger <1> date finger <1> finger <1> exit
+> USER1136
+rlogin <1> exit
+> USER1137
+rlogin <1>
+> USER1138
+cd <1> ls cd cd <1> ls ls cd <1> ls diff <2> setenv <2> diff <2> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1> Inducer -o <1>
+> USER1139
+cd <1> cd <1> Inducer -o <1> setenv <2> Inducer -o <1> Inducer -o <1> Inducer -o <1>
+> USER1140
+cd <1> ls finger <1> cd <1> cd <1> cd <1> ls cd <1> ls ls cd finger <1> rlogin <1> ls cls cd <1> ls ls <1> ll <1> ls <1> cd <1> ls cd <1> smake <1>
+> USER1141
+uptime exit
+> USER1142
+rlogin <1> finger <1> rlogin -l <2> cls
+> USER1143
+ping <1> finger <1> whereis <1> <GENSYM:12>/netscape <GENSYM:13>/netscape ll <1> r <1>
+> USER1144
+cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> ls ll cd netscape
+> USER1145
+cd <1> ls vi <1> ls <1> vi <1> vi <1> cd <1> cd <1> cd <1> vi <1> exit
+> USER1146
+cd <1> findfile <1> cd <1> vi <1> cd <1> cd <1> findfile <1> cd <1> vi <1> vi <1> ls <1> vi <1> exit
+> USER1147
+cd <1> findtext <1> vi <1> cd <1> ls ls <1> cd cd <1> ls more <1> exit
+> USER1148
+ls cd <1> ls vi <1> vi <1> cd <1> cd cd <1> ls cd <1> ls smake <1> cd <1> ls Inducer -o <1> Inducer -o <1> cvd <1> cd cd <1> cvd <1>
+> USER1149
+r <1> cd <1> ls tar <3> rm <1> ll <1> ll ll ll | more rlogin -l <2> ll tar <3> mv <2> uuencode <2> > <1> mailx -s <2> < <1> mkdir <1> mv <2> ls cd
+> USER1150
+rlogin -l <2> rlogin -l <2> finger <1> finger <1> finger <1> | more talk <1>
+> USER1151
+cd <1> cd <1> cd <1> ls cd <1> ls setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> <GENSYM:0>/env -signal <5>
+> USER1152
+cd <1> ls vi <1> exit
+> USER1153
+cd <1> ls cd <1> ls cd <1> ls mkdir <1> cd <1> cp <2> cp <2> cp <2> ls vi <1> exit
+> USER1154
+cd <1> ls cd <1> ls vi <1> cd <1> ls cd cd <1> ls
+> USER1155
+ls cd <1> ls cd <1> ls vi <1> fg vi <1> vi <1> ls cp <2> ls
+> USER1156
+cd <1> ls vi <1> vi <1> vi <1> tar - <2> | compress > <1> ls exit
+> USER1157
+rlogin <1> r <1>
+> USER1158
+ls cd <1> ls cd <1> cd <1> ls cd <1> ls vi <1> cd cd <1> ls ls <1> ls <1> cd <1> findfile <1> cd <1> ls cd cd <1> ls cd <1> ls vi <1> cd r <1> finger <1> finger <1> finger <1> exit
+> USER1159
+ls cd <1> ls setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> setenv <2> c4.5-mlc c4.5-mlc -u -v -f <2> ls cp <2> c4.5-mlc -u -v -f <2> c4.5 -u -v -f <2> c4.5 -u -v -f <2> > <1> c4.5-mlc -u -v -f <2> > <1> diff <2> rm ls <1> rm <1> ls c4.5-mlc -u -v -f <2> cd ls cd <1> cd <1> vi <1> ls vi <1> exit
+> USER1160
+cd <1> ls cd <1> ls more <1> more <1> Inducer -o <1> setenv <2> setenv <2> setenv <2> Inducer -o <1> cd ls cd <1> cd <1> ls diff <2> smake <1> smake <1> exit
+> USER1161
+ls cd <1> ls more <1> more <1> more <1> ls more <1> ls cls ls cd <1> cd <1> cd <1> vi <1> ls cd ls cd <1> ls vi <1> ls vi <1> vi <1> ls more <1> vi <1> ls exit
+> USER1162
+a ls cd <1> ls cd <1> ls ll vi <1> cd ls cd <1> ls df cd <1> ls ls <1> vi <1> rlogin <1> ls cd cd <1> ls cd <1> ls vi <1> smake <1> smake <1> smake <1> smake <1> talk <1> write <1> write <2> write <2> write <1> cls cd <1> ls cd <1> cd <1> ls ls cd <1> ll cd <1> ls cd finger <1> finger <1> mail <1> rlogin <1> r -l <2> rlogin -l <2> mail <1> mailx <1> cd ls cd <1> ls vi <1> ls cd <1> ls cd <1> ls cd <1> vi <1> ls cd <1> cd <1> ls vi <1> date
+> USER1163
+exit
+> USER1164
+cd <1> ls cd <1> ls ll df cd <1> cd <1> ls cd <1> cd <1> ls vi <1> cp <2> exit
+> USER1165
+cd <1> ls vi <1> ls
+> USER1166
+talk <1> cls
+> USER1167
+cd <1> ls cd <1> ls
+> USER1168
+cd <1> ls cd <1> ll
+> USER1169
+ls cd <1> ls who cd uptime cd <1> ls cd <1> ML cd <1> vi <1> vi <1> cd <1> cd <1> findtext <1> cd <1> rlogin <1> rlogin <1> ls ls cd <1> vi <1> rlogin <1> rlogin <1> rlogin <1> exit
+> USER1170
+cd <1> ls ll <1> cd <1> cd <1> vi <1> exit
+> USER1171
+finger <1> finger <1> finger <1> rlogin <1> talk <1> rlogin <1> ls cd <1> ls cd <1> smake <1> smake <1> smake <1> smake <1> date at <1> at -l <1> exit
+> USER1172
+ls uptime ps -ef exit
+> USER1173
+mkdir <1> ls rm <1> rmdir <1> cd <1> ls cp <2> cd <1> ls ls <1> vi <1> ls cd ls cd <1> ls vi <1> ls back cd <1> cp <1> cp <2> cp <2> exit
+> USER1174
+cd <1> vi <1> cd <1> cd <1> vi <1> date at <1> at <1> date at -l <1> date finger <1> finger <1> | more finger <1> finger <1> rlogin <1> r <1> vi <1> date at <1> at -l <1> vi <1> date at <1> at -l <1> finger <1> vi <1> fbear source <1> finger <1> uptime date cd <1> date at <1> vi <1> date at -l <1> at <1> at -l <1> finger <1> cd <1> ls more <1> back finger <1> finger <1> back back cd <1> ls vi <1> ls more <1> vi <1> back vi <1> vi <1> date cd <1> smake <1> cd <1> ls vi <1> smake <1> smake <1> Inducer cd cd <1> cd <1> cd <1> cd <1> Inducer -o <1> back cd <1> smake <1> cd <1> smake <1> smake smake <1> date at <1> at -l <1> date
+> USER1175
+ls cd <1> ls cd <1> cd <1> findtext <1> cd <1> cd <1> vi <1> cd <1> cd <1> vi <1> cd <1> findtext <1> cd <1> cd <1> ls cd <1> vi <1> cd <1> cd <1> vi <1> cd <1> ls cd <1> vi <1> cd <1> findtext <1> cd <1> vi <1> vi <1> cd <1> more <1> t_ID3Inducer2 more <1> ls <1> vi <1> diff <2> diff <2> diff <2> cls cd <1> ls ll cd <1> ls cd <1> cd <1> ll <1> more <1> diff <2> diff <2> cd back cd <1> vi <1> cd <1> vi <1> back more <1> back back cd <1> cd <1> ls uptime ll <1> cls back back cd cd <1> ls cd <1> ll cd <1> ll uptime ps -ef cd <1> ls cd <1> ll <1> vi <1> ls | more more <1> ls ls | more more <1> ls | more more <1> ls | more ls | more vi <1> ls ls | more vi <1> back cd cd <1> ls cd <1> ls vi <1> MLCC <1> a.out vi <1> ls ls | more rm <1> more <1> ll | more vi <1> chmod <2> for_c45_test for_c45_test for_c45_test | more for_c45_test > <1> rm <1> for_c45_test ls <1> mv <2> cd <1> ls | more more <1> ls | more ll <1> back cd <1> cd <1> cd <1> ls <1> back ls | more mv <2> mv <2> mv <2> mv <2> back a.out ls <1> for_c45_test cd <1> cd <1> ls man <1> man <1> ls cd <1> ls cd <1> ls cp <2> cd <1> ln <2> ll ls ln <2> ln <2> ll ll <1> man <1> rm <1> ln -s <2> ll <1> cd <1> cd <1> vi <1> back for_c45_test ls <1> for_c45_test > <1> vi <1> exit
+> USER1176
+cd <1> vi <1> fildtext <1> findtext <1> cd <1> vi <1> cd <1> cd <1> Inducer -o <1> cd <1> cd <1> findfile <1> cd <1> cd <1> ls <1> ls <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> ls <1> cd <1> ls <1> exit
+> USER1177
+cd <1> vi <1> smake <1> vi <1> vi <1> smake <1> vi <1> smake <1> ls cd cd <1> ls cd <1> ls Inducer -o <1> back cd cd <1> ls cd <1> ls vi <1> back cd cd <1> ls cd <1> ls mv <2> cd <1> ls Inducer -o <1> cd <1> ls vi <1> smake <1> smake <1> date at <1> at -l <1> date cd ls cd <1> ls vi <1> ls vi <1> ls more <1> more <1> ls cd <1> more <1> cd <1> cd <1> cd <1> ls vi <1> smake <1> diff <2> vi <1> vi <1> cp <2> cp <2> vi <1> smake <1> cp <2> smake <1> smake <1> vi <1> exit
+> USER1178
+cd <1> vi <1> smake <1> smake <1> smake <1> vi <1> smake <1> ls <1> ls <1> vi <1> vi <1> vi <1> smake <1> exit
+> USER1179
+uptime exit
+> USER1180
+ls cd <1> cd <1> ls smake <1> vi <1> exit
+> USER1181
+rlogin <1>
+> USER1182
+cd <1> ls -a ll <1> cd <1> cd <1> ls ls -a cd <1> ls ll cd mkdir <1> mkdir <2> rmdir <1> chmod <2> cd <1> ftp <1> ls mv <1> ls <1> mv <2> chmod <2> exit
+> USER1183
+rlogin <1>
+> USER1184
+cd <1> vi <1> ll <1> cd <1> vi <1>
+> USER1185
+cd <1> ls smake <1> ls <1> cp <2> ls <1> cp <2> smake <1> smake <1> smake <1> smake <1> more <1> more <1> C45.verify ls <1> C45Tree.verify smake <1> :q smake <1> smake <1> ls <1> cp <2> smake <1> rm <1> smake <1>
+> USER1186
+cd <1> findtext <1> cp <2> ls <1> ls <1> findtext <1> ls <1> more <1> more <1> ll <1> cp <2> cp <2> findtext <1> diff <2> ls <1> diff <2> cp <2> Inducer.out.5.conf_matrix.scatterviz.data <1> ll <2> Inducer.out.5.conf_matrix.scatterviz.data <1> Inducer.out.5.conf_matrix.scatterviz.data <1> ls <1> diff <2> cp <2> findtext findtext <1> > <1> findtext <1> findtext <1> findtext <1> ll <1> cp <2> cp <2> ls <1> diff <2> cp <2> cd <1> cd <1> cd <1> cd <1> ls <1> ls <1> back ls <1> vi <1> cd <1> more <1> back vi <1> ls smake <1> mv <2> smake <1> vi <1> ls <1> vi <1> cp <2> vi <1> mv <2> mv <2> ls <1> mv <2> smake <1> smake <1> ls <1> ls <1> mv <2> smake <1> ls <1> ll <1> mv <2> mv <2> smake <1> smake <1> smake <1> smake <1> smake <1> mv <2> smake <1> ls <1> cp <2> smake <1> assoc.verify SmartAssoc.verify smake <1> rm <1> ls <1> ls <1> rm <1> back back cd <1> ls Inducer -o <1> cd <1> vi <1> back back smake smake <1> cd <1> cd <1> date at <1> vi <1> at <1> at -l <1>
+> USER1187
+source <1> source <1> ls cd <1> cd <1> ls vi <1> exit
+> USER1188
+ls cd <1> ll cd <1> ls cd <1> ls quit exit
+> USER1189
+rlogin -l <2> rlogin -l <2> exit
+> USER1190
+ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls Inducer -o <1> cd <1> cd cd <1> vi <1> date at <1> at -l <1> exit
+> USER1191
+rlogin <1> rlogin <1>
+> USER1192
+ping <1> whereis <1> <GENSYM:1>/ping <1> finger <1> finger <1> finger <1> ls cd <1> ls ll <1> ll <1> date vi <1> ll <1> uptime cd <1> ls more <1> back cd <1> ls date at <1> at -l <1> finger <1> finger <1> ls cd ls <1> ls <1> cd <1> rm <1> cd <1> cd <1> ls man <1> cd ls back tar <3> cd <1> ls ll <1> back ll cd <1> mv <2> mkdir <1> ls man <1> ls uuencode <2> > <1> ll rlogin <1> talk <1> cd <1> ll ll date cd <1> ll back vi <1> mailx <1> r <1>
+> USER1193
+vi <1> mailx -s <2> < <1> cls cat <1> vi <1> chmod <2> vi <1> rlogin <1> rlogin <1> exit
+> USER1194
+cd <1> cd <1> ls ls <1> cd <1> cd <1> ls <1> ls <1> ls <1> ls <1> cd <1> ls <1> ls <1> cd <1> cd <1> cd <1> findfile <1> findfile <1> cd <1> ls <1> cp <2> ls <1> cp cd <1> ls cd <1> findfile <1> cd <1> cd <1> findfile <1> > <1> cd ls more <1> cd <1> ls cd <1> ls cd <1> ls <1> cd <1> ls cls cd cd <1> ls ls <1> cd <1> cd <1> ls rm <1> smake <1> ls <1> cd <1> ls <1> mv <2> back rm <1> smake <1> cp <2> rm <1> smake <1> cd <1> cd cd <1> at date at <1> at -l <1> exit
+> USER1195
+cdmlc cd <1> cd <1> ll cd <1> date at <1> at -l <1> exit
+> USER1196
+uptime ruptime ls cd <1> ls ll exit
+> USER1197
+uptime exit
+> USER1198
+rlogin <1>
+> USER1199
+r <1> exit
+> USER1200
+cd <1> vi <1> vi <1> exit
+> USER1201
+cd <1> vi <1> cd <1> findfile <1> wc <1> more <1> findfile <1> findtext <1> cd <1> ls <1> ll ll <1> exit
+> USER1202
+rlogin <1> ps uptime ps -ef uptime uptime ps -ef | more finger <1> finger <1> exit
+> USER1203
+ls cd <1> ls cd <1> ls setenv <2> Inducer -o <1> Inducer -o <1> ls treeviz <1> treeviz <1> treeviz <1> setenv <2> cd <1> cd cd <1> ll vi <1> cd <1> ll vi <1> ls cd cd <1> ll <1> vi <1> smake <1> ls cd cd <1> ls cd <1> Inducer -o <1> Inducer -o <1> finger <1> ping <1> whereis <1> <GENSYM:1>/ping <1>
+> USER1204
+rlogin <1>
+> USER1205
+ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> cd cd <1> ls vi <1> cd <1> vi <1>
+> USER1206
+cd <1> findfile <1> findfile <1> cd <1> vi <1> ls <1> vi <1> ls <1> cd <1> findfile <1> cd <1> vi <1>
+> USER1207
+r <1> exit
+> USER1208
+cd <1> ls cd <1> ls ls <1> vi <1> ls <1> cd <1> cd cd <1> ls cd <1> ls vi <1> Inducer -o <1> setenv <2> Inducer -o <1>
+> USER1209
+cd <1> ls Inducer -o <1> setenv <2> Inducer -o <1> finger <1> finger <1> cd ls ll <1> ll <1> ll <1> ll <1> ll <1> ll <1> gzip -9 <1> ll <1> ll <1> ll <1> ll <1> ll <1> ll <1> ll <1> ll <1> ll <1> ll <1> ll <1> finger <1> cls version ver setenv cls rlogin <1> ver version IRIX rlogin <1>
+> USER1210
+cd <1> ls cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> ls rlogin <1> exit
+> USER1211
+ls cd <1> ls cd <1> cd ls finger <1> exit
+> USER1212
+ls cd <1> cd <1> ls ll <1> wc <1> wc <1> cd <1> findfile <1> cd <1> wc <1> cd <1> cd <1> wc <1> cd ls $PATH mkdir <1> cd <1>
+> USER1213
+who exit
+> USER1214
+cd <1> vi <1> findtext <1> findtext <1>
+> USER1215
+r <1> rlogin -l <2> ping whereis <1> <GENSYM:1>/ping <1> exit
+> USER1216
+ls rm <1> ls cd <1> cd <1> ls ls <1> vi <1>
+> USER1217
+cd <1> cd <1> ls cd <1> vi <1> cd <1> vi <1> cd <1> vi <1> ls <1> cd <1> cd <1> ls <1> vi <1>
+> USER1218
+cd <1> vi <1> exit
+> USER1219
+who ps -ef | grep <1> kill -9 <1> kill -9 <1> kill -9 <1> ps -ef | grep <1> nfsd df cd <1> cd <1> cd <1> ls cd <1> ll cd ls cd <1> ls vi <1>
+> USER1220
+cd <1> vi <1> cd <1> vi <1>
+> USER1221
+r <1> exit
+> USER1222
+cal r <1> r <1> r <1> r <1> exit
+> USER1223
+cd <1> <GENSYM:14> cd <1> cd <1> ls cd <1> cd <1> ls ll cd ls cd <1> ls vi <1> cd <1> ls vi <1> vi <1> vi <1> cd <1> vi <1>
+> USER1224
+cd <1> ls cd <1> vi <1> cd <1> vi <1> ls vi <1>
+> USER1225
+ls cd <1> ls cd <1> cd <1> ls vi <1> vi <1>
+> USER1226
+ls cd <1> ls vi <1> exit
+> USER1227
+cd <1> vi <1> cd <1> ls vi <1> ls cd <1> ls ls <1> vi <1> exit
+> USER1228
+r <1> exit
+> USER1229
+cd <1> ls vi <1> ls ls <1> vi <1> vi <1> ls <1> vi <1>
+> USER1230
+vi <1> cd <1> ls vi <1> vi <1> cd <1> cd <1> findfile <1> cd <1> vi <1> vi <1> cd <1> vi <1> ftp <1> rlogin -l <2> ls cd <1> cd <1> vi <1> cd <1> cd <1> ls <1> cd <1> ls <1> vi <1> cd <1> cd <1> cd <1> vi <1> ls cd <1> vi <1> vi <1> ls vi <1>
+> USER1231
+ls cd <1> ls vi <1> cd <1> cd <1> cd <1> vi <1> ls cd cd <1> ls vi <1> cd <1> ls vi <1> cd <1> IntArray & attrs, <2> &
+> USER1232
+ls cd <1> ls vi <1> cd <1> cd <1> ls cd <1> cd cd <1> l ls vi <1> ls vi <1> ls vi <1> exit
+> USER1233
+ls exit
+> USER1234
+cd <1> ls cd <1> vi <1> ls vi <1>
+> USER1235
+ls cd <1> cd <1> findfile <1> cd <1> vi <1>
+> USER1236
+ls cd <1> ls cd <1> ls cd <1> vi <1> vi <1> vi <1> vi <1>
+> USER1237
+cd <1> ls cd <1> ls cd <1> ls ls <1> ls <1> cd <1> cd <1> cd <1> cd <1> vi <1> cd <1> cd <1> cd <1> cd <1> ls ls <1> ls <1> ls <1>
+> USER1238
+finger ps -ef | grep <1> kill -9 <1> kill -9 <1> kill -9 <1> ps -ef | grep <1> cd <1> vi <1>
+> USER1239
+cd <1> cd <1> vi <1>
+> USER1240
+cd <1> vi <1>
+> USER1241
+cd <1> vi <1> cd <1> vi <1>
+> USER1242
+cd <1> ls <1> ls <1> vi <1> ls <1> cd <1> cd <1> ls <1> cd <1> vi <1> cd <1> ls <1> cd <1> findfile <1> cd <1> vi <1> ls <1> vi <1> cd <1> ls vi <1> cd <1> vi <1> cd <1> cd <1> cd <1> ls vi <1> vi <1> cd <1> vi <1> cd cd <1> ls vi <1>
+> USER1243
+cd <1> cd <1> ls <1> vi <1> cd <1> ls vi <1> vi <1>
+> USER1244
+whereis <1> <GENSYM:1>/ping <1> rlogin <1> exit
+> USER1245
+cd <1> vi <1> vi <1> cd ls cd <1> ls cd <1> ls vi <1> ls cd vi <1> cat <1> cd <1> vi <1> ls <1> vi <1> ls cd ls mkdir <1> mv <2> mv <2> cd <1> ls mv <2> ls mv <2> mv <2> mv <2> mv <2> ls mv <2> ls date
+> USER1246
+ls vi <1> ls mkdir <1> cp <2> cp <2> cd <1> ls cd <1> ls ls <1> terran_data ls -a cd <1> ls cd <1> ls <1> vi <1> ls ll vi <1> cp <2> terran_data ls cp <2> vi <1> terran_data cp <2> cd <1> ls ls ll rmdir <1> cd <1> ls rm <1> cd <1> rmdir <1> cd <1> cat <1> rm -f <1> rm -f <1> rm -f <1> rm -f <1> rmdir -f <1> rm -rf <1> mkdir <1> rm -f <1> rm -rf <1> cp <2> ls <1> mv <2> ls -a mkdir <1> mkdir <1> cd <1> tar <3> tar <3> cd ll <1> uuencode <2> > <1> ls -a ll rm -rf <1> rm <1> rm -r <1> ll rm -rf <1> cd <1> ls ll cd <1> cp <2> cp <2> ls <1> terran_data mailx -s <2> < <1> ls <1> ls <1> rm -rf <1> ls vi <1> rm <1> ls rm <1> more <1> ll rm <1> vi <1> cd <1> ls vi <1> cd <1> vi <1> cd <1> vi <1> cd <1> cd <1> vi <1> cd <1> vi <1> cd <1> vi <1> vi <1> ls cd <1> cd <1> vi <1> ls cd <1> cd <1> ls cd <1> cd <1> cd <1> vi <1> back cd <1> vi <1>
+> USER1247
+cp <2> exit
+> USER1248
+finger <1> ftp <1> r <1>
+> USER1249
+cd <1> vi <1> findtext <1> vi <1> cd <1> findfile <1> vi <1> vi <1> cd <1> vi <1>
+> USER1250
+setenv <2> ls cd <1> ls emacs <1>
+> USER1251
+exit
+> USER1252
+setenv <2> ls cd <1> ls finger ps -ef | grep <1> kill -9 <1> ls emacs <1> cd ls cd <1> ls uptime finger uptime uptie uptime ps -ef | grep <1> ps -ef | more uptime rlogin <1> uptime uptime uptime rlogin -l <2> cd finger <1> finger <1> ls cd <1> ls mkdir <1> mv <2> mv <2> ls mv <2> ls emacs <1> emacs <1> ls mv <2> uptime uptime uptime emacs <1> & emacs <1> cd <1> cd <1> ls <1> cd <1> cd <1> ls <1> vi <1> cd cd <1> ls findtext <1> cd cd <1> ls cd <1> ls emacs <1> & ls cd <1> cdinc cd <1> ls <1> vi <1> eexit exit
+> USER1253
+cd <1> uptime ls finger date ps -ef | more findtext <1> vi <1> ls vi <1> fg exit
+> USER1254
+uptime finger exit
+> USER1255
+ls vi <1> set <3> set <3> vi <1> vi <1> ls vi <1> ls set <3> vi <1> setenv <2> finger <1> | more ls cd <1> ls emacs & emacs & finger <1> ls cd <1> ls cd <1> ls vi <1> findtext <1> vi <1> vi <1> vi <1> ls cd cd ls cd <1> ls vi <1> cd <1> vi <1> exit
+> USER1256
+set <3> ls ls -a vi <1> cd <1> ls ls -a vi <1> ls cd <1> findfile <1> findfile <1> cd <1> vi <1> ls vi <1> cd <1> vi <1> vi <1> cd <1> ls vi <1> l ls cd <1> vi <1> ls vi <1> ls cd ls cd <1> ls vi <1> cp <2> ls vi <1> cd <1> ls vi <1> ls cd <1> ls vi <1> cd <1> vi <1> exit
+> USER1257
+set <3> ls cd <1> cd <1> ls <1> vi <1> cd <1> cd <1> cd cd <1> cd <1> ls ls -l <1> | more vi <1> vi <1> exit
+> USER1258
+cd <1> vi <1> set <3> vi <1> ls cd <1> vi <1> back vi <1> ls cd ls cd <1> ls vi <1> vi <1> cd <1> cd <1> cd <1> findtext <1> cd <1> vi <1> exit
+> USER1259
+ls cd <1> ls compile <1> compile <2> vi <1> vi <1> exit
+> USER1260
+ls cd <1> ls cd <1> ls vi <1> ls cd <1> cd <1> ls vi <1> cd <1> ls vi <1> cd <1> cd cd <1> cd <1> ls more <1> cd cd <1> ls vi <1> vi <1> vi <1> compile <2> vi <1> vi <1> compile <2> vi <1> compile <2> ls test cd <1> findfile <1> cd <1> compile <2> t test test -h test -h cd <1> cd <1> cd <1> ls man <1> ls cd cd <1> ls compile <3> compile <3> cd <1> findtext <1> findtext <1> compile <3> ls cd cd <1> compile <3> vi <1> compile <3> compile <3> back back cd <1> findtext <1> back compile <3> l ls t man <1> ls MLCC <2> a.out ls vi <1> vi <1> a.out MLCC <2> a.out exit
+> USER1261
+set <3> ls cd <1> ls a.out vi <1> vi <1> ls c cd ls cd <1> cd <1> vi <1> cd ls cd <1> ls vi <1> exit
+> USER1262
+set <3> cd <1> ls MLCC <2> MLCC <2> MLCC <2> a.out vi <1> MLCC <2> ll <1> a.out a.out a.out a.out MLCC <2> a.out a.out MLCC <2> a.out MLCC <1> a.out a.out MLCC <1> a.out MLCC <1> a.out cd <1> cd cd <1> ls cd <1> ls cd <1> ls vi <1> ls cd <1> ls vi <1> ls <1> exit
+> USER1263
+ls cd <1> ls vi <1> a.out MCC <1> a.out MLCC <1> a.out MCC <1> a.out vi <1> ls rm <1> MCC <2> a.out a.out vi <1> ls MCC <2> a.out MLCC <2> a.out a.out vi <1> MCC <2> a.out vi <1> MLCC <1> a.out MCC <1> a.out vi <1> MCC <1> a.out MLCC <1> a.out ls cp <2> cp <2> cp <2> cd <1> ls vi <1> smake ls vi <1> ls mv <2> cd <1> ls ls <1> cd <1> ls compile compile <1> vi <1> ls cd ls cd <1> ls rm <1> compile <2> a ls compile <2> a out ls vi <1> ls ll
+> USER1264
+ls who cd cd <1> ls ls vi <1> ls MLCC <1> MLCC <1> a.out MCC <1> a.out vi <1> MLCC <1> a.out MCC <1> a.out vi <1> MLCC <1> a.out MCC <1> a.out
+> USER1265
+cd <1> ls vi <1> uptime ma <1> man <1> man <1> man <1> man <1> man <1> CC man <1> man <1> man <1> vi <1> ls cd cd <1> vi <1> vi <1> cd <1> ls vi <1> exit
+> USER1266
+ls cd <1> ls ls vi <1> cd <1> vi <1> ls <1> vi <1> ls cd cd <1> vi <1> ls MLCC <1> ls vi <1> cd <1> cd cd <1> ls cd <1> ls vi <1> cp <1> cp <2> cp <2> cd <1> ls -l <1> ls vi <1> ls smake <1> cd <1> smake <1> cd <1> vi <1> smake <1> vi <1> smake <1> vi <1> smake <1> more <1> cp <2> vi <1> smake <1> ll <1> date cd <1> cd <1> ls cd <1> cd <1> smake <1> smake <1> cd <1> date at <1> at -l <1> smake <1> at -u man <1> at -r at -l at -r <1> at -l date at <1> at -r <1> at -l cd <1> date vi <1> date at <1> at -l <1> cls cd <1> ls cd <1> cd <1> ls ls <1> compile_tester <1> compile_tester <2> compile_tester <8> more <1> cd <1> vi <1> ls cd <1> vi <1> back back cd <1> finger <1> uptime cd cd <1> date at <1> at -l <1> smake <1> cd <1> ls vi <1> cd <1> date at -l <1> at <1> at -l <1> uptime date finger uptime uptime uptime uptime ps -ef | grep <1> cd cd <1> ls vi <1> ls vi <1> ls compile_tester <9> compile_tester -shared <9> compile_tester <8> cat <1> ls rm <1> compile_tester <8> ls more <1> cp <2> vi <1> compile_tester <8> more <1> vi <1> compile_tester <8> vi <1> compile_tester <8> more <1> vi <1> compile_tester <8> vi <1> vi <1> chmod <2> comp more <1> vi <1> comp vi <1> comp vi <1> comp more <1> comp more <1> MCC <2> cat <1> MCC <2> MCC <1> vi <1> MCC <2> MCC <1> ll <1> vi <1> ls mv <2> rm <1> vi <1> comp more <1> ls rm <1> ll <1> t_ItemSet.tmp ls vi <1> ls vi <1> cd <1> vi <1> exit
+> USER1267
+cd <1> ls vi <1> ls more <1> vi <1> rlogin -l <2> cd <1> vi <1> ls cd <1> vi <1> cd cd <1> ls cd <1> ls ll cd <1> cd <1> cd <1> ls more <1> vi <1> vi <1> ls vi <1> vi <1> cd <1> vi <1> findtext <1> findtext <2> findtext <1> > <1> more <1> findtext <1> > <1> vi <1> ls vi <1> ls <1> ls <1> findtext <1> ls ls <1> vi <1> cd <1> ls ll cd <1> ll cd <1> ll cd <1> ll vi <1> cd <1> ls cd <1> ls smake <1> ls more <1> cp <2> vi <1> cp <2> cd <2> cp <2> cp <2> vi <1> ls cd <1> smake <1> ls cd <1> ls smake <1> cd <1> ls vi <1> make vi <1> vi <1> make vi <1> make rm <1> make vi <1> vi <1> vi <1> make rm <1> make rm <1> make vi <1> vi <1> vi <1> rm <1> make ls vi <1> ls vi <1> comp cat <1> mv <2> make mv <2> make vi <1> make rm <1> rm <1> make vi <1> make vi <1> vi <1> rm <1> make vi <1> ls vi <1> exit
+> USER1268
+set <3> ls cd <1> ls vi <1> ls vi <1> vi <1> vi <1> ls cd <1> vi <1> ls cd <1> cd <1> vi <1> ls cd <1> vi <1> cd cd <1> vi <1> exit
+> USER1269
+set <3> ls cd <1> ls vi <1> comp more <1> vi <1> cd cd <1> findfile <1> findfile <1> ls uptime cd cd <1> ls emacs <1> emacs <1> & setenv <2> emacs <1> & vi <1> cd <1> vi <1> findtext <1> vi <1> cd <1> findfile <1> cd <1> vi <1> cd cd <1> vi <1> ls vi <1> comp comp comp more <1> comp more <1> more <1> more <1>
+> USER1270
+set <3> ls cd <1> vi <1> vi <1> vi <1>
+> USER1271
+rlogin <1> ls more <1> terran_data cd <1> ll cd <1> cd <1> ll date cd <1> exit
+> USER1272
+cd <1> ls mv <2> mv <2> ls vi <1> ls vi <1> make ls vi <1> make cd <1> vi <1> back make make make make make make make make make make make make make ls more <1> cp <2> vi <1> comp2 make comp2 make comp2 make make make make make vi <1> make vi <1> make vi <1> make vi <1> make vi <1> make vi <1> rm <1> make make make make ls ll <1> date a.out make a.out make <1> ls comp more <1> comp2 more <1> t_SetOfItemSets.tmp ls comp2 t_SetOfItemSets.tmp ls more <1> comp2 more <1> comp2 more <1> comp2 conmp2 comp2 more <1> comp2 more <1> comp2 more <1> comp2 more <1> comp2 more <1> comp2 comp2 make comp2 comp2 comp2 comp2 more <1>
+> USER1273
+cd cd <1> ls vi <1> ls cd <1> vi <1> back vi <1> back vi <1> vi <1> back vi <1> back vi <1> vi <1> back vi <1> vi <1> ls vi <1> make <1> ls rm <1> make <1> vi <1> make ls ls <1> ls make <1> rm <1> make <1> vi <1> vi <1> ls make <1> cat <1> make <1> SetOfItemSets.out ll <1> date a.out vi <1> vi <1> ls vi <1>
+> USER1274
+ssinfo rlogin -l <2> rlogin -l <2> exec man <1> exec <1>
+> USER1275
+quit exit
+> USER1276
+exec ssinfo exec <1> man <1> exit
+> USER1277
+cd <1> vi <1> ls <1> vi <1> back back cd <1> vi <1> cd <1> vi <1> ll <1> vi <1> vi <1> vi <1> back back cd <1> vi <1> ls cd <1> vi <1> ls back back cd <1> ls vi <1>
+> USER1278
+rlogin <1> finger <1>
+> USER1279
+ssinfo finger <1> ssinfo finger <1> rlogin <1> exit
+> USER1280
+cd <1> ls vi <1> vi <1> exit
+> USER1281
+rlogin <1>
+> USER1282
+cd <1> ls rm <3> comp2 more <1> comp2 more <1> comp2 more <1> ls cvd <1> treeviz comp2 cvd <1> more <1> comp2 more <1> comp2 more <1> comp2 more <1> comp2 comp2 more <1> comp comp2 comp2 ls more <1> comp2 more <1> comp2 more <1> comp2 more <1> more <1> comp2 comp2 comp2 more <1> comp2 more <1> ls comp2 more <1> comp2 more <1>
+> USER1283
+cd <1> cd <1> more <1> cd <1> vi <1> vi <1>
+> USER1284
+rlogin <1>
+> USER1285
+cd <1> vi <1> cd <1> ls vi <1>
+> USER1286
+talk <1> finger <1> date finger <1> finger <1> exit
+> USER1287
+rlogin <1>
+> USER1288
+ssinfo exit
+> USER1289
+cd <1> ls vi <1> ls vi <1> cd <1> vi <1> vi <1> back ls vi <1> vi <1> back ls vi <1> findtext <1> vi <1> findtext <1> vi <1> back vi <1> back vi <1> findtext <1> vi <1> findtext <1> << <1> vi <1> vi <1> back back cd <1> findfile <1> back cd <1> vi <1> back vi <1> findtext <1> vi <1> cd <1> more <1> back vi <1> :q back more <1> back vi <1> back ls vi <1> vi <1> vi <1> exit
+> USER1290
+ls cd <1> vi <1> cd <1> ls rm <1> df more <1> vi <1> ls more <1> cp <2> vi <1> comp3 ll ll <1> date rm <1> comp3 ll <1> ll <1> comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp2 comp3 exit
+> USER1291
+treeviz rlogin <1>
+> USER1292
+treeviz treeviz
+> USER1293
+rlogin <1> rlogin -l <2> cd <1> ls more <1> :q ls vi <1> r <1> exit
+> USER1294
+cd <1> ls vi <1> vi <1> ls vi <1> ls ls <1> ls ls <1> vi <1> ls ls <1> vi <1> ls ls <1> vi <1> ls <1> vi <1> back back cd <1> vi <1> cd <1> findtext <1> back cd <1> findtext <1> back cd <1> findtext <1> back vi <1> vi <1> exit
+> USER1295
+cd <1> vi <1> ls cd <1> ll <1> vi <1>
+> USER1296
+cd <1> ls vi <1> comp3 vi <1> comp3 comp3 comp3 vi <1> comp3 vi <1> comp2 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp3 comp ls more <1> vi <1> ls more <1> vi <1> comp comp vi <1> comp more <1> vi <1> comp comp vi <1> vi <1> comp3 comp3 comp3 comp3 more <1> comp3
+> USER1297
+rlogin <1> cd <1> findtext <1> vi <1> findtext <1> vi <1> ls cd vi <1> ftp <1> back vi <1> findtext <1> cd <1> vi <1> cd <1> back cd <1> findfile <1> back cd <1> vi <1> back vi <1> cd cd <1> date at <1> at -l <1> ls date at -r at -l ps -ef | grep <1> date at <1> at -l <1> ps -ef | grep <1> cd <1> ls vi <1> cd <1> ls vi <1> cd <1> cd cd <1> date at <1> at -l <1> vi <1> date at <1> at -l <1> date ps -ef | grep <1> who finger <1> cd <1> ls back cd <1> ls vi <1> cd <1> ls ll <1> rm <1> rlogin -l <2> exit
+> USER1298
+ls vi <1> ls tar <3> ll <1> cd <1> tar <3> cd <1> ls ll <1> rm <1> cd <1> vi <1> vi <1> ls vi <1> ls vi <1>
+> USER1299
+set <3> cd <1> ls setenv <2> emacs & comp3 vi <1> vi <1> comp vi <1> comp vi <1> comp ls more <1> comp more <1> comp more <1> comp more <1> vi <1> comp comp more <1> vi <1> comp more <1> comp more <1> vi <1> comp2 ll <1> ll <1> vi <1> comp2 more <1> more <1> more <1> comp2 more ` <1>
+> USER1300
+set <3> ls cd <1> setenv <2> emacs & cd <1> vi <1> cd <1> findfile <1> cd <1> vi <1> cd <1> ls vi <1> cd <1> vi <1> vi <1> findtext <1> exit
+> USER1301
+ls cd <1> ls vi <1> exit
+> USER1302
+cd <1> vi <1> exit
+> USER1303
+ls cd <1> ls comp2 comp2 exit
+> USER1304
+cd <1> vi <1>
+> USER1305
+ls cd <1> vi <1>
+> USER1306
+last uptime finger <1> cls cd <1> ls vi <1> ls vi <1> comp2 comp2 vi <1> comp2 vi <1> vi <1> cd <1> vi <1> back cat <1> comp2 comp2 comp2 comp2 ls more <1> comp2 vi <1> comp2 more <1> comp2 more <1> comp2 comp2 more <1> comp2 comp2 comp2 more <1> more <1> comp2 more <1> comp2 cop2 comp2 comp2 more <1> comp2 more <1> comp2 cat <1> comp2 cat <1> comp2 cat <1> comp2 cat <1> comp2 comp2 cat <1> comp2 vi <1> ls cp <2> vi <1> cd <1> vi <1> back comp2 comp2 comp2 more <1> vi <1> cp <2> vi <1> comp4 vi <1> comp4 comp comp4 comp3 comp2 comp3 comp3 comp3 comp3 comp3 comp4 more <1> comp4 comp4 comp4 more <1> comp4 more <1> comp4 more <1> comp4 comp4 comp4 more <1> comp4 comp4 comp3 comp3 comp3 comp4 more <1> comp4 comp4 comp4 vi <1> comp4 comp4 vi <1> comp4 vi <1> comp4 cat <1> comp4 comp4 comp4 comp4 cat <1> comp4 cat <1> comp4 more <1> more <1> comp4 more <1> comp4 cat <1> comp4 cat <1> comp4 cat <1> comp4 cat <1> comp4 comp4 cat <1> comp4 cat <1> comp4 cat <1> comp4 cat <1> compa4 comp comp4 cat <1> comp4 cat <1> comp4 cat <1> comp4 cat <1> comp4 comp4 more <1> more <1> more <1> comp4 more <1> exit
+> USER1307
+cd <1> ls vi <1> vi <1> vi <1> vi <1> ls vi <1> vi <1>
+> USER1308
+cd <1> vi <1> cd <1> ls vi <1> vi <1> cd <1> vi <1> back vi <1> cd <1> ls ls <1> ls ls <1> more <1> ls <1> more <1> ls <1> more <1> more <1> back cd <1> ls vi <1> back vi <1> ls vi <1> back vi <1> ls back ls vi <1> cd <1> wc <1> wc <1> wc <1> more <1> back vi <1> back vi <1> back vi <1> back back cd <1> vi <1> back vi <1> back vi <1> back more <1> exit
+> USER1309
+set <3> cd <1> ls vi <1> vi <1> vi <1>
+> USER1310
+set <3> ls cd <1> emacs & ls vi <1> comp4 vi <1> comp4 cat <1> comp4 ls cat <1> comp4 cat <1> vi <1> comp4 comp4 more <1> vi <1> comp4 comp4 more <1> vi <1> comp4 vi <1> comp4 vi <1> comp4 ls more <1> vi <1> comp4 vi <1> comp4 vi <1> comp4 vi <1> comp4 vi <1> comp4 comp4 ls vi <1> comp4 vi <1> exit
+> USER1311
+set <3> ls cd <1> ls cd <1> ls vi <1> back ls vi <1> exit
+> USER1312
+cd <1> ls vi <1> ls cp <2> comp4 comp4 comp4 comp4 uptime comp4
+> USER1313
+cd <1> comp comp4 more <1> comp4 more <1> ls vi <1> ls vi <1> ls vi <1> cd <1> vi <1>
+> USER1314
+cd <1> vi <1> findtext - > <1> findtext -\ > <1> vi <1> cd <1> cd <1> findtext <1> ls back cd <1> vi <1> ls <1> vi <1> cd <1> cd <1> ls cd <1> cd <1> ls findfile <1> cd <1> findfile <1> cd <1> vi <1> findtext <1>
+> USER1315
+cd <1> cd <1> cd <1> ls <1> vi <1> cd <1> vi <1> cd <1> vi <1> cd <1> findfile <1> cd <1> vi <1> findfile <1> vi <1>
+> USER1316
+ls cd <1> ls diff <2> vi <1> comp4 date cp <2> vi <1> date finger <1> exit
+> USER1317
+cd <1> cd <1> ls ls <1> cd <1> ls <1> findfile <1> cd <1> ls vi <1>
+> USER1318
+cd <1> ls wc <1> wc <1> vi <1>
+> USER1319
+uptime ps -ef | grep <1>
+> USER1320
+cd <1> vi -r <1> cd <1> vi <1> exit
+> USER1321
+cd <1> ls vi <1> vi <1> cd <1> vi <1> cd <1> vi <1> vi <1> back ls <1> findtext <1> ls <1> ls <1> vi <1> findtext <1> exit
+> USER1322
+cd <1> ls vi <1> ls vi <1> cd <1> vi <1> back vi <1> cd <1> vi <1> back vi <1> ls wc <1> vi <1> comp2 comp2 comp2 vi <1> comp4 comp2 vi <1> vi <1> comp2 vi <1> vi <1> vi <1> comp2 comp2 vi <1> vi <1> comp2 vi <1> comp2 vi <1> comp2 vi <1> comp2 more <1> exit
+> USER1323
+cd <1> ls cd <1> vi <1> cd <1> cd <1> findtext <1> findfile <1> findfile <1> cd <1> vi <1> cd <1> vi <1> back back cd <1> back vi <1> vi <1> cd <1> cd <1> vi <1> cd <1> vi <1> vi <1> back vi <1> back vi <1> cd <1> cd <1> vi <1> rlogin -l <2> date ftp <1> date fg exit
+> USER1324
+cd <1> ls cd <1> vi <1> exit
+> USER1325
+cd <1> vi <1> cd <1> findfile <1> cd <1> vi <1> cd <1> vi <1> cd <1> vi <1> exit
+> USER1326
+ls cd <1> ls cd <1> vi <1> exit
+> USER1327
+cd <1> vi <1> cd <1> ls vi <1> comp2 vi <1> cd <1> vi <1> back % back vi <1> back fg fg vi <1> comp2 vi <1> comp2 vi <1> comp2 vi <1> exit fg exit
+> USER1328
+cd <1> findtext <1> cd <1> vi <1> cd <1> cd <1> findtext <1> cd <1> vi <1> ls vi <1> vi <1> cd <1> vi <1> back vi <1> exit
+> USER1329
+cd <1> ls comp2 comp[2 comp2 more <1> comp2 vi <1> comp2 vi <1> vi <1> vi <1> vi <1> exit
+> USER1330
+cd <1> ls vi <1> back back cd <1> ls vi <1> comp2 comp2 comp2
+> USER1331
+cd <1> ls vi <1>
+> USER1332
+cd <1> ls ls vi <1> ls back back cd <1> ls vi <1> cp <2> vi <1> vi <1>
+> USER1333
+cd <1> vi <1> ls cd <1> ls vi <1> comp2 cat <1> comp2 cat <1> cd <1> back vi <1>
+> USER1334
+cd <1> ls vi <1> vi <1> ls vi <1> comp4 vi <1> vi <1> comp2 vi <1> comp4 vi <1> vi <1> comp4 vi <1> comp4 vi <1> exit
+> USER1335
+ls cd <1> ls vi <1> comp2 vi <1> comp2 vi <1> vi <1> comp2 vi <1> comp2 vi <1> vi <1> vi <1> comp4 vi <1> exit
+> USER1336
+cd <1> vi <1> cd <1> vi <1> exit
+> USER1337
+cd <1> back ls vi <1> terran_data ls <1> back vi <1> ls <1> vi <1> cat <1> | grep <1> man <1> cat <1> | grep -l <1> cat <1> | grep -l <1> grep -l <2> vi <1> grep -l <2> grep -l <2> | wc <1> grep -l <2> | wc grep -l <2> vi <1> vi <1> wc <4> vi <1> vi <1> back back cd <1> vi <1> ls vi <1> wc <4> back back back wc <4> back vi <1> back vi <1> vi <1> cat <1> | grep <1> > <1> vi <1> cat <1> | grep -c <1> cat <1> | grep -c <1> cat <1> | grep -c <1> cat <1> | grep <1> > <1> cat <1> | grep -c <1> back exit
+> USER1338
+cd <1> ls vi <1>
+> USER1339
+cd <1> ls vi <1> vi <1> vi <1> comp4 comp4 comp4 comp4 diff <2> ls <1> ls wc <1> vi <1> vi <1> vi <1> vi <1> ls cd <1> ls cd <1> ls vi <1> ls vi <1> ls vi <1> ls vi <1> comp5 comp5 comp5 comp5 ls vi <1> vi <1> vi <1> mv <2> vi <1> vi <1> vi <1> ls vi <1> vi <1>
+> USER1340
+ls cd <1> ls vi <1> comp4 cp <2> vi <1> ls vi <1> vi <1> ls comp1 vi <1> vi <1> comp comp vi <1> vi <1> comp vi <1> vi <1> com[ comp vi <1> vi <1> vi <1> cd <1> vi <1> back vi <1> vi <1> vi <1> vi <1> vi <1> comp vi <1> comp1 comp comp2 comp2 vi <1> cp <2> comp4 vi <1> ls vi <1> vi <1> vi <1> vi <1> vi <1> vi <1> vi <1> ls cp <2> cp <2> vi <1> rm <1> back vi <1> back vi <1> back vi <1> back vi <1>
+> USER1341
+cd <1> ls vi <1> man <1> man <1> grep -c <2> grep <2> | grep -c <1> grep <2> | grep -c <1> vi <1> grep <2> | grep -c <1> grep <2> | grep -c <8>
+> USER1342
+ls cd <1> ls vi <1> comp5 vi <1> comp5 vi <1> vi <1> comp5 vi <1> vi <1> copm5 comp5 vi <1> ls vi <1> comp5 comp5 comp5 comp5 vi <1> comp5 vi <1> comp5 vi <1> vi <1> exit
+> USER1343
+cd <1> ls vi <1> vi <1> comp5 vi <1> exit
+> USER1344
+finger <1> finger <1> finger <1> ls cd <1> exit
+> USER1345
+cd <1> ls vi <1> comp5 vi <1> comp5 comp5 vi <1> vi <1> comp5 vi <1> comp5 vi <1> comp5 comp5 cino5 comp5 vi <1> comp5 vi <1> comp5 comp5 vi <1> comp5 iv <1> vi <1>
+> USER1346
+cd <1> vi <1> vi <1> vi <1>
+> USER1347
+cd <1> vi <1> cd <1> vi <1> back vi <1>
+> USER1348
+cd <1> vi <1> ls <1> grep <2> > <1> grep <2> | grep -c <1> grep <2> more <1> grep <1> grep <2> grep <2> | grep -c <1> grep <2> > <1> grep <2> > <1> cat <1> grep <2> grep <2> grep <2> > <1> vi <1> ls grep <2> > <1> grep -c <2> wc <1> grep -c <2> grep -c <2> grep <2> cp <2> vi <1> grep <2> > <1> vi <1> wc <1> grep <2> > <1> grep <3> grep <2> > <1> grep <2> > <1> ls vi <1> wc <1> wc <1>
+> USER1349
+cd <1> ls ls cd <1> ls cd back cd <1> vi <1> v exit
+> USER1350
+finger <1> ls cd <1> ls vi <1> cd <1> vi <1> cd <1> vi <1> exit
+> USER1351
+ls cd <1> ls vi <1> exit
+> USER1352
+ls cd <1> ls vi <1> cp <2> vi <1> comp5 comp5 comp6 comp6 comp6 comp6 vi <1> setenv <2> assoc ls <1> assoc.tmp comp6 vi <1> comp6 vi <1> comp6 vi <1> comp6 vi <1> comp6 vi <1> exit
+> USER1353
+cd <1> vi <1> exit
+> USER1354
+finger <1> ls cd <1> ls vi <1> comp6 comp6 comp6 comp6 comp6 vi <1> setenv <2> comp6 vi <1>
+> USER1355
+cd <1> vi <1> exit
+> USER1356
+cd <1> ls vi <1> cd <1> ls vi <1> vi <1>
+> USER1357
+cd <1> comp6 vi <1> setenv <2> comp6 vi <1> comp6 vi <1> comp6 vi <1> comp6 comp6 vi <1> comp6 vi <1> comp6 vi <1> comp6 vi <1> comp6 vi <1> comp6 finger <1> finger <1> cd <1> vi <1> back vi <1> comp6 comp6 vi <1> comp6 vi <1> comp6 comp6 comp6 vi <1> vi <1> comp6 vi <1> comp6 vi <1> comp6 comp6 vi <1> comp6 vi <1> comp6 vi <1> comp6 comp6 vi <1> exit
+> USER1358
+ls cd <1> vi <1> exit
+> USER1359
+cd <1> vi <1> vi <1> cd <1> vi <1> cd <1> vi <1> back cd <1> cd <1> vi <1> exit
+> USER1360
+cd <1> ls cp <1> ls <1> cp <2> vi <1> vi <1> cd <1> setenv <2> comp6 vi <1> back vi <1> back comp6 more <1> back vi <1> back comp6 vi <1> comp6 comp6 vi <1> comp6 vi <1> vi <1> vi <1> assoc cd <1> cd <1> vi <1> ls exit
+> USER1361
+cd <1> vi <1> back back cd <1> ls vi <1> vi <1> exit
+> USER1362
+r <1> exit
+> USER1363
+rlogin <1> talk <1> talk <1> exit
+> USER1364
+rlogin <1> exit
+> USER1365
+cd <1> ls vi <1> ls ls -l <1> ls cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> cp <2> vi <1> vi <1> cp <2> comp6 comp6 comp6 comp6 comp6 vi <1> comp6 comp6 comp6 comp6 comp6 comp6 vi <1> more <1> setenv <2> comp6 exit
+> USER1366
+ls cd <1> ls cd <1> vi <1> back vi <1> back vi <1> back fg vi <1> exit

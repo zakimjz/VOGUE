@@ -1,0 +1,270 @@
+> USER5411
+exit
+> USER5412
+who emacs pine exit
+> USER5413
+pine exit
+> USER5414
+newgrp <1> exit
+> USER5415
+xinit
+> USER5416
+f <1> f <1> f <1> f <1> f <1> f <1> <GENSYM:26>/qshow <2> f <1> f <1> f <1> f <1> qu vi <1> ls cd <1> ls mv <2> cd <1> ls cd <1> ls cd <1> ls cd <1> ls ll cd <1> rmdir <1> cd <1> ls m <1> html2latex <1> html2tex <1> mv <2> cd <1> mv <2> cd <1> cd <1> ll <1> chmod <2> ll <1> less <1> vi <1> ll rm <1> f <1> vi <1> cd <1> vi <1> vi <1> uptime qu qu cd <1> ls tail <1> tail -100 <1> | less ll <1> ll cd <1> ls ll cd <1> ls man <1> man <1> cd <1> du -k qu cd <1> cd <1> ls cd <1> cd <1> cd <1> ls ll qu cd ln -s <2> cd <1> ll <1> cd <1> ls ll cd <1> cd ls cat <1> rm <1> ls rm <1> cd <1> ll f <1> f <1> f <1> f <1> f <1> exit
+> USER5417
+cd <1> ls cd <1> ls cd <1> ls qu ls <1> ls <1> ls <1> ls <1> ls <1> cd <1> ls cd <1> ls ls <1> rm <1> make <1> cd <1> ls cd <1> ls m <1> ls m <1> cd - ls gunzip <2> ls cp <2> gzip -9 <1> gunzip -c <1> gunzip -c <1> | tail cd <1> cp <2> ls <1> cd <1> cd - ls cd <1> ls ls <1> cd <1> ls tree2lisp -f <1> ls tree2lisp -f <1> ll tr <2> < <1> > <1> tr <2> < <1> > <1> cp <2> ls rm <3> ls rm <1> m <1> tr <2> < <1> > <1> tr <2> < <1> > <1> tr <2> < <1> > <1> m <1> ls cp <2> akcl m <1> fg ls m <1> ll cd <1> cp <2> cp <2> cp <2> cp <2> ls <1> rm <1> cp <2> ls <1> cp <2> cp <2> ls <1> ll <1> make <1> make
+> USER5418
+cd <1> make make <1> ll <1> qu cd <1> ls mkdir <1> cd <1> ln -s <2> cd <1> ls cd <1> ls m <1> cd <1> ls m <1> cd - cd <1> <GENSYM:22>/verify.pl -s -d <2> jobs kill <1> jobs ps uptime uptime ls rm <5> ls less <1> <GENSYM:22>/verify.pl -s -d <2> less <1> ls ll gzip -9 <3> & ls rm <1> ls rm <1> ls ll ls mkdir <1> mv <4> ls less <1> cd <1> make <1> qu qu qu cd - ls <GENSYM:22>/verify.pl -s -d <2> less <1> parsec -V -N < <1> <GENSYM:27>/parsec -V -N < <1>
+> USER5419
+cd <1> ls ll less <1> less <1> less <1> ll cd <1> less <1> cd <1> ls less <1> cd - less <1> cd - ls less <1> cd - cp <2> make <1> touch <1> make <1> ls cd <1> ls less <1> vi <1> less <1> ls less <1> less <1> less <1> less <1> less <1> grep <2> grep <2> grep <2> grep <2>
+> USER5420
+cd <1> ls cd <1> cp <2> cp <2> ls <1> cp <2> make <1> make less <1> rm <1> make <1> less <1> vmstat vmstat <1> make <1> make <1> less <1> less <1> make <1>
+> USER5421
+cd <1> gunzip -c <1> | less cd <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> xdvi <1> & latex <1> latex <1> man <1> xdvi -paper -noghostscript <2> & xdvi -paper <2> & latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> which <1> whereis <1> which <1> latex <1> latex <1> man <1> help <1> which <1> whereis <1> qu qu qu cd <1> ls cd <1> ll <1> cd <1> ll <1> rm <1> make <1> qu qu cd <1> ll <1> rm <1> uq qu qu qu cd <1> ls cd <1> ls ls <1> cd <1> ls ll qu cd <1> ls rm -r <1> ls cd <1> rmdir <1> ls cd <1> ls rm -r <1> qu ls mv <2> ls cd <1> rmdir <1> ls cd <1> ls rm <1> cd <1> rmdir <1> ls cd <1> ls ls <1> rm -r <1> ls <1> cd <1> m <1> mv <2> rm <1> qu cd <1> rmdir <1> ls mv <2> ls cd <1> rm <2> ls rmdir <1> rm <1> ls qu cd <1> ls cd <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> which <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> cd <1> vi <1> vi <1> ls qu 'g #+0865866591 qu #+0865868369 ls #+0865868394 cd<GENSYM:27>/ #+0865868426 rmtmp_co*.o #+0865868457 qu #+0865869408 cd<GENSYM:28>/ #+0865869413 lsbad #+0865869423 mkdirbad #+0865870089 cd<GENSYM:29>/ #+0865870090 ls #+0865870099 ls<GENSYM:30>/ #+0865870109 qu #+0865875527 cd<GENSYM:30>/ #+0865875557 gunzip-cuni.log.gz|less #+0865875589 gunzip-cbin.log.gz|less #+0865875640 gunzip-cbin.log.gz|tail #+0865875683 cd<GENSYM:31>/ #+0865875684 ls #+0865876111 cd.. #+0865876118 lsall #+0865876122 cdall #+0865877131 ls<GENSYM:32>/ #+0865877201 no #+0865877205 ls #+0865884855 ls #+0865884859 nn #+0865884865 ll #+0865885137 ls<GENSYM:32>/ #+0865885152 ls #+0865885177 qu #+0865888613 cd<GENSYM:33>/ #+0865888614 ls #+0865888641 ll #+0865888651 cd<GENSYM:34>/ #+0865888653 ls #+0865888668 cd.. #+0865888671 ls #+0865888693 ls<GENSYM:35>/ #+0865888713 ls<GENSYM:36>/ #+0865888722 m<GENSYM:36>/log.sh #+0865888736 ls #+0865888748 lesslog #+0865889544 lllog #+0865889604 qu #+0865892563 cd.. #+0865892575 vicalendar #+0865893643 qu #+0865948280 analog #+0865948286 whichAnalog #+0865948291 whichanalog #+0865949850 cd<GENSYM:37>/ #+0865949851 ls #+0865949856 viFINDING #+0865950585 ls #+0865950590 cd.. #+0865950590 ls #+0865950600 mkdirtools #+0865950605 mv*.pltools #+0865950607 ls #+0865950619 mvsubsetify.lsp<GENSYM:13>/ #+0865950622 mvlearn.pl.baktools #+0865950623 ls #+0865950666 ll<GENSYM:38>/bin19.data.gz #+0865950671 llbin19.data.gz #+0865950705 rmbin19.data.gz #+0865950717 mvcalc.pl.baktools #+0865950721 mcollect_data #+0865950728 mvcollect_data<GENSYM:13>/ #+0865950728 ls #+0865950744 mvcreate_tree<GENSYM:13>/ #+0865950751 mtest3e.sentences #+0865950759 ls<GENSYM:39>/ #+0865950766 mvtest3e.sentences<GENSYM:39>/ #+0865950770 cd<GENSYM:39>/ #+0865950771 ls #+0865950773 lssent #+0865950782 ls<GENSYM:40>/ #+0865950789 cd.. #+0865950790 ls #+0865950795 mtmp #+0865950800 ls #+0865950803 rmtmp #+0865950813 msimple_stats #+0865950821 lls & '' <2> & \12 <1> & \12 <1> & \12
+> USER5422
+cd <1> ls grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> cd <1> vi <1> cd - grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> cat <1> cat <1> cat <1> ls rm <2> ls vi <1> gzip -9 <3> ls cd <1> ls cd <1> ls mkdir <1> cd <1> mv <2> mv <2> mv <2> mv <2> ls cd <1> ls cd - ls mv <2> mkdir <1> cd <1> mv <2> qu cd <1> ls less <1> less <1> ls ll mv <2> gzip -9 <1> gzip -9 <1> ll mv <2> cp <2> cp <2> cp <2> ls ll gunzip <1> diff <2> | less diff <2> | less cd - cp <2> ls vi <1> cd <1> vi <1> mv <2> ls qu cd <1> ls rm -r <1> rm <3> ls
+> USER5423
+cd <1> ls cp <2> cp <2> cp <2> rm <1> cp <2> cp <2> cp <2> rm <1> ls cp <2> ls gunzip <1> gzip <1> vi <1> ls <GENSYM:22>/process.pl -s -d <2> ls ll <1> ll <1> cat <1> fg cat <1> fg
+> USER5424
+cd <1> ls cat <1> ls cd <1> ls cd <1> ls ls <1> cd <1> mv <2> ls rm <1> cd <1> ls ll m <1> less <1> less <1> ls tree2lisp -f <1> ls tree2lisp -f <1> gzip -9 <2> mv <4> ls cp <2> ls gunzip <1> ls cd <1> mv <2> mv <2> cd - cp <2> cp <2> gunzip <1> wc <1> cd <1> make <1> make
+> USER5425
+cd <1> ls ll cd <1> ll <1> cd - <GENSYM:22>/verify.pl -h <GENSYM:22>/verify.pl -s -d <2> less <1> cp <2> ls gunzip <1> cp <2> cp <2> cat <1> >> <1> cat <1> >> <1> rm <1> sort -u -m -o <3> ll <1> sort -u -m -o <3> ll <1> <GENSYM:20>/c4.5 -f -m1 -c100 -d <1> > <1> <GENSYM:20>/c4.5 -f -m1 -c100 -d <1> > <1> rm <1> cp <2> ls mv <2> mv <2> cp <2> cp <2> gzip -9 <1> <GENSYM:20>/c4.5 -f -m1 -c100 -d <1> > <1> <GENSYM:20>/c4.5 -f -m1 -c100 -d <1> > <1> less <1> ls tain <1> tail <1> tail <1> ls tree2lisp -f <1> tree2lisp -f <1> cp <2> cp <2> gzip -9 <1> ls gunzip <1> mv <6> ls qu qu rm <1> ls rm <2> ls cd - gzip -9 <1> mv <2> make <1> mv <2> make <1> less <1> qu rm <1> qu cd <1> ls <GENSYM:22>/verify.pl -s -d <2> bg ls grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> ll <1> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> less <1> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> vi <1> ls rm <1> gzip -9 <3> ls mv <2> m <1> rm <1> ln -s <2> ls mv <2> ls cp <2> ls cp <2> ls rm <2> m <1> vi <1> <GENSYM:41>/process.pl -h <GENSYM:41>/process.pl -s -d <2> bg ls less <1> ls less <1> ls who w less <1> cd <1> make cd - less <1> ls cat <1> cat <1> wc -l <1> >> <1> wc -l <1> >> <1> cat <1> cat <1> ls ll <1> ll <1> m <1> ls cp <2> cp <2> rm <1> rm <1> gzip -9 <1>
+> USER5426
+cd <1> ls ls no ls grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> ls gzip -9 <3> ls <1> pm <1> rm <1> ls mv <2> ls
+> USER5427
+cd <1> ls cd <1> ls m <1> less <1> l ls cd <1> ls <1> cd <1> ls m <1> cd <1> cp <2> cp <2> cp <2> cp <2> exit
+> USER5428
+qu cd <1> ll <1> cd <1> ls ln -s <2> ln -s <2> ls mkdir <1> mv <2> mv <2> ls cd <1> ls ll cd <1> gunzip -c <1> | less gunzip -c <1> | less cp <2> cd <1> ls gunzip <1> grep <2> > <1> wc <1> grep <2> > <1> wc <1> grep <2> > <1> wc <1> grep <2> >> <1> wc <1> grep <2> > <1> wc <1> mv <2> grep <2> > <1> wc <1> grep <2> > <1> wc <1> cat <1> >> <1> rm <1> grep <2> > <1> wc <1> grep <2> > <1> wc <1> grep <2> > <1> wc <1> cat <1> >> <1> rm <1> grep <2> > <1> wc <1> grep <2> >> <1> wc <1> grep <2> > <1> wc <1> grep <2> >> <1> wc <1> grep <2> >> <1> wc <1> grep <2> > <1> wc <1> grep <2> >> <1> wc <1> grep <2> >> <1> wc <1> ls <1> grep -v <2> > <1> wc <1> grep -v <2> > <1> wc <1> grep -v <2> > <1> grep -v <2> > <1> grep -v <2> > <1> grep -v <2> > <1> grep -v <2> > <1> grep -v <2> > <1> grep -v <2> > <1> grep -v <2> > <1> grep -v <2> > <1> grep -v <2> > <1> grep -v <2> > <1> wc <1> less <1> grep -v <2> > <1> wc <1> wc <1> grep <2> grep <2> > <1> grep -v <2> > <1> less <1> grep <2> > <1> grep <2> >> <1> grep -v <2> > <1> grep -v <2> > <1> less <1> mv <2> ls rm <1> rm <1> ls ls <1> m <1> ls ls <1> wc -l <1> cd - cd - cd <1> vi <1> parsec -P -N < <1> ls less <1> mv <2> vi <1> parsec -P -N < <1> ls less <1> vi <1> parsec -P -N < <1> vi <1> parsec -P -N < <1> less <1> cd <1> make cd - parsec -P -N < <1> less <1> cd - make make cd - parsec -P -N < <1> less <1> grep <2> cat <1> parsec -P -N < <1> vi <1> less <1> parsec -P -N < <1> less <1> cd - cd <1> grep <2> > <1> wc -l <1> rm <1> grep <2> > <1> wc -l <1> grep <2> > <1> wc -l <1> vi <1> mv <2> cd - cd - cd - cd <1> parsec -P -N < <1> less <1> ll <1> less <1> ls <1> cp <2> vi <1> vi <1> parsec -P -N < <1> ls ll <1> less <1> parsec -P -N < <1> less <1> less <1> less <1> less <1> less <1> ls less <1> cd - make cd - parsec -P -N < <1> ll <1> less <1> cd - make bg cd - less <1> jobs cd - parsec -P -N < <1> cd - parsec -P -N < <1> bg less <1> less <1> grep <2> qvi <1> vi <1> parsec -P -N < <1> bg vi <1> less <1> grep <2> less <1> parsec -P -N < <1> less <1> vi <1> parsec -P -N < <1> ll <1> less <1> less <1> ls <1> vi <1> parsec -P -N < <1> vi <1> parsec -P -N < <1> les <1> less <1> grep <2> less <1> cd - cd <1> ls m <1> lp -dmsa15 <2> less <1> cd - ls <1> mv <2> ls <1> cp <2> cd <1> ci -l <1> ll <1> ci -l <1> ci -l <1> cd - cp <2> cd - ci -l <1> ci -l <1> ci -l <1> cd - ls
+> USER5429
+cd <1> ls mv <2> mv <2> ls gunzip <1> ls wc <1> cp <2> cp <2> mv <2> mv <2> ls gunzip <1> ls sort -um -o <3> sort -um -o <3> ls <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> less <1> cp <2> cp <2> ls rm <1> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> less <1> rm <1> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> less <1> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> less <1> less <1> ls tree2lisp -f <1> tree2lisp -f <1> gzip -9 <4> ls mv <2> ls gzip -9 <1> mv <2> ls less <1> gzip -9 <2>
+> USER5430
+cd <1> ls cd <1> cd <1> ls cat <1> cd ls cd <1> ls pwd fg pwd cd cd <1> cd <1> ls cd <1> ls cat <1> pwd cd cd <1> ls more <1> more <1> grep <2> | wc -l cd <1> tail -30 <1> cd logout
+> USER5431
+cd <1> chmod <2>
+> USER5432
+cd <1> w who grep <2> >> <1> grep <2> > <1> ls <1> ls <1> grep <2> > <1> grep <2> > <1> ls <1> m <1> rm <1> grep -v <2> > <1> m <1> mv <2> cd <1> cp <2> chmod <2> cd <1> ls cd <1> ls m <1> parsec -X -N < <1> parsec -P -N < <1> less <1> less <1> cd - cd - cd <1> make make d - cd - mv <2> parsec -P -N < <1> less <1> ll <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> cd - make bg cd - less <1> jobs parsec -P -N < <1> bg vi <1> vi <1> fg bg less <1> kill <1> cd - make cd - parsec -P -N < <1> cd - make cd - cd - make make cd - parsec -P -N < <1> bg less <1> less <1> less <1> uptime less <1> parsec -P -N < <1> ls m <1> mv <2> parsec -P -N < <1> less <1> fg ll <1> less <1> less <1> ll <1> less <1> less <1> cd - make make cd - parsec -P -N < <1> ll <1> cd - make cd - parsec -P -N < <1> parsec -P -N < <1> cd - make cd - parsec -P -N < <1> cd - qu touch <1> make cd - parsec -P -N < <1> ll <1> ll <1> cd - make <1> make cd - parsec -P -N < <1> ll gdb <1> cd - mv <2> cp <2> cd - parsec -P -N < <1> ll <1> less <1> cp <2> rm <1> cd - cp <2> cp <2> cd - parsec -P -N < <1> cd - cp <2> cp <2> cd - parsec -P -N < <1> ll <1> parsec -P -N < <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> less <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> less <1> cd - make make cd - parsec -P -N < <1> less <1> less <1> cd - make cd - parsec -P -N < <1> less <1> lkl <1> ll <1> ll <1> cd - make cd - parsec -P -N < <1> less <1> cd - qu make ll <1> ll make qu uptim uptime qu rm <1> cd <1> ls ls <1> mv <2> make <1> qu cd <1> ls ll <1> mv <2> gzip -9 <1> bg cd <1> cd <1> ls cd <1> ls cd <1> ls cd <1> ls make cd - parsec -P -N < <1> cd <1> cd <1> parsec -P -N < <1> less <1> parsec -P -N < <1> less <1> cat <1> vi <1> parsec -P -N < <1> vi <1> vi <1> ls rm <1> parsec -P -N < <1> vi <1> parsec -P -N < <1> less <1> cd - cd - cd <1> cd - cd <1> make cd - parsec -P -N < <1> less <1> cd - make cd - parsec -P -N < <1> less <1> parsec -P -N < <1> less <1> ll <1> less <1> parsec -P -N < <1> less <1> less <1> parsec -P -N < <1> less <1> parsec -P -N < <1> ls cd <1> ls cd <1> ls ll cd <1> cd <1> ls cd <1> du -k du -k jobs kill <1> fg qu psr cd <1> ls ll df df <1> uptime who w unrm df <1> cd <1> cd <1> ls cd <1> df <1> df <1> df <1> df <1> df <1> df <1> df <1> df <1> df <1> cd <1> du -k df <1> df <1> df <1> df <1> cd <1> ls less <1> cd <1> make cd - parsec -P -N < <1> cd - df <1> cd - fg less <1> parsec -P -N < <1> less <1> cp <2> vi <1> parsec -P -N < <1> bg df <1> cd - df <1> cd - less <1> cd - make cd - parsec -P -N < <1> less <1> ll <1> cat <1> parsec -P -N < <1> less <1> parsec -P -N < <1> less <1> cp <2> vi <1> parsec -P -N < <1> less <1> less <1> cd - make make cd - parsec -P -N < <1> less <1> parsec -P -N < <1> less <1> parsec -P -N < <1> less <1> parsec -P -N < <1> less <1> cd - make make cd - parsec -P -N < <1> less <1> cd - make cd - parsec -P -N < <1> less <1> grep <2> parsec -P -N < <1> grep <2> less <1> parsec -P -N < <1> grep <2> ll <1> less <1> parsec -P -N < <1> grep <2> less <1> cat <1>
+> USER5433
+cd <1> ls <1> less <1> less <1> less <1> vi <1> less <1> less <1> vi <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> cd <1> make make make cd <1> ln -s <2> ln -s <2> vi <1> cat <1> vi <1> vi <1> parsec -P -N < <1> less <1> parsec -P -N < <1> less <1> fg ll <1> less <1> less <1> less <1> less <1> cd - make cd - parsec -P -N < <1> ll <1> less <1> xhost <2> less <1> xhost - <1> xhost <2> xhost - <1> xhost <2> xhost xhost - <1> xhost cat <1> less <1> ll <1> less <1> less <1> less <1> less <1> cat <1> ls rm <2> ls exit
+> USER5434
+exec -P -N <1> < <1>
+> USER5435
+cd <1> more <1> logout
+> USER5436
+cd <1> ls unrm cd - df <1> cd - cat <1> mv <2> parsec -P -N < <1> less <1> cd - grep <2> cd <1> grep <2> cd <1> ls ll <1> cat <1> less <1> cd - make cd - parsec -P -N < <1> ll <1> less <1> cp <2> vi <1> parsec -P -N < <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> less <1> parsec -P -N < <1> ll <1> less <1> cd - make makemake make make make uptime w exit
+> USER5437
+w w who df <1> df -u df -a <1> df -b <1> df -e <1> df -g <1> df -k <1> df -l <1> df -n <1> df -t <1> df -V <1> cd <1> ls mkdir <1> cd <1> ln -s <2> ln -s <2> vi <1> vi <1> cat <1> vi <1> vi <1> cat <1> parsec -P -N < <1> ll <1> cd <1> make cd - parsec -P -N < <1> llnds* ll <1> less <1> cd - make cd - parsec -P -N < <1> ll <1> less <1> less <1> cd - make cd - parsec -P -N < <1> less <1> ll <1> less <1> less <1> less <1> less <1> cd - make make cd - parsec -P -N < <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> less <1> cd - make cd - parsec -P -N < <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> less <1> less <1> less <1> less <1> cd - make cd - parsec -P -N < <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> less <1> ll <1> cd - make cd - parsec -P -N < <1> ll <1> less <1> less <1> less <1> less <1> cd - make cd - parsec -P -N < <1> less <1> ll <1> less <1> less <1> cd - make cd - parsec -P -N < <1> ll <1> less <1> cd - make make cd - parsec -P -N < <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> ll <1> cd - make make cd - parsec -P -N < <1> less <1> ll <1> cd - make cd - parsec -P -N < <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> make cd - make cd - parsec -P -N < <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> less <1> ll <1> less <1> less <1> ll <1> parsec -P -N < <1> ll <1> rm <2> cd <1> make cd - cd <1> make make make make cd - parsec -P -N < <1> ll <1> cd - make make cd - parsec -P -N < <1> ll <1> less <1> less <1> cd - make cd - parsec -P -N < <1> ll <1> cd - make cd - parsec -P -N < <1> ll <1> cd - make cd -parsec -P -N < <1> cd - parsec -P -N < <1> ll <1> cd - make cd - parsec -P -N < <1> ll <1> cd - make cd - parsec -P -N < <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> cd - make cd - cd - make make cd - parsec -P -N < <1> ll <1> less <1> grep <2> less <1> cd - make cd - parsec -P -N < <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> less <1> grep <2> less <1> less <1> cd - make cd - parsec -P -N < <1> less <1> grep <2> parsec -P -N < <1> ll <1> less <1> cd - make cd - parsec -P -N < <1> ll <1> grep <2> less <1> cd <1> ls <1> less <1> grep <2> less <1> grep <2> grep <2> ls <1> less <1> less <1> grep <2> | less ls <1> less <1> grep <2> | less grep <2> | less ls <1> less <1> grep <2> | less grep <2> | less ls <1> less <1> grep <2> | less ls <1> less <1> grep <2> | less ls <1> less <1> grep <2> | less grep <2> > <1> less <1> ls <1> less <1> grep <2> | less grep <2> | less less <1> grep <2> | less grep <2> | less grep <2> | less less <1> grep <2> | less ls <1> less <1> grep <2> | less less <1> grep <2> | less less <1> less <1> grep <2> | less grep <2> | less less <1> less <1> wc <1> less <1> less <1> vi <1> less <1> less <1> ls <1> less <1> less <1> ls <1> less <1> less <1> cp <2> cd - ls rm <2> ls rm <1> parsec -Btest_sent jobs kill <1> ls cd <1> make cd - parsec -Btest_sent ls rm -rf <1> cd <1> ls qu cd <1> less <1> less <1> grep <2> less <1> subcat.h less <1> less <1> grep <2> grep <2> grep <2> grep <2> grep <2> less <1> less <1> less <1> less <1> less <1> cd <1> nice -Btest_sent <1> cd <1> make cd <1> nice -Btest_sent <1> jobs nice -Btest_sent <1> cd <1> ll <1> cd <1> ll <1> ls ln -s <2> ln -s <2> cd - cd <1> nice -Btest_sent <1> cd <1> make nice -Btest_sent <1> cd - nice -Btest_sent <1>
+> USER5438
+cd <1> ls cd <1> ls ll <1> cd <1> ll <1> less <1> cd <1> less <1> cd <1> ll <1> less <1> cd <1> ls cd <1> ls less <1> ll <1> less <1> cd <1> rm <1> cd <1> rm <1> cd <1> rm <1> cd <1> rm <1> ls unrm df -k <1> cd <1> ls rm <1> ln -s <2> ls uptime w cd <1> ls less <1> cd <1> ls cd <1> ls qu qu quota -v <1> quota -v <1> fd -k df -k unrm cd <1> ls cd <1> ls m <1> m <1> ls less <1> cd <1> ls less <1> rm <1> grep <2> ls m <1> rm <1> ls cd <1> ls ls less <1> cd <1> ls cd <1> less <1> grep <2> cd <1> less <1> grep <2> cd <1> less <1> cd <1> ls less <1> rm <1> cd <1> rm <1> cd <1> rm <1> cd <1> rm <1> cd <1> rm <1> cd <1> ls cd <1> less <1> cd <1> less <1> cd <1> cd <1> cd <1> less <1> ll <1> less <1> cd - make cd - cd <1> less <1> cd <1> ls less <1> grep <2> cd <1> ls cd <1> rm <1> cd - less <1> grep <2> ll <1> less <1> cd <1> ls cd - rm <1> cd - ls less <1> ll <1> cat <1> less <1> cd <1> ls ll <1> cd <1> ll <1> cd <1> make make cd <1> grep <2> cd <1> ls grep <2> cd <1> ls grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> cat <1> ll <1> cd <1> grep <2> less <1> cd - less <1> cd <1> ls cd <1> grep <2> less <1> cd <1> ls cd <1> ls rm -r <1> ls ln -s <2> ls cat <1>
+> USER5439
+cd <1> less <1> vi <1> vi <1> vi <1> vi <1> source <1> source <1> setenv less <1> setenv <2> source <1> setenv source <1> less <1> setenv <2> less <1> cd <1> mkdir <1> cd <1> ls source <1> less <1> less <1> source <1> cd <1> less <1> setenv <2> less <1> cd <1> source <1> source <1> source <1> source <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls m <1> ls cd <1> m <1> ls chgram <1> setenv <2> ; cd <1> ; make ll <1> qu exit
+> USER5440
+pwd cd <1> ls cd <1> cd ` <1>
+> USER5441
+xinit exit
+> USER5442
+ping <1> f <1> exit
+> USER5443
+ping <1> exit
+> USER5444
+emacs
+> USER5445
+emacs
+> USER5446
+cd <1> more <1> grep <2> grep <2> more <1> more <1> diff <2> grep <2> fg emacs <1> cd <1> m <1> m <1> cd <1> ls vi <1> parsec -P -N < <1> less <1> fg ls more <1> fg emacs fg cd <1> ls more <1> more <1> logout
+> USER5447
+newgrp <1> exit
+> USER5448
+xinit exit
+> USER5449
+cd <1> xdvi <1> & exit
+> USER5450
+cd <1> mkdir <1> ls cd <1> ln -s <2> ln -s <2> ln -s <2> parsec -Btest_sent3 cd <1> dvi <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> exit
+> USER5451
+emacs exit
+> USER5452
+newgrp <1>
+> USER5453
+who xinit
+> USER5454
+vi <1> vi <1> f <1> f <1> f <1> f <1> qu f <1> pgp -h pgp -ks <1> clear pgp -ks <1> pgp -h pgp -kc <1> pgp -kvc <1> cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls less <1> exit
+> USER5455
+less <1> less <1> less <1> rm <1> cd <1> make cd <1> cp <2> cp <2> cp <2> cp <2> ls ls <1> cd <1> cat <1> cat <1> cat <1> cat <1> less <1> cd <1> less <1> ls ll rm <1> rm <1> ls rm <1> cd <1> ls ll m <1> cd <1> ls ll cat <1> less <1> cd <1> cat <1> cd <1> ll cd <1> cat <1> cd <1> ll less <1> cd <1> ll less <1> cd <1> ls ls <1> less <1> cd <1> ll less <1> cd <1> ll less <1> less <1> less <1> less <1> less <1> less <1> ll less <1> cd <1> ll cat <1> cd <1> ll less <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> cd <1> ll less <1> cd <1> ll less <1> less <1> less <1> less <1> cd <1> ll less <1> less <1> cd <1> ls ll less <1> grep <2> grep <2> less <1> cd <1> ll less <1> cd <1> ll less <1> grep <2> rsh <2> rsh <2> cd <1> ll less <1> cd <1> ll qcd <1> cd <1> ll less <1> cd <1> ll less <1> cd <1> ll cd <1> ll less <1> grep <2> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> grep <2> cd <1> grep <2> less <1> cd <1> grep <2> less <1> less <1> less <1> cd <1> grep <2> less <1> cd <1> ll cd <1> grep <2> grep <2> cd - grep <2> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> grep <2> less <1> cd <1> grep <2> cd <1> less <1> cd <1> grep <2> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> grep <2> less <1> cd <1> rsh <2> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> ll less <1> cd <1> grep <2> ll cd <1> ll cd <1> cd <1> ls ll grep <2> ll less <1> cd <1> grep <2> ll less <1> less <1> less <1> grep <2> ll less <1> less <1> less <1> grep <2> cd <1> ll cd <1> ls ll cd <1> ll cd <1> ls grep <2> rm <1> cd <1> rmdir <1> ls cd <1> cd <1> ll grep <2> less <1> cd <1> ls cd <1> rm <1> cd <1> ls cd <1> ll grep <2> less <1> cd <1> cd <1> less <1> grep <2> less <1> cd <1> cd <1> cd <1> grep <2> less <1> cd <1> rsh <2> grep <2> less <1> cd <1> grep <2> less <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> grep <2> less <1> cd <1> ls mv <2> ls qu ll ls ll chgrp <2> ls rm <1> cd <1> rmdir <1> exit
+> USER5456
+cd <1> ls cd <1> ls cd <1> ls less <1> ls cat <1> grep <2> less <1> parsec -P -N < <1> ln -s <2> ln -s <2> parsec -P -N < <1> parsec < <1> cd <1> less <1> cd <1> cd <1> make cd - parsec < <1> cd - make make cd - parsec < <1> cd <1> less <1> ll <1> ls ll m <1> cd <1> parsec -V3 < <1> mv <2> cd - make cd - parsec -V3 < <1> cd <1> make cd - parsec -V3 < <1> cd <1> cd <1> ll cd <1> cd <1> make cd <1> dvips <1> dvips -t <2> dvips -t -t <3> dvips -t -t <3> dvips -t -t <3> lp -d <2>
+> USER5457
+cd <1> xdvi <1> & latex <1> man <1> man <1> dvips -t <2> ls cp <2> ls <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> cd <1> ls cd <1> ls cd <1> ls m <1> cd <1> ls cd <1> ls cd <1> ls m <1> cd <1> ls ls ll cd <1> ll cd <1> ls cd <1> ls cd <1> ls m <1> m <1> m <1> cd <1> ls cd <1> ls m <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls ls <1> cd <1> ls cd <1> ls cd <1> ls m <1> cd <1> ls ll cd <1> ll m <1> diff <2> cd <1> latex <1> latex <1> texspell <1> texspell <1> cd <1> less <1> vi <1> latex <1> cd - latex <1> cd - ls rm <1> mv <2> m <1> cat <1> rm <1> unrm cd - cd - cd cd - cd <1> ls latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> dvips <1> dvips -t -t <3> dvips <1> latex <1> dvips <1> latex <1> latex <1> dvips <1> ll <1> chmod <2> ll <1> ll <1> chmod <2> chmod <2> ll chgrp <2> ll pwd cp <2> cp <2> latex <1> latex <1> xdvi <1> & dvips <1> mv <2> latex <1> dvips <1> latex <1> dvips <1> mv <2> latex <1> dvips <1> mv <2> ls latex <1> man <1> dvips <1> enscript -2r <1> > <1> enscript -2r -p <2> enscript -2r -ptmp.ps <1> enscript -2r -p <2> enscript -2 -p <2> rm <1> ls ls <1> ls <1> rsh -dmsa15 <5> latex <1> latex <1> latex <1> dvips <1> mv <2> latex <1> dvips <1> mv <2> latex <1> dvips <1> latex <1> dvips <1> mv <2> latex <1> dvips <1> mv <2> latex <1> dvips <1> mv <2> exit
+> USER5458
+cd <1> cd <1> ls ll less <1> ll cd <1> parsec -V3 < <1> parsec -V3 < <1> ll cd <1> <GENSYM:42>/ cd <1> ll
+> USER5459
+mail cd <1> ls cd <1> ls emacs <1> grep <2> more <1> fg fg cd <1> make cd <1> ls parsec -V3 < <1> more <1> more <1> fg cd <1> ls ll <1> ll checkin <1> ci <1> ci <1> ls cp <1> cp <2> cp <2> ls ( type <3> ) pwd ls diff <2> > <1> diff <2> diff <2> | more pwd ls more <1> more <1> pwd more <1> logout
+> USER5460
+cd <1> ls cd <1> ls cd <1> diff <2> mail <1> < <1> logout
+> USER5461
+cd <1> make make make make make make make make make make make parsec -V3 < <1> parsec -V3 < <1> cd <1> ls less <1> ll <1> less <1> cd <1> make make parsec -V3 < <1> parsec -V3 <GENSYM:43>/test_sent3 ls <1> ln -s <2> parsec -V3 -Btest_sent3 make parsec -V3 -Btest_sent3 make make make parsec -V3 -Btest_sent3 ,ale make cd <1> cat <1> parsec -V3 < <1> <GENSYM:44>/parsec -V3 < <1> ll cd <1> ll diff <2> ls cd <1> ls ll cd <1> ls less <1> less <1> cd <1> make cd ` <1>
+> USER5462
+cd <1> parsec -V3 -Bstest_sent3 parsec -V3 <GENSYM:43>/test_sent3 parsec -V3 -Btest_sent3 cd <1> ls cd <1> ls ll less <1> less <1> less <1> less <1> less <1> less <1> cd <1> ll less <1> cd <1> ll less <1> less <1> less <1> less <1> less <1> cd <1> ll less <1> cd <1> ll less <1> cd <1> ll cat <1> less <1> less <1> less <1> less <1> cd <1> ll less <1> cd <1> make parsec -V3 -Btest_sent3 make make make parsec -V3 -Btest_sent3 make parsec -V3 -Btest_sent3 make parsec -V3 -Btest_sent3 make make parsec -V3 -Btest_sent3 make make parsec -V3 -Btest_sent3 make parsec -V3 -Btest_sent3 make cd <1> parsec -V3 < <1> <GENSYM:44>/parsec -V3 < <1> make cd <1> make make cd - <GENSYM:44>/parsec -V3 < <1> cd <1> <GENSYM:44>/parsec -V3 < <1> cd <1> make cd - <GENSYM:44>/parsec -V3 < <1> cd - make cd <GENSYM:45>/parsec -V3 < <1> cd - <GENSYM:44>/parsec -V3 < <1> cd - make cd - <GENSYM:44>/parsec -V3 < <1> <GENSYM:44>/parsec -V3 < <1> ls cd - make make cd - cd - make make make make make cd - <GENSYM:44>/parsec -V3 < <1> <GENSYM:44>/parsec -V3 < <1> cat <1> <GENSYM:44>/parsec -V3 -sntnce.txt <GENSYM:44>/parsec -V3 -Bsntnce.txt fg <GENSYM:44>/parsec -V3 < <1> cat <1> cd - make cd - <GENSYM:44>/parsec -V3 < <1> cd - make cd - <GENSYM:44>/parsec -V3 < <1> cd <1> parsec -V3 -Btest_sent3
+> USER5463
+cd <1> emacs <1> logout
+> USER5464
+cd <1> gunzip <1> ls mv <2> mv <2> mv <2> mv <2> mv <2> mv <2> mv <2> mv <2> mv <2> mv <2> mv <2> lp -dmsa15 <1> qu
+> USER5465
+less <1> setenv less <1> m <1> f <1> ll less <1> less <1> exit
+> USER5466
+cd <1> ls emacs <1> ls lpstat lpstat <1> cancell <1> cancel <1> lpstat <1> less <1> ls head <1> head <1> head <1> ls head <1> head <1> head <1> ls head <1> head <1> head <1> ls lp -dmsa15 <11> logout
+> USER5467
+cd <1> ll lpstat exit
+> USER5468
+cd <1> lp -dmsa15 <3>
+> USER5469
+cd <1> ls ls <1> lp -dmsa15 <1>
+> USER5470
+emacs jobs kill <1> pine exit
+> USER5471
+pine vi <1> qu exit
+> USER5472
+cd <1> ls ll <1> less <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls mv <2> mv <2> gunzip -c <1> > <1> gunzip -c <1> > <1> cd <1> ls cp <2> cd <1> ls c4.5 -c100 -m1 -d -f <1> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> tree2lisp -f <1> tree2lisp -f <1> ls rm <4> cp <2> cp <2> mv <2> mv <2> qu ext exit
+> USER5473
+pine exit
+> USER5474
+pine exit
+> USER5475
+pine exit
+> USER5476
+exit
+> USER5477
+f <1> f <1> pine eeph <1> f <1> f <1> f <1> pine uptime w exit
+> USER5478
+pine exit
+> USER5479
+pine cd <1> ls cd <1> ll m <1> exit
+> USER5480
+logout
+> USER5481
+pine exit
+> USER5482
+pine cd <1> ls cd <1> ls cd <1> ls qu cd cd <1> ls ls <1> CD <1> cd <1> cd <1> ls mkdir <1> cd <1> cp <2> man <1> cp -pr <2> bg qu du -k qu qu qu qu mv <2> ln -s <2> ls cd <1> ls ls <1> cd <1> ls cd <1> ls gunzip <1> | less jobs ls fg less <1> gzip -9 <1> gunzip -c <1> | less ls cd <1> ls gunzip -c <1> | less gunzip -c <1> | less ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls m <1> cd <1> cd <1> ls cd <1> m <1> cd <1> ls rm -r <1> bg qu ls <1> ls <1> ls <1> ls <1> qu ls <1> jobs exit
+> USER5483
+pine cd <1> ls qu ls <1> cd <1> qu cd <1> du -k cd <1> ls cd <1> du -k cd <1> du -k cd <1> ls exit
+> USER5484
+newgrp <1>
+> USER5485
+cd <1> make cp <2> cp <2> make parsec -V3 -S jobs kill <1> cd <1> ll cp <2> cd <1> ll <1> cd <1> jobs ls ls <1> qu make make <1> make make ll <1> less <1> less <1> make <1> cd <1> ls mkdir <1> cd <1> ln -s <2> ln -s <2> <GENSYM:41>/verify.pl -h <GENSYM:41>/verify.pl -s -d <2> <GENSYM:41>/verify.pl -s -d <2> <GENSYM:41>/verify.pl -s -d <2> jobs kill <1> kill <1> <GENSYM:41>/verify.pl -s -d <2> ls less <1> parsec -V -N < <1> <GENSYM:1>/parsec -V -N < <1> ll ll <1> rm <1> rm <1> ln -s <2> ln -s <2> jobs kill <1> <GENSYM:41>/verify.pl -s -d <2> ls ll <1> less <1> kill <1> <GENSYM:1>/parsec -V -N < <1> rm <1> ln -s <2> <GENSYM:41>/verify.pl -s -d <2> ls grep <2> grep <2> grep <2> ll less <1> cd - cd - cd <1> make <1> make <1> ll <1> touch <1> make make <1> touch <1> make <1> cd - <GENSYM:41>/verify.pl -s -d <2> bg ls grep <2> ll <1> ll <1> ll <1> less <1> fg jobs kill <1> cd - make <1> bg cd - rm <3> ls rm <1> cd - fg touch <1> make <1> touch <1> make <1> cd - <GENSYM:41>/verify.pl -s -d <2> grep <2> less <1> jobs ll fg less <1> kill <1> cd - make <1> make <1> cd - ls rm <4>
+> USER5486
+xstart exit
+> USER5487
+matlab
+> USER5488
+f <1> cd <1> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> qu ll gzip -9 <1> ll gzip -9 <1> qu rm <1> qu qu ls gunzip <1> grep <2> > <1> ls rm <1> ls <1> cd <1> ls mkdir <1> cd <1> ln -s <2> cd <1> cp <2> ls rm <1> gunzip <1> ls cp <2> ls tree2lisp -f <1> tree2lisp -f <1> ls cp <2> cp <2> gzip -9 <1> mv <2> rm <1> ls cd <1> ls <1> ls ln -s <2> rm <1> make <1> cd <1> ls ls ll cd <1> ls cd <1> l,s ls cd <1> ls ll cd <1> ls cd <1> ls cd <1> ls ls <1> ls <1> ls <1> ls <1> m <1> cd <1> ls ls mkdir <1> mkdir <1> mkdir <1> mkdir <1> cd <1> ls cd <1> ls ls <1> cd <1> ls ls <1> ls <1> ls <1> cd <1> make <1> less <1> less <1> cp <2> make <1> <GENSYM:41>/verify.pl -h <GENSYM:41>/verify.pl -s -d <2> kill <1> ls <1> ls <1> ls <1> cd <1> ls ln -s <2> ln -s <2> mkdir <1> cd <1> mv <2> l ls ln -s <2> ls <GENSYM:41>/verify.pl -s -d <2> ls less <1> kill <1> <GENSYM:41>/verify.pl -s -d <2> ls less <1> rm <1> cp <2> <GENSYM:41>/verify.pl -s -d <2> jobs kill <1> kill <1> vi <1> ls cd <1> ls <1> rm <1> cp <2> rm <1> cp <2> cp <2> cd <1> ls rm <1> ls gunzip <1> ls mv <2> mv <2> tree2lisp -f <1> tree2lisp -f <1> ls cp <2> cp <2> mv <2> mv <2> gzip -9 <1> vi <1> ls mv <2> rm <1> ls m <1> ls cd <1> make <1> cp <2> make <1> cd <1> <GENSYM:41>/verify.pl -s -d <2> ls less <1> ll <1> <GENSYM:41>/verify.pl -s -d <2> ls rm <1> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> gzip -9 <3> ls m <1> vi <1> cd <1> ls cd <1> ls mkdir <1> cd <1> mv <2> mv <2> ls cd <1> ls ll <1> cd - cd <1> ls m <1> cd <1> cp <2> cd <1> ls gunzip <1> diff <2> w fg ls cd <1> ls cp <2> cd <1> ls gunzip <1> ls diff <2> diff <2> | less less <1> less <1> cp <2> ls mv <2> mv <2> mv <2> gunzip <1> tree2lisp -f <1> diff <2> tree2lisp -f <1> diff <2> rm <1> ls rm <1> rm <1> ls ls <1> vi <1> cp <2> ls gunzip <1> ls mv <2> mv <2> tree2lisp -f <1> tree2lisp -f <1> cp <2> cp <2> mv <2> mv <2> gzip -9 <1> ls mv <2> rm <2> ls cd <1> make <1> ls <1> mv <2> make <1> cd <1> <GENSYM:41>/verify.pl -s -d <2>
+> USER5489
+cd <1> ls cd <1> ls less <1> ls <1> ls <1> ll <1> cp <2> make <1> less <1> touch <1> make <1> ls <1> m <1> fg less <1> fg cd <1> ls cp <2> ln -s <2> <GENSYM:41>/verify.pl -s -d <2> ls cp <2> ls mv <2> cd <1> ls cp <2> ls cp <2> ls head <1> ls head <1> qls ls gunzip <1> vi <1> ls mv <2> mv <2> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> m <1> tail <1> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> tail <1> ll rm <2> gzip -9 <1> cd <1> make <1> mv <2> make <1>
+> USER5490
+cd <1> ls cd <1> grep <2> cd <1> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> w ping <1> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> vi <1> gzip <3> rm <1> gunzip <1> gzip -9 <3> cd <1> ls mv <2> mv <2> qu cd <1> ls <1> cd <1> ls w cd <1> ls ll grep <2> > <1> grep <2> > <1> wc -l <1> tree2lisp -f <1> tree2lisp -f <1> ll gzip -9 <3> ll cp <2> cp <2> gzip -9 <1> less <1> cd <1> ls mv <2> ls qu exit
+> USER5491
+cd <1> ls grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> vi <1> rm <1> gzip -9 <3> cd <1> cd - cd <1> ls mv <2> mv <2> ls cd - ls cd <1> ls cp <2> ls gunzip <1> ls rm <1> cp <2> ls gunzip <1> m <1> ls mv <2> mv <2> tree2lisp -f <1> tree2lisp -f <1> mv <2> mv <2> cp <2> cp <2> cp <2> gzip -9 <1> mv <2> mv <2> ls rm <1> ls cd <1> make <1> cp <2> make <1>
+> USER5492
+cd <1> ls <1> cd <1> ll <1> cd <1> <GENSYM:41>/verify.pl -s -d <2>
+> USER5493
+cd <1> ls cd <1> ls cd <1> ls cd <1> ls eject ls ls cd <1> ls m <1> cd <1> ls m <1> ls cd <1> ls cd <1> ls m <1> ls less <1> less <1> ll <1> cp <2> cd <1> qu cd <1> ls eject exit
+> USER5494
+cd <1> ls rm <1> less <1> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> vi <1> gzip -9 <3> cd <1> ls mv <2> mv <2> ls qu cd <1> ls cp <2> cd <1> ls head <1> vi <2> ls ls <1> mv <2> gunzip <1> mv <2> mv <2> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> tree2lisp -f <1> tree2lisp -f <1> cp <2> cp <2> gzip -9 <4> grep <2> > <1> grep <2> > <1> gzip -9 <1> rm <2> cd <1> make <1> mv <2> cd <1> ls m <1> cd <1> ls mv <2> ls qu cd <1> ls cd <1> make <1> cd <1> <GENSYM:41>/verify.pl -s -d <2>
+> USER5495
+cd <1> ls rm <1> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> vi <1> ls ls <1> m <1> vi <1> ls vi <1> cat <1> emacs <1> gzip -9 <3> cd <1> ls mv <2> mv <2> cd - ls cd <1> vi <1> vi <1> vi <1> cp <2> ls rm <1> gunzip <1> tree2lisp -f <1> tree2lisp -f <1> mv <2> mv <2> cd <1> make <1> cp <2> make <1>
+> USER5496
+cd <1> m <1> <GENSYM:41>/verify.pl -s -d <2> ll <1> fg
+> USER5497
+ping <1> cd <1> ls rm <4> <GENSYM:41>/verify.pl -s -d <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> vi <1> less <1> rm <1> gzip -9 <3> cd <1> ls mv <2> mv <2> ls qu cd - ls cd <1> rm <1> ls du du -k rm <1> du -k rm <1> du -k exit
+> USER5498
+cd <1> ls cd <1> make <1> ll <1> ll <1> ls ln -s <2> cd - <GENSYM:41>/verify.pl -s -d <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> vi <1> cd <1> ls m <1> cd <1> less <1> cd <1> ls rm <4> ls cd - qu cd - cd <1> rm <1> ls du -k cd <1> du -k cd <1> rm <1> du -k rm <1> du -k exit
+> USER5499
+cd <1> less <1> exit
+> USER5500
+cd <1> ls ls <1> cd <1> m <1> rm <1> cd <1> rm <1> rm <1> ls cp <2> ls cp <2> ls gunzip <1> gunzip <1> ls mv <2> mv <2> tree2lisp -f <1> tree2lisp -f <1> rm <1> rm <1> gunzip <1> ls mv <2> mv <2> mv <2> mv <2> tree2lisp -f <1> tree2lisp -f <1> vi <1> ls cp <2> cp <2> ls gzip -9 <1> mv <2> mv <2> mv <2> ls mv <2> mv <2> mv <2> cd <1> cp <2> ls make <1> less <1> cp <2> make <1> bg cd <1> ll rm <1> ln -s <2> ll <1> cd <1> ll <1> m <1> fg cd <1> <GENSYM:41>/verify.pl -s -d <2> less <1> cd <1> <GENSYM:41>/verify.pl -s -d <2> ls grep <2> grep <2> grep <2> grep <2> grep <2> less <1> less <1> ls fg less <1> ls m <1> less <1> cd <1> cd <1> ll <1> ln -s <2> rm <1> ln -s <2> make <1> rm <1> cp <2> make <1> make <1> m <1> ln -s <2> make <1> touch <1> make <1> cd <1> ls rm <4> ls <GENSYM:41>/verify.pl -s -d <2> ls <1> m <1> grep <2> grep <2> grep <2> fg bg cd <1> less <1> less <1> cd - grep <2> grep <2> grep <2> grep <2> grep <2> ls grep <2> grep <2> cd <1> ls m <1> m <1> ls cd <1> less <1> less <1> less <1> less <1> ls ll uptime less <1> fg kill <1> ls rm <4> ls ll <1> cd <1> rm <1> make <1> cd <1> less <1> <GENSYM:41>/verify.pl -s -d <2> grep <2> fg less <1> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> grep <2> ls rm <1> gzip <3> gunzip <1> gzip -9 <3> mv <2> cd <1> ls gunzip <1> ls cp <2> gunzip <1> ls mv <2> mv <2> gunzip <1> grep <2> > <1> diff <2> rm <4> cp <2> ls grep <2> > <1> diff ` <2>
+> USER5501
+m <1> exit
+> USER5502
+cd <1> cd <1> more <1> grep <2> grep <2> grep <2>
+> USER5503
+cd <1> ls cd <1> ls eject ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> cd - cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls m <1> ls m <1> ls mv <1> m <1> ls cd <1> ls cd <1> ls cd <1> ls m <1> m <1> ls m <1> ls cd <1> ls cd <1> ls cd <1> eject cd <1> ls cd <1> ls cd <1> ls m <1> tail <1> ls cd <1> m <1> m <1> cd <1> eject cd <1> ls ls <1> cd <1> ls cd <1> eject cd <1> ls cd <1> ls cd <1> ls cd <1> eject ls cd <1> ls m <1> cd <1> ls m <1> m <1> ls cd <1> ls m <1> ls m <1> ls m <1> ls m <1> ls m <1> ls cd <1> ls mkdir <1> mv <2> cd - cp <2> cp <2> m <1> cp <2> ls cd <1> ls cd <1> ls m <1> m <1> m <1> ls <1> m <1> ls m <1> cd <1> ls cd <1> ls m <1> cd <1> ls m <1> m <1> cd <1> ls cd <1> ls cd <1> ls m <1> m <1> ls m ` jun90.ndx <1> m <1> tail <1> cp <2> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls m <1> cd <1> ls cd <1> ls m <1> m <1> m <1> cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> ls cd <1> ls cd <1> m <1> cd <1> ls m <1> ls cd <1> ls m <1> m <1> ls cd <1> ls eject ls cd <1> ls m <1> cd <1> ls ls <1> m <1> m <1> ls cd <1> ls m <1> ls cp <2> m <1> m <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> ls m <1> ll <1> cd <1> ls eject exit
+> USER5504
+lp -d <2>
+> USER5505
+exec -c100 -m1 -d -s -f <2>
+> USER5506
+exec -c100 -m1 -d -s -f <2>
+> USER5507
+exec -c100 -m1 -d -s -f <2>
+> USER5508
+exec -c100 -m1 -d -s -f <2>
+> USER5509
+cd <1> cd <1> ll <1> make <1> ll <1> cd <1> ll gzip -9 <4> cd - make <1> cd <1> cd - ll <1> cd <1> make <1> cd <1> make <1> cd - gunzip <1> cd - make <1> cd <1> ll gzip -9 <1> ll mv <2> cd <1> make <1> cd <1> m <1> <GENSYM:41>/verify.pl -s -d <2> less <1> fg bg grep <2> grep <2> grep <2> fg kill <1> ls m <1> ls cd <1> ls cd <1> ll <1> cd <1> mv <2> gunzip <1> gunzip <1> ls less <1> less <1> ls gzip -9 <1> gunzip <1> less <1> cp <2> emacs <1> grep <1> | wc grep <2> | wc grep <2> | wc ls gunzip <1> wc <1> less <1> grep <2> | wc head <1> wc <1> less <1> ls gzip -9 <1> gunzip <1> wc <1> grep <2> | wc less <1> less <1> ls <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> m <1> gunzip <1> grep <2> | wc grep <2> | wc less <1> ll cp <2> cp <2> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> rm <1> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> mv <2> mv <2> fg grep <2> | wc grep <2> | wc less <1> grep <2> | wc grep <2> | wc grep <2> | wc wc <1> less <1> fg tree2lisp -f <1> less <1> cp <2> tree2lisp -f <1> less <1> grep <67> p_pp, <12> 2, <10> me, <3> mp, <3> pp+vp_adv, <3> bj+vp_pp, <3> +det+poss, <3> _nominal_head+poss, <3> e_22_nominal_head+np_pp, <2> , <4> _n_head+nmod1+nmod2, <2> rule_34_n_head+nadv+nadjp+nmo, <3> ule_43_adj_head+a2adjp, <2> rule_48_prep_head+pp_poss_obj, <2> me, <1> echo
+> USER5510
+f <1> mesg mesg <1> mesg talk <1> exit
+> USER5511
+cd <1> w less <1> ll ll <1> ll <1> ll <1> ll <1> cd <1> ll <1> cat <1> cp <2> exit
+> USER5512
+cd <1> ls ln -s <2> cp <2> cp <2> nice -c100 -m1 -f <2> > <1> ls exit
+> USER5513
+w exit
+> USER5514
+vmstat <1> ln <2> cp <2> gunzip <1> cd <1> ls <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> rm <1> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> & vmstat <1> vmstat <1> vmstat <1> ls m <1> rm <1> exit
+> USER5515
+qu cd <1> ls ln -s <2> cp <2> nice -c100 -m1 -d -f <2> > <1> & vmstat <1> vmstat <1> qu cd <1> rm <1> cd - ls ls <1> m <1> rm <3> ls qu exit
+> USER5516
+exec -c100 -m1 -d -f <2>
+> USER5517
+exec -c100 -m1 -d -f <2>
+> USER5518
+cd <1> ls ln -s <2> ln -s <2> <GENSYM:20>/c4.5 -c100 -m1 -d -f <1> > <1> bg vmstat <1> ls m <1> jobs vmstat <1> jobs emacs jobs ls vmstat <1> cd rm <1> unrm exit
+> USER5519
+exit
+> USER5520
+exec -c100 -m1 -d -f <2>
+> USER5521
+exec -c100 -m1 -d -f <2>
+> USER5522
+pwd cd <1> cd <1> emacs <1> more <1> cd <1> grep <2> grep <2> | less pwd grep <1> | less grep <2> | less history grep <2> | less cd <1> cd <1> ls more <1> pwd pwd cd <1> more <1> cd <1> grep <2> grep <2> grep <1> grep <2> grep <2> grep <2> | less grep <2> cd <1> more <1> more <1> more <1> g~
+> USER5523
+vmstat <1> cd <1> ls cd <1> make make <1> w which <1> cd less <1> less <1> less <1> ping <1>
+> USER5524
+cd <1> ls m <1> lp -dmsa15 <1> cd <1> m <1> w
+> USER5525
+exit
+> USER5526
+w uptime rsh <2> exit
+> USER5527
+cd <1> ls <GENSYM:46>/parsec -V3 <1> nice -V3 <GENSYM:47>/sent_find <1> nice -V3 <GENSYM:48>/sent_find <1>
+> USER5528
+cd <1> cd <1> ls cd <1> ls cd <1> ls less <1> cd <1> less <1> less <1> less <1> less <1> ls less <1> ls less <1> cd <1> cat <1> less <1> cd <1> cat <1> less <1> less <1> less <1> less <1> less <1> cat <1> cd <1> cat <1> less <1> cat <1> cd <1> cat <1> less <1> cd <1> cat <1> less <1> cd <1> cd <1> ls cd <1> ls cat <1> less <1> cd <1> cat <1> less <1> cat <1> less <1> cd <1> cat <1> less <1> cat <1> cd <1> cat <1> less <1> cd <1> cat <1> less <1> ll cat <1> cd <1> cat <1> less <1> ll cd <1> cat <1> less <1> cd <1> cat <1> less <1> cd <1> mv <2> cp <2> cat <1> head -14 <1> >> <1> head -14 <1> > <1> less <1> ls mv <2> cp <2> vi <1> <GENSYM:46>/parsec -V3 -Bsent_working ls rm -r <1> ls vi <1> ll chmod <2> ll chmod <2> chmod <2> ll cd <1> ll chmod <2> cd <1> ls ll cd <1> ls ll cd <1> chmod -R <2> ll ll <1> cd <1> make cd <1> cd <1> less <1> cd <1> ls m <1> cd <1> make cd - less <1> cd - make make cd <1> less <1> ll <1> cd - make make cd <1> <GENSYM:46>/parsec -V3 -Bsent_working vi <1> fg
+> USER5529
+cd <1> ls ls cd ls exit
+> USER5530
+newgrp <1>
+> USER5531
+xinit
+> USER5532
+f <1> f <1> f <1> ping <1> f <1> f <1> vi <1> vi <1> f <1> vi <1> less <1> less <1> cd <1> less <1> ph <1> ph <1> ph <1> ll lsl ls la ll -a cd <1> ll less <1> less <1> <GENSYM:49>/netscape & <GENSYM:49>/netscape & jobs kill <1> cd <1> rm <1> cd <1> jobs fg bg jobs ls <1> vi <1> setenv <2> <GENSYM:49>/netscape & cd <1> ls cdcd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> ls <1> ls <1> cd <1> ls cd <1> ls m <1> ls ls <1> ls <1> ls <1> ls <1> cd <1> ls <1> ls <1> cd <1> ls ls <1> cd <1> m <1> mail <1> < <1> less <1> vi <1> vi <1> cd <1> vi <1> jobs kill <1> kill -9 <1> cd <1> rm <1> cd <1> f <1> f <1> f <1> f <1> f <1> ph <1> ph <1> ph <2> ph <1> ph <1> ph <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> f <1> rsh <2> rlogin -l <2> f <1> rlogin <1> cd <1> less <1> f <1> f <1> f <1> f <1> f <1> cd f <1> vi <1> resume ls ll <1> m <1> vi <1> cd <1> ls rm <1> qu rlogin -l <2> cd cd <1> ls cd <1> ls cd <1> ls cd <1> ls cd <1> shar <2> shar <1> > <1> less <1> gzip -9 <1> ls ll <1> uuencode <1> ll <1> jobs kill <1> less <1> man <1> uuencode <2> ls uuencode <2> > <1> rm <1> finger <1> f <1> f <1> ph <1> ph <2> ph <2> ph <2> ph <2> ph <2> ph <2> ph <4> finger <1> cd <1> tail -20 <1> tail -30 <1> f <1> f <1> f <1> f <1> f <1> f <1> cd <1> vi <1> m <1> mv <2> f <1> f <1> cd <1> m <1> ls m <1> f <1> cd <1> less <1> mv <2> cd <1> ls cd <1> ls cd <1> cd <1> ls cd <1> ll <1> man <1> man <1> grep <2> cd f <1> f <1> f <1> f <1> exit
+> USER5533
+cd <1> mv <2> mv <2> cd <1> grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less ping <1> grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less unrm ls cd <1> ls cd <1> ls m <1> less <1> ls mv <2> cp <2> grep <2> | less ls cd <1> ls cd <1> ls grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less cd - cd <1> ls mv <2> mv <2> mv <2> mv <2> mv <2> mv <2> mv <2> ls rsh <2> rsh <2> rsh <2> rsh <2> cd <1> ls rsh <2> rsh <2> rsh <2> cd <1> ls ll <1> make rm <1> make ls -t | more ls -lt | more rm <1> rm <1> make exit
+> USER5534
+cd <1> <GENSYM:46>/parsec -V3 -B <1> <GENSYM:46>/parsec -V3 -B <1> pwd cd - pwd cd - <GENSYM:46>/parsec -V3 -B <1> <GENSYM:46>/parsec -V3 <GENSYM:48>/sent_find cd <1> cd <1> less <1> cd <1> grep <2> | less grep <2> | less cd - cd <1> make cd <1> no ls} ls less <1>
+> USER5535
+cd <1> grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less ping <1> ping <1> ping <1> ping <1> ping <1> ping <1> grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | less grep <2> | wc -l grep <2> | wc -l kill <1> kill -9 <1> grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l grep <2> | wc -l rsh <2> rsh <2> exit
+> USER5536
+rlogin -l <2> f <1> fr f <1> m <1> f <1> rlogin -l <2> exit
+> USER5537
+rlogin -l <2> pwd jobs exit
+> USER5538
+cd <1> lp -dmsa15 <1> lpstat <1> lpstat <1> lpstat -pall lpq -dmsa15 lp -dmsa15 <1> rlogin <1> exit
+> USER5539
+cd <1> lp -dmsa15 <1> less <1> less <1> emacs <1> vi <1> rlogin <1> exit
+> USER5540
+cd <1> emacs <1> lp -d <2> exit
+> USER5541
+rlogin -l <2> exit
+> USER5542
+rlogin -l <2> exit
+> USER5543
+who w cd <1> make make <1> make make w make make w cd <1> ls mkdir <1> cd <1> ln -s <2> cd <1> ls cd <1> ls wc <1> less <1> ls -t wc <1> less <1> cd <1> ls cd <1> ls cd <1> ln -s <2> parsec -V3 -Brm-sentences parsec -V3 -Brm-sentences cd <1> make cd - parsec -V3 -Brm-sentences ls cd <1> ls cd <1> ll fg less <1> fg cd <1> ls ln -s <2> parsec -V3 -Bt1 cd <1> cd <1> ls grep <2> less <1> less <1> less <1> cd <1> less <1> grep <2> less <1> less <1> cd <1> cd <1> less <1> ls less <1> cd <1> less <1> ll <1> less <1> ls cd <1> grep <2> ll cd <1> make cd <1> ls parsec -V3 -Bt1 cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> less <1> cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> cat <1> ll less <1> cd <1> vi <1> parsec -V3 < <1> ll cd <1> ls ll less <1> cd <1> vi <1> parsec -V3 < <1> cd <1> ll cd <1> vi <1> parsec -V3 < <1> cd <1> ll cd <1> cat <1> cd <1> cd <1> grep <2> cat <1> ll less <1> cd <1> vi <1> parsec -V3 < <1> cd <1> ll cd <1> vi <1> parsec -V3 < <1> cd <1> less <1> cd <1> grep <2> ll less <1> less <1> grep <2> less <1> less <1> cd <1> grep <2> ll cat <1> less <1> cd <1> grep <2> ll cd <1> grep <2> cd <1> grep <2> less <1> cd <1> grep <2> ll less <1> cd <1> grep <2> cd <1> parsec -V3 -Bt1 cd <1> make cd - parsec -V3 -Bt1 cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> ll less <1> cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> cd <1> grep <2> cd <1> make cd <1> parsec -V3 -Bt1 cd <1> ll less <1> cd <1> ls mv <2> mkdir <1> cd <1> ls cd <1> ls cd <1> cd <2> cd <1> cd <1> ls cd <1> ls cd <1> <GENSYM:50>/make_work_area <GENSYM:51>/make_work_area ls cd <1> ls ll ls cd <1> cd <1> ls <1> make <1> make
+> USER5544
+cd <1> ls less <1> less <1> less <1> less <1> less <1> ls less <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> less <1> exit
+> USER5545
+cd <1> make <1> make exit

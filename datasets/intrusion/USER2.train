@@ -1,0 +1,1136 @@
+> USER20
+cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> ls ls ls cd cd source <1> ls
+> USER21
+quota emacs emacs source <1> netscape &
+> USER22
+emacs
+> USER23
+netscape &
+> USER24
+quota emacs netscape &
+> USER25
+netscape & netscape & rm <1> finger <1> more <1> netscape &
+> USER26
+rlogin <1> netscape &
+> USER27
+quota emacs setenv <2> emacs logout
+> USER28
+netscape &
+> USER29
+logout
+> USER210
+quota ls rm <1> quota logout
+> USER211
+logout
+> USER212
+ls cd <1> cd <1> ls -l ls rm <1> netscape & quota
+> USER213
+more <1>
+> USER214
+quota emacs cd <1> xdvi <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> dvips <1> lpp <1> lpp <1> netscape &
+> USER215
+.logout
+> USER216
+chmod <2> chmod <2> .logout z exit
+> USER217
+rlogin <1>
+> USER218
+cd <1> xdvi <1> dvips <1> mail <1> < <1> gs <1>
+> USER219
+quota emacs
+> USER220
+volcheck cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> more <1> ls ls <1> cpfrf <1> lsf ls <1> cp <2> ls lattex <1> latex <1> ls cd <1> cd <1> cd <1> cp <2> ls latex <1> latex <1> bibtex <1> latex <1> latex <1> sdvi <1> xdvi <1> eject logout
+> USER221
+quota quota emacs netscape & .logout
+> USER222
+finger <1>
+> USER223
+quota cd <1> cd <1> xcc <1> xcc <1> xcc <1> netscape & xcc <1> xcc <1> xcc <1> cc <2> cc -lm -lX <2> xcc <2> cd <1> source <1> cd <1> xcc <2> man <1> man <1> man <1> man <1> cd <1> cd <1> cd cd <1> xcc -lX11 <2> alias <1> cc <GENSYM:0>/include <GENSYM:1>/include -lm -lX11 <2> cd <1> cd <1> cd <1> xcc -lX11R6 zcc -lX11R6 <2> xcc -lX11R6 <2> man <1> man <1> man <1> man <1> xcc <2> cd <1> cd source <1> cd <1> xcc <2>
+> USER224
+cd <1> cd <1> lp -d <2>
+> USER225
+quota emacs cd <1> dem <2> xcc -g <2>
+> USER226
+cd <1> xcc -lX11 <2> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd cd <1> alias <1> cc <GENSYM:0>/include <GENSYM:1>/include -lm -lX11.so <2> man cc <GENSYM:0>/include <GENSYM:1>/include -lm -LX11.so <2> cc <GENSYM:0>/include <GENSYM:1>/include -lm -LX.so <2> cd <1> cd <1> cc <GENSYM:0>/include <GENSYM:1>/include -lm <GENSYM:2>/X11.so <2> cc <GENSYM:0>/include <GENSYM:1>/include -lm <GENSYM:2>/libX11.so <2> ls -l cd cd <1> cd <1> alias <1> cc <GENSYM:0>/include <GENSYM:1>/include -lm <GENSYM:3>/libX11.so <2> cc <GENSYM:0>/include <GENSYM:1>/include -lm <GENSYM:4>/libX11.so <2> cd <1> cd cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> more <1> cd <1> cd <1> cd <1> cd <1> cd cd <1> alias <1> cc <GENSYM:0>/include <GENSYM:1>/include -lm <GENSYM:5>/X11 <2> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> more <1> man <1> man <2> man <2> help <1> man <1> more <1> ls man <1> man <2> more <1> ls cd source <1> cd <1> alias <1> xcc <2> cc <GENSYM:0>/include <GENSYM:1>/include -lm <GENSYM:6>/lib <2> cc <GENSYM:0>/include <GENSYM:1>/include -lm -lX11 <2> man <1> cd <1> source <1> cd <1> xcc <2> a.out <1> ls cp <2> cp <2> rm <1> a.out <1> a.out <1> more <1> xcc <2> a.out <1> man <1> man <1> man <1> man <1> q xcc <2> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> more <1> cc <GENSYM:0>/include <GENSYM:1>/include -lm -lX11 <2> xcc <2> a.out <1> xcc <2> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> ls cp <2> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> rm <1> xcc -g <2> dbx <1> xcc -g <2> a.out <1>
+> USER227
+quota emacs
+> USER228
+laserquota <1> <GENSYM:7>/lwinfo <1>
+> USER229
+volcheck cd <1> cptof <1> ff eject mail logout
+> USER230
+quota emacs xcc -g <2> man <1> man -k <1> alias <1> cc -E <1> | cb > <1> ls rm <1> cd <1> cc -E <1> | cb > <1>
+> USER231
+volcheck cd <1> mv <2> ls ls <1> cpfrf <2> xcc -g <2> xcc -g <2> a.out <1> rm <1> dbx <1> dem <2> xcc <2> cc -E <1> | more cc -E <1> > <1> dem <2> xcc -g <2> cc -E <1> | grep -v <1> | cb > <1> xcc -g <2> xcc -g <2> xcc -g <2> xcc -g <2> xcc -g <2> xcc -g <2> dbx <1> eject
+> USER232
+cd <1> volcheck lsf ls <1> cpfrf <2> cpfrf <2> xcc -g <2> xcc -g <2> run <1> a.out <1> p more <1> a.out <1> a.out <1> a.out <1> xcc -g <2> a.out <1> a.out <1> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> a.out <1> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> a.out <1> a.out <1> xcc -g <2> a.out <1> xcc -g <2> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> xcc -g <2> a.out <1> xcc -g <2> a.out <1> a.out <1>
+> USER233
+cd <1> more <1>
+> USER234
+emacs cd <1>
+> USER235
+eject quota emacs cd <1> xcc <2> xcc <2> xcc <2> xcc <2> a.out <1> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1>
+> USER236
+netscape & rlogin <1> emacs cd <1> a.out <1> ls <1> a.out <1> a.out <1>
+> USER237
+cd <1> cd <1> cp <2> more <1> cd more <1>
+> USER238
+cd <1> volcheck cptof <1> ff lsf ls <1> eject emacs logout
+> USER239
+volcheck cd <1> cd <1> cd cd <1> cptof <1> cptof <1> ff uncompress <1> cptof <1> cptof <1> cptof <1> cptof <1> diff <2> rm <1> ls ls <1> rm <1> rm <1> rm <1> rm <1> eject
+> USER240
+quota emacs rm <1> quota cd <1> rm <1> netscape & quota cd <1> ls cd <1> cd cd <1> rm <3> quota quota quota quota quota ls cd <1> cd <1> cd <1> rm <1> quota cd <1> cd <1> cd <1> ls <1> cd <1> cd <1> cd cd <1> rm <1> rm <1> quota quota quota rm <1> rm <1> quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota ls rm <1> quota quota quota quota quota quota quota cd <1> compress <1> quota compress <1> compress <1> compress <1> quota
+> USER241
+uncompress <1> uncompress <1>
+> USER242
+quota emacs
+> USER243
+quota emacs finger <1> finger <1>
+> USER244
+quota emacs
+> USER245
+finger <1> finger <1>
+> USER246
+cd <1> cd <1> lp -d <2> lp -d <2>
+> USER247
+more <1> more <1> ls <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> more <1> logout
+> USER248
+quota emacs
+> USER249
+cd <1> latex <1> latex <1> latex <1>
+> USER250
+ls mkdir <1> more <1> more <1> rm <1>
+> USER251
+quota emacs cd <1> xcc <2> more <1> cd <1> cd <1> a.out <1> xcc cd cd <1> a.out <1> xvr <1> more <1> rm <1> ls more <1> xcc <1> mv <2> xvr <1> more <1> xv fd xcc <2> imagemagic aimgemagik man -k <1> imagemagik a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.uot <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out a.out <1> a.out <1> a.out <1> rm <1> quota netscape &
+> USER252
+quota emcas emacs <GENSYM:7>/magck cd <1> magick cd <1> display cd cd <1> cp <2> <GENSYM:8>/display <1> cd <1> cd <1> cd <1> cd <1> cd cd <1> more more <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> <GENSYM:8>/display <1> xv <1> which <1> xv
+> USER253
+cat <1> cat <1> <GENSYM:9>/cat <1> source <1> source <1> source <1> ls cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> xv cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> more <1> cd <1> cd <1> cd <1> cd cd <1> rm <1> cd <1> display <1> <GENSYM:10>/display <1> <GENSYM:8>/display <1> xv <1>
+> USER254
+rlogin <1> eject logout cd <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1>
+> USER255
+rlogin <1> logout
+> USER256
+cd <1> latex <1> latex <1> bibtex <1> latex <1> latex <1> dvips <1> gs <1> ghostscript <1> ghostview <1> mail <1> < <1> finger <1> emacs ghostview <1> logout
+> USER257
+cd <1> volcheck diff <2> ls -l mv <2> ls cd <1> cd cd <1> cpfrf <2> cpfrf <2>
+> USER258
+eject logout
+> USER259
+emacs
+> USER260
+netscape & cd <1> a.out <1> quota emcas emacs
+> USER261
+quota emacs cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> more <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd cd <1> cd <1> more <1> more <1> xv
+> USER262
+logout
+> USER263
+cd <1> xvr <1> more <1> which <1>
+> USER264
+quota emacs ls cd <1> cp <2> xvv <1> xcc <1> ls mv <2> xcc <1> a.out <1> im <1> mv <2> im <1> bg z <1> im <1> bg z <1> im <1> & im <1> & im <1> & im <1> & im <1> & z <1> im <1> & im <1> & im <1> & z <1> im <1> & z <1> finger <1> finger <1> netscape & cd <1> ls quota ls cd <1> ls rm <1> cd <1> compress <1> quota cd <1> rm <2> quota quota quota quota cd <1> cd <1> rm <1> quota quota quota rm <1> quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota quota ls compress <1> compress <1> quota quota ls compress <1> quota ls compress <1> quota cd <1> rm <1> cd <1> cd <1> rmdir <1> ls rm <1> quota
+> USER265
+cd <1> cd <1> cd <1>
+> USER266
+cd <1> more <1> cd <1> mv <2> cp <2> cd <1> cd <1> cd <1> man <1> cd <1> cd <1> cd <1> ls <1> ls ls <1> ls <1> ls <1> ls <1> ls <1> ls <1> ls <1> ls <1> ls ls <1> ls <1> ls <1> more <1> man <2> more <1> ls <1>
+> USER267
+cd <1> cd <1> cd <1> more <1> logout
+> USER268
+quota emacs cd <1> more <1> rm <1>
+> USER269
+cd <1> ls netscape & lpstatus -o lpstat -o
+> USER270
+finger <1>
+> USER271
+rlogin <1>
+> USER272
+quota
+> USER273
+emacs setenv <2> emacs ls
+> USER274
+quota emacs netscape &
+> USER275
+quota emacs cd <1> xcc <2> im <1> im <1> im <1> bg a.out <1> more <1> cd <1> im <1> cd <1> cd <1> cd <1> cd <1> a.out <1>
+> USER276
+cd <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1>
+> USER277
+quota emcas emacs cd <1> more <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> netscape & cd cd <1> cd <1> a.out <1> im <1> a.out <1> ls <1> a.out <1> a.out <1>
+> USER278
+rlogin -l <2>
+> USER279
+cd <1> mv <2> uncompress <1> mv <2> rlogin <1> xdvi <1> mail <1> < <1>
+> USER280
+volcheck cd <1> cd <1> cd cd <1> cd <1> cd <1> cpfrf <2> latex <1> bibtex <1> latex <1> latex <1> dvips <1> xdvi <1> logout
+> USER281
+quota cd <1> a.out <1> im <1> & a.out <1>
+> USER282
+rlogin <1> netscape & netscape & motd <GENSYM:11>/motd
+> USER283
+cd <1> a.out <1> im <1> &
+> USER284
+eject logout
+> USER285
+quota emacs netscape &
+> USER286
+who <2> rlogin -l <2>
+> USER287
+quota emacs
+> USER288
+quota emcas emacs
+> USER289
+netscape & cd <1> a.out <1> a.out <1> a.out <1>
+> USER290
+netscape &
+> USER291
+quota emacs
+> USER292
+netscape & finger <1> finger <1> finger <1> finger <1>
+> USER293
+setenv <2> emacs quota fg ls logout
+> USER294
+ls ls | more ls | more cp <2> emacs rm <1> uncompree uncompress <1> emacs logout
+> USER295
+quota emacs
+> USER296
+quota emacs compress <1> quota cd <1> cd <1> cd <1> cd <1> rm <1> rm <1> cd <1> cd <1> rm <3> quota ls ls <1> cd <1> cd <1> compress <1> cd <1> rm <1> quota cd <1> cd <1> cd <1> cd <1> ls | mre ls | more cd <1> compress <1> quota cd <1> ls | more rm <1> rmdir <1> quota cd <1> ls <1> rmdir <1> man <1> ls rmdir -r <1> rm -r <1> cache quato quota cd finger <1> logout
+> USER297
+quota mkdir <1> ls uncompress <1> emacs
+> USER298
+cd <1> xcc <2> a.out <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd cd <1> more <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd netscape &
+> USER299
+finger <1> more <1> emacs
+> USER2100
+netscape &
+> USER2101
+cd <1> netscape & more <1>
+> USER2102
+quota emacs
+> USER2103
+cd <1> a.out <1> im <1> & cls ls cp <2>
+> USER2104
+emacs
+> USER2105
+logout
+> USER2106
+mail <1> < <1>
+> USER2107
+cd <1> ls -l | more volcheck cd <1> cd cd <1> cptof <1> ls <1> cptof <1> cd <1> ls -l cd eject logout
+> USER2108
+cd <1> ls -l rlogin <1> xcc <2> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1>
+> USER2109
+cd <1> volcheck ls <1> eject volcheck ls <1> cpfrf <1> ls diff <2> diff <2> eject logout
+> USER2110
+cd <1> xcc <2> xcc <1> xcc <1> xcc <1> xcc <2> a.out <1> a.out <1> xcc <2> xcc <2> xcc <2> xcc <2> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> rlogin <1> rm <1>
+> USER2111
+cd <1> volcheck ls <1> cptof <1> cptof <1> eject logout
+> USER2112
+quota emacs ls rm <1> quota
+> USER2113
+ls netscape & volcheck cd <1> ls -l mv <2> mv <2> ls <1> ls <1> cpfrf <1> ls cptof <1> cptof <1> cptof <1> cptof <1> ls <1> rm <4> ls
+> USER2114
+eject cd <1> cd <1> xdvi <1> cd <1> cd <1> cd <1> xcc <1> xcc <2> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1>
+> USER2115
+quota emacs
+> USER2116
+cd <1> xcc <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1>
+> USER2117
+cd <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> ls cp <2> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> xcc <2> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> volcheck ls <1> alias <1> alias <1> lsf ls -l <1> ls <1> ls cptof <1> cptof <1> eject
+> USER2118
+quota emacs cd <1> rm <1>
+> USER2119
+quota ls
+> USER2120
+netscape &
+> USER2121
+finger <1> netscape & rlogin <1> emacs cd <1> cd <1> ls -l <1> ls <1> rlogin <1> emacs
+> USER2122
+cd <1> volcheck ls -l mv <2> mv <2> cptof <1> cptof <1> ls alias <3> lsf alias <1> alias <3> cd <1> more <1> alias <3> :1* cd <1> lsf ls <1> cpfrf <1> cpfrf <1> cpfrf <1> ls quota logout
+> USER2123
+ls <1> ls -l <1> ls -l <1> 'ls-l' <1> ls <2> ls -la <1> man <1> ls -n <1> ls -Ll <1> ls -LRl <1> ls -LFl <1> cd <1> cd source <1> lsf more <1> lsf lsfr source <1> lafs lsfr lsf alias -Ll <3> :1 alias -LlR <3> :1 lsf ls -LlR <1> cd <1> xcc <1>
+> USER2124
+cd <1> xcc <2> xcc <2> xcc <2> xcc <2> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> ls rm <2> ls rm <1> rm <1> rm <1> cp <2> dem <1> > <1> dem <2> more <1> xcc <1> xcc <1> xcc <1> xcc <1> rm <2> cp <2> dem <2> xcc <1> xcc <1> xcc <1> rm <2> cp <2> dem <2> xcc <1> xcc <1> cp <2> cp <2> tm <1> rm <1> dem <2> xcc <1> xcc <1> rm <2> cp <2> dem <2> xcc <1> xcc <1> rm <2> cp <2> dem <2> xcc <1> xcc <1> xcc <1> rm <2> cp <2> dem <2> xcc <1> xcc <1> xcc <1> rm <2> cp <2> dem <2> xcc <1> xcc <1> rm <2> cp <2> dem <2> xcc <1> xcc <1> rm <2> cp <2> dem <2> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> rm <2> xcc <1> xcc <1> xcc <1> xcc <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> alias <1> <GENSYM:12>/X11R6 cd <1> cd <1> cd <1> more <1> man <1> ls grep <2> grep <2> man <1> grep <2> cd cd <1> xcc <1> xcc <1> xcc <1> xcc <2> xcc <2> a.out <1> a.out <1> a.out <1> rm <1> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> xcc <2> a.out <1> xcc -g <2> rm <1> dbx <1> cp <2> dem <2> cc -g <2> xcc <2> xcc -g <2> xcc -g <2> xcc -g <2> xcc <1> xcc -g <2> xcc <1> xcc -g <2> dbx <1> xcc -g <2> a.out <1> a.out <1> a.out <1> a.out <1> rm <2> cp <2> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> volcheck lsf lsf <1> cptof <1> ff eject
+> USER2125
+netscape & quota emacs emacs
+> USER2126
+cd <1> rm <1> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc <2> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc <2> xcc <2> a.out <1> a.out <1> a.out <1> xcc <2> a.out <1> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> ls a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> xcc <2> a.out <1> volcheck volcheck ls cptof <1> cptof <1> eject
+> USER2127
+cd <1> cp <2> rm <1>
+> USER2128
+quota emacs netscape &
+> USER2129
+cd <1> rm <1> cp <2> xcc <2> a.out <1> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> xcc <2> a.out <1> rm <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> 1A a.out <1> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> ls mv <2> ls mv <2>
+> USER2130
+cd <1>
+> USER2131
+quota cd <1> mv <2> volcheck lsf alias <1> lsf <1> cptof <1> ls rm <1> cpfrf <1> ls xcc <2> xcc <2> xcc <2> xcc <2> xcc <2> xcc <2> xcc <2> cp <2> dem <2> xcc <1> dem <1> alias <1> cc -E <1> | cb | grep -v <1> cc -E <1> | cb | grep -v <1> cc -E <1> | cb | grep -v <1> cc -E <1> | cb | grep -v <1> cc -E <1> | cb | grep -v <1> cc -E <1> | cb | grep -v <1> cc -E <1> | cb | grep -v <1> | more xcc <1>
+> USER2132
+cd <1> xcc <1> xcc <1> cc -E <1> > <1> xcc <1> more <1> xcc <1> rm <1> dem <2> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> ls xcc <1> quota emacs xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> ls dem <2> dem <2> xcc <1>
+> USER2133
+cd <1> cp <2> xcc <1> ls xcc <1> cd <1> mv <2> cd <1> xcc <1> volcheck lsf lsf <1> cptof <1> cptof <1> eject h "tt2.c" <12> "tt2.c" <8> "tt2.c" <12> "tt2.c" <7> "tt2.c" <7> "tt2.c" <12> "tt2.c" <7> "tt2.c" <12> "tt2.c" <10> "tt2.c" <8> cc: <4> <GENSYM:14>/seg > <1> <GENSYM:14>/seg > <1> <GENSYM:14>/seg > <1> Bad arg <1> <GENSYM:14>/seg > <1> 246 -rwxrwxrwx <8>
+> USER2134
+cd <1> dem <2> xcc <1> xcc <1> xcc <1> xcc <1> | more xcc <1> | more > <1> xcc <1> > <1> rm <1> xcc <1> > <1> less <1> cat <1> rm <1> rm <1> dem <2> xcc <1> xcc <1> ls diff <2> xcc <1> xcc <1> emacs <1> xcc <1>
+> USER2135
+cd <1> volcheck ff mv <2> ls lsf <1> cpfrf <1> ls xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> rm <1> xcc -g <2> dbx <1> a.out <1> rm <1> dbx <1> xcc -g <2> xcc -g <2> a.out <1> rm <1> dbx <1> ls rm <2> rm <1> dem <2> xcc -g <2> xcc -g <2> dbx <1> xcc -g <2> xcc -g <2> a.out <1> rm <1> dbx <1> xcc -g <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> rm <1> a.out <1> rm <1> dbx <1> rm <1> dem <2> xcc -g <2> xcc -g <2> dbx <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> cd <1> quota uncompress <1> ls cd <1> cd <1> uncompress <1> cd <1> a.out <1> a.out <1> im <1> & a.out <1> a.out <1> quota rm <1> ff a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> im <1> & lsf lsf <1> cptof <1> ff quota eject
+> USER2136
+cd <1> im <1> &
+> USER2137
+ls cd <1> volcheck cptof <1> cptof <1> rm <2> rm <2> ls xcc <1> xcc <1> xcc <2> ls cp <2> cp <2> ls diff <2> rm <1> cptof <1> rm <2> rm <1> ls cptof <1> rm <1> ls cptof <1> cptof <1> cd <1> rm <1> rm <1> ls cd cd <1> rm <2> ls xcc <2> a.out <1> more <1> more <1> a.out <1> a.out <1> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> more <1> a.out <1> a.out <1> a.out <1> lsf lsf <1> cd <1> mv <2> mv <2> cd cd <1> cptof <1> cptof <1> cptof <1> cptof <1> rm <1> ls
+> USER2138
+eject
+> USER2139
+quota emacs cd <1> matlab lp -d <2> cd <1> lp -d <2> lp -d <2> lp -d <2>
+> USER2140
+ls cd <1> lwinfo <1> lpstat -o cd <1> lp -d <2> lpp <1> lpp <1> logout
+> USER2141
+cd <1> cd <1> rm <1> rm <3> ls matlab ls lp -d <2> lp -d <2> lp -d <2> lp -d <2> cd cd <1> cd <1> xcc <2> a.out <1>
+> USER2142
+cd <1> cd <1> cd <1> load <1> matlab
+> USER2143
+quota emacs cd <1> quota cd <1> cd <1> uncompress <1>
+> USER2144
+cd <1> mkdir <1> mv <2> cd <1> a.out rm <1> a.out cd <1> cd <1> cd <1> cd <1> cd cd <1> ls -l cd <1> rm <1> rm <1> quota cd
+> USER2145
+quota emacs quota ls mv <2> uncompress <1> cd <1> rm <1> ls ls -l eject cptof <1>
+> USER2146
+rlogin <1>
+> USER2147
+volcheck lsf lsf lsf <1> eject volcheck lsf <1> cptof <1> ls cd <1> cptof <1> cptof <1> eject logout
+> USER2148
+quota emacs
+> USER2149
+finger <1> finger <1> finger <1> cd <1> ls cd <1> cd <1> mkdir <1> cd <1> rlogin <1> latex <1> ls xdvi <1> xdvi <1> xdvi <1> dvips <1> ph <1> lname <1> finger <1> ls lp -d <2> quota cd <1> cd <1> mkdir <1> cd <1> mail <2> < <1> mail <1> < <1> mail <1> < <1> cd cd <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> rm <1> dem <2>
+> USER2150
+quota emacs emacs cd <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> ls <1> ls <1> dem <2> xcc <1> xcc <1> xcc <1> xcc <1> rm <1> dem <2> xcc <1> cd <1> quota emacs cd <1> xcc <1> xcc <1> rm <1> dem <2> xcc <1> xcc <1> xcc <1> xcc <1> rm <1> dem <2> xcc <1> xcc <1> rm <1> xcc <1> xcc <1> xcc <1> xcc <2> xcc <2> xcc <2> xcc <2> a.out <1> cp <2> a.out <1> a.out <1> rm <1> xcc -g <2> dbx <1> xxgdb dbx <1> rm <1> dem <2> xcc -g <2> xcc <1> xcc -g <2> dbx <1> xcc -g <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> rm <1> a.out <1> rm <1> a.out <1> rm <1> dbx <1> rm <1> dem <2> xcc -g <1> xcc -g <2> a.out <1> rm <1> dbx <1> xcc -g <2> rm <1> dem <2> xcc <1> xcc -g <2> dbx <1> xcc -g <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc -g <2> a.out <1> a.out <1> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> rm <1>
+> USER2151
+ls cd <1> ls -l mv <2> mv <2> ls volcheck cpfrf <1> lsf lsf <1> cd <1> cd <1> cd <1> lsf <1> cpfrf <1> ls cd <1> cd <1> eject volcheck ls lsf <1> cpfrf <1> cpfrf <1> eject logout
+> USER2152
+ls cd <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> ls <1> cd cd <1> a.out <1> a.out <1> a.out <1> im <1> & cd <1> cd <1> quota cd <1> cd <1> cd a.out <1> cd <1> a.out <1> im <1> &
+> USER2153
+ls cd <1> volcheck ff cptof <1> cptof <1> ff cptof <1> cptof <1> cptof <1> cptof <1> eject
+> USER2154
+quota emacs rlogin <1> ls cd <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1>
+> USER2155
+volcheck cd <1> ls -l mv <1> mv <2> ls lsf <1> cpfrf <1> ls eject logout
+> USER2156
+xcc <1> cd <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <2> xcc <2> xcc <2> xcc <2> xcc -g <2> dbx dbx <1> xcc -g <2> a.out <1> a.out <1> rm <1> dbx <1> xcc -g <2> a.out <1> rm <1> dbx <1> xcc -g <2> a.out <1> rm <1> dbx <1> xcc -g <2> a.out <1> rm <1> where dbx <1> xcc -g <2> a.out <1> rm <1> dbx <1> xcc -g <2> dbx <1> cp <2> xcc -g <2> a.out <1> a.out <1> a.out <1> a.out <1> rm <1> dbx <1> a.out <1> rm <1> xcc -g <2> a.out <1> dbx <1> rm <1> dbx <1> xcc -g <2> a.out <1> rm <1> dbx <1> xcc -g <2> a.out <1> rm <1> dbx <1> xcc -g <2> a.out <1> rm <1> dbx <1> dbx <1> rm <1> cp <2> xcc -g <2> a.out <1> rm <1> dbx <1> dem <2> xcc -g <2> xcc -g <2> dbx <1> xcc -g <2> a.out <1> a.out <1> a.out <1> a.out <1>
+> USER2157
+cd <1> cp <2> a.out <1> rm <1>
+> USER2158
+ls cd <1> rm <4> cp <2> xcc -g <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc <1> xcc -g <2> a.out <1> rm <1> a.out <1> dbx <1> a.out <1> rm <1> a.out <1> a.out <1> a.out <1>
+> USER2159
+quota emacs
+> USER2160
+a.out <1> cd <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc -g <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc -g <2> a.out <1> a.out <1> more <1> xcc -g <2> a.out <1> quota cd emacs rm <1>
+> USER2161
+cd <1>
+> USER2162
+emacs emacs
+> USER2163
+diff <2> cd <1> diff <2> rm <2> cp <2> xcc -g <2> a.out <1> mv <2> xcc <2> a.out <1> mv <2> z2 <1> z <1> z2 <1> z <1> z <1> z2 <1> more <1> a.out <1> z <1> z2 <1> z <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> im <1> & a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> im <1> & quota emac emacs diff <2> xcc <2> diff <2> rm <1> ls mv <2> rm <2> ls diff <2> diff <2> > <1> more <1> netscape & ls volcheck lsf <1> ff cptof <1> cptof <1> ls ls -l eject
+> USER2164
+quota emacs
+> USER2165
+quota emacs
+> USER2166
+cd <1> a.out <1> a.out a.out <1> a.out <1> a.out <1> a.out <1> .out <1> a.out <1> a.out <1> a.out <1> ls ls -l netscape &
+> USER2167
+quota cd <1> volcheck ff ls -l mv <2> cptof <1> lsf <1> ls cpfrf <1> cpfrf <1> xcc <1> xcc <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> rm <1> dbx <1> rm <1> dem <2> xcc -g <2> xcc -g <2> dbx <1> xcc -g <2> a.out <1> rm <1> dbx <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc -g <2> a.out <1> > <1> more <1> ls rm <1> xcc -g <2> a.out <1> > <1> rm <1> xcc -g <2> a.out <1> > <1> rm <1> a.out <1> > <1> a.out <1> > <1> lsf lsf <1> cptof <1> cptof <1> cptof <1> eject
+> USER2168
+cd <1> xcc -g <2> xcc -g <2> xcc -g <2> a.out > <1> a.out <1> > <1> rm <1> a.out <1> > <1> rm <1> cp <2> ls xcc -g <2> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> rm <1> dbx <1>
+> USER2169
+finger cd <1> ls
+> USER2170
+cd <1> mv <2> ls cp <2> xcc -g <2> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> > <1> xcc -g <2> a.out <1> > <1> xcc -g <2> a.out <1> > <1> xcc -g <2> a.out <1> > <1> xcc -g <2> a.out <1> > <1> ls quota netscape & quota ls rm <6> ls rm <7> quota rm <1> ls cd rm <1> unrm ls rm <1> quota compress <2> cd <1> rm <1> quota more <1> rm <1> ls compress <1> quota uncompress <1> compress <1>
+> USER2171
+cd <1> uncompress <1> dem <2> xcc -g <2> xcc -g <2> a.out <1>
+> USER2172
+cd <1> a.out <1> > <1> xcc <2> a.out <1> > <1> xcc <2> a.out <1> > <1> xcc <2> a.out <1> > <1> netscape & xcc -g <2> a.out <1> > <1> rm <1> a.out <1> > <1> xcc -g <2> a.out > <1> rm <1> a.out <1> > <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out a.out <1> a.out <1> ls rm <10> ls rm <1> ls more <1> ls rm <1> ls rm <1> ls
+> USER2173
+cd <1> xcc <1> xcc <1> xcc <1> xcc <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> im <1> & a.ot <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> ls -l lsf <1> volcheck lsf <1> cd <1> ls cd <1> cd <1> cd cd <1> cptof <1> cptof <1> cptof <1> eject
+> USER2174
+quota emacs
+> USER2175
+help <1> man <1> man <1> man <1> man -k <1> xterm help <1> man <1> man <1> man <1> man <1> man <1> man <1> man <1> man <1> man <1> man <1> man <1> man <1> logout
+> USER2176
+quota emacs cd <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> quota ls cd uncompress <1> ls emacs a.out <1> cd <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> im <1> & a.out <1> a.out <1> a.out <1> ls -l
+> USER2177
+ls ls mv <2> ls more <1>
+> USER2178
+cd <1> xcc <2> a.out <1> a.out <1> > <1>
+> USER2179
+quota ls ls rm <1> ls emacs
+> USER2180
+quota emacs quota ls rm <1> rm <1> quota cd <1> rm <1> rm <1> more <1> rm <1> ls rm <1> quota netscape cd <1> netscape & quota netscape & quota ls compress <1> quota uncompress <1> ls cd <1> xcc <2> a.out <1> a.out <1> > <1> more <1> a.out <1> > <1> a.out <1> > <1> a.out <1> > <1> a.out <1> > <1> a.out <1> a.out <1> a.out <1> im <1> & cd <1> cd <1> more <1> cd <1> uncompress <1> im <1> & <GENSYM:15>/im <1> & cd <1> a.out <1>
+> USER2181
+quota emacs
+> USER2182
+netscape & quota quota emacs
+> USER2183
+netscape &
+> USER2184
+quota emacs cd <1> a.out <1> > <1> a.out <1> > <1> im <1> & im <1> g bg ls <1> im <1> im <1> bg im <1> &
+> USER2185
+quota emacs
+> USER2186
+netscape & quota emacs cd <1> im <1> im <1> im <1> ls a.out <1>
+> USER2187
+cd <1> cd <1> cd <1> cd <1> cd <1> <GENSYM:16>/im <1> cd cd <1>
+> USER2188
+pgp -ka <1> pgp -kxa <2> mail <1> < <1> pgp -ka <1> pgp -kxa <2> mail <1> < <1> mail <1> < <1> ls <1> pgp -kvv pgp -ka <1> pgp -ka <1> pgp -kvv mail <2> mail <1> < <1>
+> USER2189
+mkdir <1> rmdir <1> mkdir <1> pgp -kg pgp -kv pgp -ks <1> pgp -kvv pgp -kxa <1> more <1> cd <1> cd <1> more <1> mail <1> < <1> mail <1> < <1> mail <1> < <1> pgp -kvc emacs
+> USER2190
+netscape & ls rm <6> ls rm <1> rm <1> ls more <1>
+> USER2191
+quota emacs cd <1> im <1> more <1> ls <1> im <1> bg a.out <1> a.out <2>
+> USER2192
+quota emacs logout
+> USER2193
+emacs logout
+> USER2194
+mail <1> < <1>
+> USER2195
+quota netscape & quota cd <1> rm <7> rm <1> quota cd <1> cd <1> more <1> more <1> xcc <1> ls <1> a.out <2> > <1> im <2> cd <1> rm <1> cd <1> mv <2> quota cd <1> compress <1> quota ls cd <1> rm <1> quota compress <1> quota cd <1> cd <1> rm <1> rm <1> cd <1> rmdir <1> quota ls cd <1> ls compress <1> compress <1> quota ls compress <1> compress <1> quota compress <1> quota compress <1> quota cd <1> cd <1> xcc <2> a.out <2> ls <1> cd <1> uncompress <1> cd <1> a.out <2> a.out <2> im <1> & a.out <2>
+> USER2196
+emacs finger <1> finger <1> finger <1> finger <1> finger <1> finger <1> quota emacs
+> USER2197
+quota emacs logout
+> USER2198
+matlab finger
+> USER2199
+cd <1> mv <2> ls rlogin <1> rlogin <1> a.out <1> a.out <1> a.out <1> a.out <1> rm <1> xcc -g <2> dbx <1> a.out <1> rm <1> dbx <1> xcc <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> a.out <1> rm <1> dbx <1> xcc -g <2> a.out <1> a.out <1> a.out <1> xcc -g <2> a.out <1> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> a.out <1> > <1> more <1> xcc -g <2> rm <1> a.out <1> > <1> more <1> rm <1> xcc -g <2> a.out <1> > <1> more <1> a.out <1> xcc -g <2> a.out <1> ls more <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> & rm <1> a.out <1> & a.out <1> & a.out <1> more <1> a.out <1> a.out <1> a.out <1> a.out <1> rm <1> ls
+> USER2200
+cd <1> uncompress <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> dvips <1> compress <1> latex <1> dvips <1> gs <1> mail <1> < <1> ls rm <5> ls rm <1> cd <1> latex <1> ls uncompress <1> latex <1> bibtex <2> bibtex <1> latex <1> latex <1> dvips <1> gs <1> mail <1> < <1> ls rm <6>
+> USER2201
+cd <1> volcheck lsf <1> cpfrf <1> ls eject xcc <2> xcc <2> xcc <2> xcc <2> a.out <1> rm <1> xcc -g <2> dbx <1> xcc -g <2> a.out <1> logout
+> USER2202
+volcheck cd <1> cptof <1> eject a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1>
+> USER2203
+mail <1> < <1> quota emacs
+> USER2204
+cd <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc -g <2> a.out <1> a.out <1> a.out <1> a.out <1> xcc <2> a.out <1> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> quota emacs cd <1> rm <1> ls <1> more <1> more <1> cd <1> rm <1> diff <2> diff <2> more <1> ls more <1> ls rm <2> ls cd <1> rmdir <1> more <1> finger <1> finger <1>
+> USER2205
+uncompress <1> uncompress <1> ls more <1> more <1> more <1>
+> USER2206
+quota emacs cd <1> cd <1> gs <1> rm <3> ls rm <1> more <1> ls more <1> emacs ls cp <2> emacs cd <1> cd <1> rm <3> ls more <1> compress <1> ls compress <1> quota cd <1> cd <1> cd <1> cd <1> more <1> ls rm <1> quota cd <1> compress <1> qouta quota compress <1> quota cd <1> compress <1> quota compress <1> ls quota more <1> cd <1> cd cd <1> cd <1> cd <1> cd <1> cd compress <1> quota compress <1> quota compress <1> quota compress <1> quota compress <1> quota rm <1> quota
+> USER2207
+netscape finger <1> finger <1> finger <1> emacs cd <2> cp <2>
+> USER2208
+emacs finger <1> cd <1> cd <1> cd <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> xdvi <1> dvips <1> lp -d <2> lp -d <2> lp -d <2> cd lp -d <2> lp -d <2>
+> USER2209
+quota emacs
+> USER2210
+quota emacs emacs quota ls rm <1> compress <1> quota cd <1> compress <1> compress <1> quota
+> USER2211
+pgp <1> more <1> uncompress <1> quota
+> USER2212
+emacs quota setenv <2> emacs ls <1> fg fg LS logout
+> USER2213
+setenv <2> quota emacs logout
+> USER2214
+setenv <2> emacs quota fg QUOTA quota logout
+> USER2215
+quota ls emacs netscape & quota emacs
+> USER2216
+finger <1> finger <1> cd <1> cd <1> ls <1> ls -l <1>
+> USER2217
+quota emacs matlab & fg
+> USER2218
+emacs
+> USER2219
+quota emacs
+> USER2220
+quota emacs
+> USER2221
+matlab quit which <1>
+> USER2222
+rlogin -l <2> 1 setenv <2> rlogin -l <2> rlogin -l <2>
+> USER2223
+quota rm <1> quota ls cd <1> more <1> ls ls <1> cd <1> ls ls ls ls ls | more ls | more quota cd <1> cd <1> cp <2> ls cd <1> ls | more cd <1> cp <2> ls cd <1> rm <1> rm <1> quota quota quota quota quota quota quota quota quota quota cd <1> cd <1> ls | more cd <2> cd <1> cp <2> cp <2> cd <1> rm <1> rm <1> quota logout
+> USER2224
+emacs
+> USER2225
+ls
+> USER2226
+netscape &
+> USER2227
+emacs
+> USER2228
+quota emacs netscape & help <1>
+> USER2229
+netscape &
+> USER2230
+quota emacs
+> USER2231
+lpp <1>
+> USER2232
+ghostview <1>
+> USER2233
+quota finger <1> emacs netscape & emacs cd <1> uncompress <1> more <1> xcc <2> more <1> a.out <1>
+> USER2234
+rm <1>
+> USER2235
+rm <1>
+> USER2236
+rm <1>
+> USER2237
+finger <1> finger <1> finger <1>
+> USER2238
+quota emacs
+> USER2239
+quota emacs quota cd <1> a.out <1> xcc <2> more <1> a.out <1>
+> USER2240
+rm <1> rm <1> more <1> cd <1>
+> USER2241
+cd <1> a.out <1> rm <1> netscape &
+> USER2242
+rm <1> volcheck lsf lsf <1> cd <1> pwd ls rm <1> ls ff lsf <1> eject cd <1> cd eject volcheck cdf cd <1> rm <1> ls ff ff ls ff ls cd eject volcheck cd <1> cd eject volcheck cd <1> ls ff ff ls ff ls cd eject volcheck eject
+> USER2243
+quota emacs
+> USER2244
+netscape &
+> USER2245
+volcheck lsf <1> ls lsf lsf <1> cd <1> ls cd <1> cd eject volcheck ls lsf <1> eject volcheck lsf <1> eject volcheck lsf <1> ff eject volcheck lsf <1> eject
+> USER2246
+quota more <1> quota ls rm <1> cd <1> rm <3> quota cd <1> netscape & quota cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> more <1> ls rm <4> quota ls rm <1> cd <1> cd <1> ls <1> cd <1> cd <1> cd <1> rm <1> cd <1> rm <1> quota rm <1> ps ps -a ps -la ps -u ps -A more <1> rm <1> rm <1> filemgr ls
+> USER2247
+rm <2> more <1> rm <1> more <1> cd <1> rmdir <1> cd <1> rmdir <1> cd <1> cd <1> ls cd <1> cd <1> more <1> cd <1> cd <1> cd <1> rmdir <1> man <1> rmdir -r <1> rm -r <1> ls <1> cd <1> rm <1> ls ls <1> cd <1> ls <1> rm -r <1> ls ls <1> rmdir <1> ls rm <1> more <1> ls mv <2> rm -r <1> quota
+> USER2248
+netscape & cd <1> more <1> more <1> more <1> more <1> df -k <1> cd <1> cd <1> cd <1> cd cd <1> more <1> date cat <1> cat <1> ls -l ls <1> ls <1> ls <1> ls -la <1> ls <1> ls -la <1> tail -f <1> xterm -C & setenv uname -a cat <1> cat <1> cat <1> tail -f <1> ll lz ls cd <1> gdb <1> which <1> fg <GENSYM:17>/dtfile setenv <2> <GENSYM:17>/dtfile rm <1> cd <1> tail -f <1>
+> USER2249
+vi <1>
+> USER2250
+setenv cd <1> cd <1> more <1> cd <1> cd <1> more <1> cd <1> more <1> ls more <1> more <1> cd <1> cd <1> cd <1> cd <1> ls <1> ls <1> ls <1> ls <1> cd <1> rm -r <1> ls cd <1> cp <2> ls rm <1> ls cp <2> ls ls -l man <1> ls mv <2> ls rm <1> ls rm <1> ls tombs unrm ls cd <1> more <1> rm <1> ls more <1> ls more <1> more <1> ls more <1> ls <1> rm <1> s more <1> ls more <1> ls ps -u ps -A kill <1> kill <1> kill <1> ps -A ps -Al kill <1> kill <1>
+> USER2251
+rm <1> rm <1> rm <1> rm <1> more <1> more <1>
+> USER2252
+ps -Al kill <1>
+> USER2253
+ls more <1> rm <1> rm <1> ls more <1> rm <1> ls more <1> rm <1> ls cd <1> cd <1> rm -r <1> ls more <1> rm <1> ls more <1> man <1> grep <2> ls more <1> more <1> ls
+> USER2254
+more setenv cd <1> mkdir <1> ls <1> cd <1> cp <2> volcheck cpfrf <1> ls eject latex <1> latex <1> latex <1> xdvi <1> dvips <1> lpp <1>
+> USER2255
+laserquota man -k <1> cd <1> lwinfo lwinfo <1> lwinfo <1> lwinfo <1> lwinfo <1> lp -d <2> cd lp -d <2> rlogin -l <2> rlogin <1> rlogin -l <2> setenv <2> rlogin -l <2> man <1> help help man <1> ls rm <1> more <1> rm <1> ls rm <1> cd <1> more <1> rm <1> which <1> dbx dtfile rm <1> dbx <1> dbx <1> ls dtfile dtfile rm <1> filemgr bg cd <1> rm <1> rm -r <1> cd <1> cd <1> cd <1> cd <1> ls cd <1> cd <1> dtfile dtfile <1> cd <1> cd <1> xcc <2> a.out <1> xcc -E <1> > <1> ls cp <2> man <1> xcc -E <1> > <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc <2> xcc <2> a.out <1> rm <1> a.out <1> rm <1> dbx <1> xcc -g <2> dbx <1> ls diff <2> a.out <1> a.out <1> rm <1> a.out <1> rm <1> xcc -g <2> ls dbx <1> rm <1> more <1> more <1> ls dem <2> xcc -g <2> xcc -g <2> xcc -g <2> dbx <1>
+> USER2256
+ls cd <1> cp <2> ls rm <1> cp <2> xcc <2> a.out <1> a.out <1> a.out <1> rm <1> rm <1> ls
+> USER2257
+volcheck cd <1> ff rmcore rm <1> eject volcheck ff ls uncompress <1> ls cptof <1> cptof <1> lsf <1> ff rm <1> ls eject
+> USER2258
+finger <1> finger <1> finger <1> emacs
+> USER2259
+quota emacs emacs
+> USER2260
+ls rm <1> cd <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1>
+> USER2261
+quota emacs netscape & filemgr
+> USER2262
+quota emacs
+> USER2263
+quota emacs
+> USER2264
+rlogin <1>
+> USER2265
+quota emacs filemgr bg netscape &
+> USER2266
+cd <1> volcheck lsf <1> cpfrf <1> ls eject logout
+> USER2267
+quota emacs cd <1> volcheck lsf <1> cptof <1> eject quota cd <1> cd <1> volcheck ff cptof <1> eject cd <1> rm <1> cd <1> cd <1> lpp <1>
+> USER2268
+cd <1> cd <1> latex <1> dvips <1> lp -d <2> more <1> logout
+> USER2269
+quot quota ls rm <1> cd <1> rm <2> rm <1> rm <1> rm <1> quota cd <1> rm <1> more <1> more <1> logout
+> USER2270
+ls ls | more quota rm <1> quota cd <1> rm <1> qutoa quota quota quota cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cp <1> cp <2> ls cd <1> rm <1> quota quota quota quota cd cd <1> quota rm <1> quota quota quota quota quota quota quota quota ls cd <1> ls | more quota cd <1> cd <1> quota more <1> ls cd <1> cd <1> rm <1> rm <1> quota quota quota quota quota quota quota quota quota cd <1> cd <1> cd <1> cd <1> cd <1> more <1> ls cd <1> cd <1> more <1> more <1> ls quota cd <1> more <1> ls rm <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> rm <1> quota cd <1> cd <1> cd <1> cd <1> rm -r <1> quota cd logout
+> USER2271
+volcheck lsf <1> ff cd <1> cptof <1> eject netscape & cd ps kill <1> netscape & ps ps kill <1> rlogin <1> ps ps ps -a `
+> USER2272
+quota rlogin <1> ls netscape & ps rlogin <1> pwd pwd dtfile
+> USER2273
+emacs setenv <2> emacs pwd ps ps netscape & logout
+> USER2274
+rm <1> ls more <1> quota cd <1> cd <1> find <1> cd <1> cd <1> ls <1> cd <1> quota cd <1> netscape & quota ls cd <1> man <1> ls -R ls -R > <1> more <1> ls quota rm <1> quota cd <1> ls -la cd <1> ls -R cd cd <1> cd <1> quota cd <1> ls cd ls cd <1> cd <1> more <1> more <1> ls cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> ls -R cd <1> ls -R unrm quota
+> USER2275
+quot quota emacs ls quota netscape & quota cd <1> ls rm <1> quota ls cd cd <1> cd <1> cd <1> rm <1> ls quota ls -R quota unrm
+> USER2276
+cd <1> more cd <1> more <1>
+> USER2277
+volcheck lsf <1> cd <1> diff <2> <GENSYM:18> <GENSYM:19> diff <2> lsf <1> cptof <1> ls rm <1> cpfrf <1>
+> USER2278
+quota emacs filemgr bg cd <1> a.out <1> xcc <2> a.out <1> a.out <1> image12 a.out <1> ls <1> a.out <1> cd <1> uncompress <1> ls ls -l calc dtcalc a.out <2> cd <1> a.out <2> im <2> im <2>
+> USER2279
+thor setenv <2> thor
+> USER2280
+quota emacs quota ls rm <1> ls cd <1> rm <2> more <1> ls ls -l uncompress <1> ls -l rm <1> quota ls rm <1> quota cd <1> rm <1> quota compress <1> ls cp <2> ls rm <1> ls compress <1> mv <2> ls compress <1> quota uncompress <1>
+> USER2281
+netscape &
+> USER2282
+netscape &
+> USER2283
+quota emacs
+> USER2284
+filemgr
+> USER2285
+quota emacs emacs
+> USER2286
+netscape &
+> USER2287
+quota emacs logout
+> USER2288
+ls | more rm <1> rm <1> cd <1> cd <1> cd <1> ls cd <1> cd <1> rm -r <1> quota more <1> cd <1> cd cd <1> cd <1> cd <1> cd <1> cd <1> cd ` <1>
+> USER2289
+quota
+> USER2290
+ls uncompress <1> finger <1> finger <1> finger <1> finger <1> finger <1> finger <1> finger <1> finger <1> ls finger <1> finger <1> finger <1> finger <2> ls rm <1> quota volcheck lsf <1> finger <1> ls ff rm <1> quota ls netscape quota compress <1> quota cd <1> cd <1> cd <1> quota ls cd <1> ls cd <1> cd <1> finger <1> quota quota finger <1> emacs finger <1> emacs emacs finger <1> finger <1> finger <1> finger <1> finger <1> finger <1>
+> USER2291
+quota emacs ls uncompress <1> ls -l ff source <1> source <1> ff cptof <1> lsf <1> cd <1> cd <1> cd <1> eject volcheck du cd <1> mkdir <1> cd cd <1> cd <1> ls -l ls cp <2> cp <2> cp <2> cptof <1> ls > <1> more <1> ls -l > <1> cptof <1> cptof <1> ls mv <2> cptof <1> eject
+> USER2292
+uncompress <1>
+> USER2293
+uncompress <1> emacs quota compress <1> ls cd <1> cd <1> cd <1> cd <1> compress <1> quota ls cd <1> cd <1> cd <1> cd <1> ls cd <1> cd <1> cd <1> cd <1> cd <1> du cd cd <1> du cd <1> cd <1> cd <1> ls ls uncompress <1> ls ls rm <1> quota emacs ls compress <1> quota cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> quota ls ls cd <1> cd <1> ls -r <1> cd ls cd <1> uncompress <1> uncompress <1> cd cd <1> cd <1> cd <1> compress <1> quota compress <1> quota ls cd <1> compress <1> quota cd ls ls logout
+> USER2294
+source <1> ls emacs eject
+> USER2295
+volcheck cd <1> mv <2> ls volcheck lsf <1> cpfrf <2> latex <1> bibtex <1> latex <1> latex <1> dvips <1> cd <1> mkkdir <1> mkdir <1> cd <1> lsf <1> cpfrf <1> ls latex <1> bibtex <1> latex <1> latex <1> xdvi <1> xdvi <1> dvips <1> finger <1>
+> USER2296
+finger <1> cd <1> cd cd <1> cp <2> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> latex <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> finger <1>
+> USER2297
+finger <1>
+> USER2298
+cd <1> xdvi <1> setenv <2> xdvi <1> exit
+> USER2299
+volcheck cd <1> mv <2> mv <2> mv <2> ls s lsf <1> cpfrf <1> cpfrf <1> ls cp <2> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> latex <1> latex <1> latex <1> latex <1> xdvi <1> latex <1> latex <1> xdvi <1> dvips <1> gs <1> gs <1> latex <1> xdvi <1> latex <1> latex <1> xdvi <1> dvips <1> gs <1> mail <1> < <1> ls mv <2> ls mv <2> cp <2> mv <2> ls
+> USER2300
+ls quota emacs quota emacs netscape & ls lpp <1> cd <1> cd <1> lpp <1>
+> USER2301
+cd <1> latex <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> latex <1> xdvi <1>
+> USER2302
+eject
+> USER2303
+eject
+> USER2304
+ls emacs volcheck cd <1> mkdir <1> cd <1> lsf <1> cpfrf <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> dvips <1> mail -s <2> < <1> mail -s <2> < <1> lpp <1>
+> USER2305
+netscape & cd <1> more <1> ls more <1> ls more <1> ls more <1> ls cd <1> cd <1> cd <1>
+> USER2306
+quota emacs emacs cd <1> cd <1> latex <1> bibtex <1> .s <1> ls <1> ls <1> bibtex <1> bibtex <1> latex <1> bibtex <1> latex <1> xdvi <1> latex <1> latex <1> latex <1> rm <1> rm <1> latex <1> bibtex <1> latex <1> latex <1> latex <1> latex <1> emacs
+> USER2307
+cd <1> cd cd <1> more <1> more <1> cd cd <1> cd <1> gs <1>
+> USER2308
+less <1> setenv <2> emacs logout
+> USER2309
+quota emacs
+> USER2310
+quota emacs emacs cd <1> cd <1> mroe <1> more <1> more <1> ls latex <1> rm <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> rm <1> latex <1> latex <1> rm <2> ls rm <1> latex <1> bibtex <1> latex <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1>
+> USER2311
+ls netscape & pwd cd <1> du rm <4> rm <2> ls rm <1> rm <5> ls rm <1> ls rm <4> ls ls -l ls ls -l ls volcheck ff lsf <1> ls rm <1> ls cptof <1> ff cptof <1> cptof <1> quota ff eject volcheck ls cptof <1> rm <1> cptof <1> rm <1> rm <1> cptof <1> rm <1> cptof <1> rm <1> ff cptof <1> ff cd <1> rm <1> cd cd <1> ff cptof <1> cptof <1> cptof <1> rm <3> ls ff eject volcheck ls cptof <1> rm <1> cptof <1> rm <1> ls cptof <1> rm <1> quota more <1> ls cptof <1> cptof <1> rm <1> rm <1> ls cd <1> cd <1> rm <1> quota cd <1> cd <1> cd <1> netscape & quota ls cd <1> cd <1> cd <1> cd <1> eject volcheck lsf <1> ff eject cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1>
+> USER2312
+quota emacs
+> USER2313
+emacs
+> USER2314
+mail <1> < <1>
+> USER2315
+netscape & rlogin <1>
+> USER2316
+setenv <2> quota emacs
+> USER2317
+quota emacs
+> USER2318
+quota cd <1> more <1> cd <1> cd <1> more <1> more <1> finger <1> finger <1> finger <1>
+> USER2319
+emacs netscape &
+> USER2320
+cd <1> cd <1> cd <1> mv <2> mv <2> mv <2> mv <2> ls volcheck lsf <1> lsf ff source <1> lsf <1> ff source <1> source <1> ls <1> volcheck lsf <1> eject volcheck f ff lsf <1> cpfrf <1> cpfrf <1> ls latex <1> bibtex <1> latex <1> latex <1> xdvi <1> dvips <1> gs <1> lpp <1> ls cp <2> xdvi <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> xdvi <1> xdvi <1> latex <1> xdvi <1> latex <1> bibtex <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> xdvi <1> xdvi <1> xdvi <1> cp <2> cp <2> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> latex <1> latex <1> latex <1> more <2> latex <1> xdvi <1> latex <1> latex <1> xdvi <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1>
+> USER2321
+finger <1> pwd emacs emacs cd <1> diff <2> diff <2>
+> USER2322
+cd <1> cd <1> more <1>
+> USER2323
+cd <1> cd <1> latex <1> bibtex <1> latex <1> latex <1> dvips <1> logout
+> USER2324
+eject
+> USER2325
+emacs setenv <2> emacs logout
+> USER2326
+rlogin <1> ls `
+> USER2327
+setenv <2> emac emacs cd <1> cd <1> latex <1> bibtex <1> bibtex <1> latex <1> xdvi <1> logout
+> USER2328
+rlogin <1>
+> USER2329
+cd <1> latex <1> latex <1> latex <1> bibtex <1> latex <1> latex <1> bibtex <1> latex <1> latex <1> latex <1> xdvi <1> latex <1> latex <1> logout
+> USER2330
+cd <1> latex <1> dvips <1> latex <1> dvips <1> logout
+> USER2331
+ls cd <1> cd <1> rm <4> ls rm <4> ls rm <2> xdvi <1> rm <4> ls rm <2> ls rm <1> lpp <1> ls more <1> ls quota
+> USER2332
+quota quota logout
+> USER2333
+cd <1> cd <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> latex <1> bibtex <1> latex <1> latex <1> latex <1> latex <1> dvips <1> dvips <1> gs <1> gs <1> cd <1> emacs mail -s <2> < <1> emacs cd <1> cd <1> mail -s <2> < <1> mail -s <2> < <1> mail <1> < <1> mail <1> < <1> finger <1> finger <1> finger <1> cd <1> emacs rm <1> quota
+> USER2334
+cd <1> cd <1> cd <1> latex <1> xdvi <1> dvips <1> latex <1> xdvi <1> cd <1> emacs cd <1> dvips <1> dvips <1> gs <1> gs <1> mail <1> < <1> mail <1> < <1>
+> USER2335
+cd <1> latex <1> bibtex <1> latex <1> latex <1> bibtex <1> latex <1> latex <1> dvips <1> dvips <1> xdvi <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> latex <1> bibtex <1> latex <1> latex <1> latex <1> xdvi <1> latex <1> latex <1> dvips <1> dvips <1> gs <1> ls mail <1> < <1> dvips <1> gs <1> mail <1> < <1> quota ls quota
+> USER2336
+finger <1> emacs
+> USER2337
+quota rm <1> ls quota volcheck lsf <1> cd <1> cd <1> ff cd <1> mkdir <1> cd cd <1> cptof <1> ff cptof <1> rm <1> cd <1> rm <1> finger <1> ls ff ls cd cd <1> cd <1> du rm <2> du eject volcheck ff ls lsf <1> cd <1> ls cd <1> cd cd <1> du ff cptof <1> ls ff ls lsf <1> ls rm <1> rm <1> quota ls eject volcheck ls cd <1> cd <1> cd <1> ff cd <1> cd <1> cd <1> filemgr quota cd <1> cd <1> cd <1> compress <1> quota netscape & emacs netscape & quota emacs ls rm <1> mv <2> uncompress <1> emacs eject
+> USER2338
+quota emacs diff <2> cd <1> cp <2> cp <2> ls latex <1> bibtex <1> latex <1> latex <1> xdvi <1> latex <1> latex <1> xdvi <1> dvips <1> gs <1> dvips <1> mail <1> < <1> cd emacs rm <1> quota ls uncompress <1> uncompress <1> uncompress <1> quota ls uncompress <1> more <1> ls uncompress <1> ls du volcheck lsf <1> ff eject volcheck ff lsf <1> ff eject volcheck eject volcheck ff ff ls ff ls quota more <1> rm <1> ls ls <1> rm <1> ff eject volcheck ff ff ff eject volcheck uncompress <4> uncompress <1> ff ff quota uncompress <1> ff quota ff ff quota ls uncompress <1> ff ff ls ff ls ff ff ff ls ff ff ls ff ls ff eject volcheck ff eject volcheck quota eject quota ls
+> USER2339
+cd <1> diff <2> cd <1> mv <2> ls cd cd <1> cptof <1> ff ls rm <1> cd <1> quota quota ls cd <1> cd <1> rm <2> unrm cd cd <1> uncompress <1> cd <1> uncompress <1> ls rm <1> ls rmdir <1> quota ff quota ls ff ff ls ff more <1> netscape & ff
+> USER2340
+quota netscape & volcheck emacs eject
+> USER2341
+cd <1> diff <2> diff <2> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> unrm quota
+> USER2342
+quota emacs cd <1> cd <1> volcheck latex <1> bibtex <1> latex <1> latex <1> ff eject volcheck xdvi <1> volcheck dvips <1> gs <1> mail <1> < <1> emacs
+> USER2343
+ff eject cd <1> xcc <2> cd <1> cd <1> ls a.out <1> a.out <1> cd <1> eject emacs ls cd <1> cd <1> rm <1> latex <1> latex <1> rm <1> dvips <1> netscape &
+> USER2344
+quota emacs volcheck cd <1> xcc <2> a.out <1> a.out <1> xcc <2> xcc <2> xcc <2> xcc <2> xcc <2> xcc <2> xcc <2> eject quota ls rm <2> ls compress <1> compress <1> quota ls cd <1> rm <1>
+> USER2345
+setenv <2> emacs logout
+> USER2346
+setenv <2> emacs mtestdir mkdir <1> cd <1> cp <2> cp <2> cp <2> cp <2> cp <2> emacs <1> xcc <2> a.out <1> emacs <1>
+> USER2347
+cd <1> cd <1> emacfs emacs <1> setenv <2> emacs emacs <1>
+> USER2348
+setenv <2> cd <1> cd <1> cd <1> ls server kermit
+> USER2349
+setenv <2> cd <1> kermit cd <1> cd <1> emacs <1>
+> USER2350
+setenv <2> cd <1> cd <1> kermit cd <1> cd <1> emacs <1> emacs <1> xcc <2> a.out <1> cd <1> cd <1> kermit cd <1> cd <1> emacs <1> ls kermit ls xcc <2> > <1> more <1> rm <1> script <1> dem <1> > <1> dem <2> more <1> script <1> more <1> emacs <1> ls emacs <1> ls kermit logout
+> USER2351
+setenv <2> cd <1> more <1> emacs <1> xcc <2> a.out <1> rm <1> emacs <1> emacs <1> a.out <1> xcc -g <2> dbx <1> emacs <1> xcc <2> emacs <1> emacs <1> a.out <1> logout fg logout
+> USER2352
+quota ls cd <1> kermit logout
+> USER2353
+cd <1> kermit logout
+> USER2354
+setenv <2> quota emacs cd <1> rm <4> ls rm <4> quota ls rm <3> ls rm <3> quota cd <1> rm <1> cd <1> cd <1> cd <1> cd <1> cd <1> quota du du > <1> more <1> cd <1> cd <1> cd <1> cd <1> cd <1> rm <1> cd <1> du > <1> more <1> quota lsss ls compress <1> quota uncompress <1> rm <1> rm <1> logout
+> USER2355
+quota setenv <2> emacs logout
+> USER2356
+quota setenv <2> emacs kermit ls rm <1> quota compress <1> compress <1> quota uncompress <1> uncompress <1> logout
+> USER2357
+setenv <2> kermit ls more <1> more <1> emacs <1> emacs ls more <1> ls fg fg logout
+> USER2358
+setenv <2> ls emacs kermit ls ls <1> fg kermit more <1> logout
+> USER2359
+setenv <2> quota emacs logout
+> USER2360
+setenv <2> quota emacs logout
+> USER2361
+emacs setenv <2> emacs ls emacs fg rm <1> ls <1> quota ls logout
+> USER2362
+setenv <2> emacs ls rm <1> cd <1> compress <1> quota cd <1> cd <1> compress <1> quota uncompress <1> logout
+> USER2363
+setenv <2> quota emacs logout
+> USER2364
+setenv <2> quota emacs quota logout
+> USER2365
+setenv <2> emacs logout
+> USER2366
+quota setenv <2> emacs ls fg emacs fg fg logout
+> USER2367
+logout
+> USER2368
+quota rm <1> quota compress <1> quota uncompress <1> emacs logout
+> USER2369
+setenv <2> quota ls <1> emacs logout
+> USER2370
+setenv <2> emacs
+> USER2371
+setenv <2> emacs logout
+> USER2372
+setenv <2> emacs logout
+> USER2373
+setenv <2> emacs logout
+> USER2374
+setenv <2> emacs cd <1> cd <1> ls -l **0100000063f694 **1000000000045a kermit ls cat <1> logout
+> USER2375
+setenv <2> emacs logout
+> USER2376
+setenv <2> emacs logout
+> USER2377
+setenv <2> emacs finger <1> logout
+> USER2378
+quota ls emacs setenv <2> emac emacs setenv <2> setenv <2> emacs logout
+> USER2379
+quota rm <1> quota ks ls cd <1> pwd cd <1> mv <2> ls cd <1> quota cp <2> quota setenv <2> emacs ff logout
+> USER2380
+setenv <2> emacs rlogin <1> netscape & eject volcheck rm <1> cd <1> cd <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1>
+> USER2381
+volcheck
+> USER2382
+logout
+> USER2383
+eject r <1> logout
+> USER2384
+logout
+> USER2385
+logout
+> USER2386
+man <1> solaris help <1> man <1> man -k <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> instal install lmstat cd <1> cd <1> cd <1> xlswin xlswins cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd more <1> ls ls | more more <1> source <1> $OPENWINHOME cd <1> cd <1> cd cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd man -k <1> login
+> USER2387
+logout
+> USER2388
+cd <1> cd <1> uncompress <1> ls xcc <2> diff <2> a.out <1> volcheck eject volcheck ff ff eject volcheck eject rlogin <1>
+> USER2389
+setenv <2> cd <1> cd <1> a.out <1> rlogin <1>
+> USER2390
+cd <1> setenv <2> a.out <1> rm <1> logout
+> USER2391
+logout
+> USER2392
+dt dtfile openwin logout
+> USER2393
+ls quota emacs finger rm <1> ls rm <1> cd <1> rm <1> cd openwin & filemgr bg xdbx xdb man <1> man <1>
+> USER2394
+cd <1> cd <1> latex <1> ls rm <3> ls latex <1> bibtex <1> latex <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> latex <1> dvips <1> ls gs <1> ls lpp <1> ff cd emacs
+> USER2395
+filemgr rm <1> filemgr xcc <2> ls cd <1> xcc <2> a.out <1> a.out <1> rm <1> a.out <1> a.out <1> rm <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> a.out <1> rm <1> dbx <1>
+> USER2396
+ps -fu <1> ps -guxa | grep <1> where <1> <GENSYM:20>/ps -fu <1> logout
+> USER2397
+man -k <1> man -k <1> more <1> more <1> more <1> more <1> ls ls | more more <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> ls cd openwin cd <1> cd <1> dtwm dsdm dtsession dtlogin dtfile dtcreate dtexec ls cd <1> cd <1> cd <1> cde ls | more man <1> cd <1> cd <1> dtlogin -daemon dtlogin <1> finger uptime cd openwin logout
+> USER2398
+ps man <1>
+> USER2399
+filemgr &
+> USER2400
+man <1>
+> USER2401
+cd <1> cd <1> dtexec dtsession dtwn dtwm dtlogin ls
+> USER2402
+man <1> cd <1> xcc -g <2> xcc -g <2> man <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> xcc -g <2> a.out <1> xcc -g <2> a.out <1> xcc -g <2> a.out <1>
+> USER2403
+rm <1>
+> USER2404
+logout
+> USER2405
+ps -gux man <1> ps -a ps -agux ps -agux | more ps -agux | more logout
+> USER2406
+man <1> man -k <1> man <1> man -k <1> rlogin <1> cd <1> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> script <1> volcheck cptof <1> cptof <1> eject rlogin <1>
+> USER2407
+logout
+> USER2408
+cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> netscape & dtterm -sb -sl5000l dtterm -sb -sl5000 dtterm -sl5000 <1> cd <1> cd <1>
+> USER2409
+cd <1> ls a.out <1> script <1>
+> USER2410
+logout
+> USER2411
+quota ls emacs rlogin <1> ls cd <1> a.out <1> a.out <1> a.out <1> a.out <1> more <1> ls im <1> im <1> more <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd cd <1> a.out <1> a.out <1> rlogin <1>
+> USER2412
+netscape & emacs
+> USER2413
+volcheck lsf <1> cd <1> cpfrf <1> ls xcc <2> xcc <2> xcc <2> a.out <1> logout
+> USER2414
+eject logout
+> USER2415
+netscape & quota setenv <2> ls emacs
+> USER2416
+emacs a.out <1> cd <1> a.out <1> rlogin <1>
+> USER2417
+cd <1> volcheck lsf <1> gg ff cptof <1> cptof <1> cptof <1> cd <1> cd <1> cd <1> cptof <1> eject logout
+> USER2418
+emacs
+> USER2419
+quota emacs ls cd <1> cd <1> gs <1> latex <1> latex <1> dvips <1> lpp <1> cd <1> cd <1> cd <1> a.out <1> a.out <1> a.out <1> c xcc -g <2> a.out <1> a.out <1> > <1> more <1> more <1>
+> USER2420
+cd <1> tail -f <1> tail -f <1> man <1> tail -r <1> tail -r <1> tail -r <1> tail -r <1> cat <1> cat <1> cat <1> cat <1> cat <1> cp <2> more <1> ls more <1> more <1> cp <2> more <1> xcc <2> a.out <1>
+> USER2421
+cd <1> xcc <2> a.out <1> > <1>
+> USER2422
+cd <1> cat <1> cat <1> cat <1> xcc <2> a.out <1> xcc <2> xcc <2> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1>
+> USER2423
+volcheck ff ff ff ff lsf <1> ff eject volcheck ff ff eject volcheck ff ff ff eject volcheck ff ff ff eject volcheck ff ff ff eject volcheck ff eject volcheck ff eject
+> USER2424
+quota emacs
+> USER2425
+meacs emacs cd <1> a.ou more <1> rm <1> ls rm <1> more <1> ls rm <4> rm <1> quota ls rm <1> ls cd <1> cd <1> cd <1> compress <1> quota rm <1> quota compress <1> quota ls cd <1> cd <1> cd <1> quota netscape & quota cd <1> cd <1> uncompress <1> cd <1> rm <4> more <1> rm <2> rm <1> rm <1> ls rm <1> quota
+> USER2426
+cd <1> rm <1> quota cd <1>
+> USER2427
+ls cd <1> cd <1> cd <1> latex <1> dvips <1> lp -puccps <1> lpp <1> cd <1> cd <1> cd <1> xcc <2> a.out <1> more <1>
+> USER2428
+finger <1> finger <1> netscape & eject volcheck finger <1> finger <1> cd <1> xcc <2> a.out <1>
+> USER2429
+finger <1> finger <1> finger <1> netscape & finger <1> eject finger <1> emacs
+> USER2430
+emacs cd <1> cd <1> latex <1> xdvi <1> latex <1> xdvi <1> dvips <1> laserquota <1> <GENSYM:21>/laserquota <1> cd <1> cd <1> cd <1> cd <1> cd <1> ls <1> lwinfo <1> cd cd <1> lp -d <2>
+> USER2431
+cd <1> lp -d <2> logout
+> USER2432
+netscape & volcheck eject volcheck eject volcheck eject volcheck cd <1> cd <1> rm <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> dvips <1> lpp <1> cd <1> emacs eject netscape &
+> USER2433
+emacs
+> USER2434
+quota eamcs emacs cd <1> cd <1> mail <1> < <1> cd <1> emacs
+> USER2435
+uncompress <1> rm <1> ls more <1> ls cd <1> cd <1> xcc <2> xcc <2> a.out <1> > <1>
+> USER2436
+ls more <1> cd <1> more <1> more <1> xcc <2> xcc <2> xcc <2> xcc <2> a.out <1>
+> USER2437
+volcheck cd <1> diff <2> lsf <1> cd <1> cd cd <1> cd <1> diff <2> xcc <2> a.out <1> ls rm <1> a.out <1> > <1> ls a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> ls a.out <1> > <1> xcc <2> a.out <1> > <1> ls rm <2> ls eject volcheck cd <1> cd cd <1> cd <1> diff <2> ls rm <1> latex <1> bibtex <1> latex <1> latex <1> xdvi <1> dvips <1> mail <1> < <1> eject
+> USER2438
+finger <1> finger <1> cx cd <1> more <1> rlogin -l <2>
+> USER2439
+quota emacs volcheck finger <1> finger <1> cd <1> diff <2> xcc <2> a.out <1> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1>
+> USER2440
+cd <1> cd <1> rm <1> cd <1> rm <1> a.out <1> cd <1> a.out <1>
+> USER2441
+eject
+> USER2442
+quota emacs emacs
+> USER2443
+cd <1> cd cd <1> cd <1> cd <1> cd <1> lpp <1> ls lpp <1> lp -d <2> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> netscape & which <1> which <1> ls -l cd <1> ls -l
+> USER2444
+qujota quota emacs
+> USER2445
+volcheck ls cd <1> ff eject volcheck ff ls cptof <1> more <1> eject netscape & cd <1> emacs
+> USER2446
+cd <1> more <1> ls more <1> ls more <1> ls more <1> more <1> cd <1> more <1> more <1>
+> USER2447
+netscape & rlogin <1>
+> USER2448
+setenv <2> emacs logout
+> USER2449
+cd <1> cd <1> cd <1> cd <1> cd <1> ls cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> finger <1> finger <1> cd <1> cd cd <1> more <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> 68 <2> > <1> <GENSYM:22>/stargate cd <1> cd <1> cd <1> cd cd <1> a.out <1> a.out <1> a.out <1> cd <1> cd <1> more <1> a.out <1> z xcc <2> a.out <1> xcc <2> a.out <1>
+> USER2450
+finger <1> cd <1> ls cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> ls cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd emacs emacs
+> USER2451
+quota emacs rm <1> compress <1> quota ls cd <1> rm <2> ls <1> cd <1> cd <1> ls <1> ls <1> cd <1> rm <1> ls rm <1> rm <1> quota ls cd <1> cd <1> rm <1> rm <1> quota netscape & quota ls cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> compress <1> quota ls cd <1> cd <1> cd <1> rm <1> quota quota quota rm <1> quota quota quota quota volcheck ff ff cd eject volcheck eject quota cd <1> cd <1> cd <1> cd <1> compress <1> quota compress <1> quota compress <1> quota cd <1> cd <1> compress <1> quota compress <1> quota
+> USER2452
+cd <1> ls -l
+> USER2453
+rlogin <1>
+> USER2454
+logout
+> USER2455
+quota emacs uncompress <1> emacs
+> USER2456
+quota ls emacs volcheck eject emacs
+> USER2457
+uncompress <1> cd <1> cd <1> cd <1> cd <1> ls -l
+> USER2458
+ls cd <1> cd <1> <GENSYM:23>/.. cd <1> cd <1> cd <1> ls -l diff <2> netscape &
+> USER2459
+quota emacs
+> USER2460
+cd <1> xcc <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> cd <1> gs <1> cd <1> xcc <2> a.out <1> cd <1> gs <1> cd <1> xcc <2> a.out <1> cd <1> cd <1> gs <1>
+> USER2461
+ls cd <1> cd <1> mv <2> mv <2> uncompress <1> l ls uncompress <1> uncompress <1> ls mv <2> ls mv <2> mv <2> ls ftp <1> ls latex <1> bibtex <1> latex <1> latex <1> ls dvips <1>
+> USER2462
+quota emacs emacs
+> USER2463
+cd <1> cd <1> gs <1> quit gs <1>
+> USER2464
+cd <1> cd <1> latex <1> ls rm <1> latex <1> bibtex <1> 1la latex <1> latex <1> gs <1> dvips <1> gs <1> eject
+> USER2465
+quota emacs cd <1> xcc <2> xcc <2> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> im <1> im <1> im <1> a.out <1> a.out <1> a.out <1> a.out <1> volcheck eject volcheck eject
+> USER2466
+help <1> help <1> man <1> pwd emacs
+> USER2467
+finger <1> finger <1> ls finger <1> cd <1> cd <1> more <1> finger <1> volcheck eject volcheck netscape & eject cd <1> cd <1> emacs
+> USER2468
+setenv <2> quota emacs logout
+> USER2469
+setenv <2> emacs logout
+> USER2470
+emacs cd <1> cp <2> cd <1> cd <1> cd <1> more <1> more <1> more <1> cd <1> cd <1> xcc <2> xcc <2> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> xcc <2> a.out <1> quota a.out <1> xcc <2> a.out <1> volcheck lsf <1> ff cptof <1> cptof <1> eject
+> USER2471
+emacs cd <1> xcc <2> xcc <2> xcc <2> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> cd <1> cd <1> im <1>
+> USER2472
+rlogin -l <2>
+> USER2473
+quota emacs volcheck cd <1> diff <2> ls xcc <2> a.out <1> xcc <2> quota emacs rm <1> a.out <1> a.out <1> > <1> quota xcc <2> xcc <2> a.out <1>
+> USER2474
+netscape & rm <1> quota ls cd <1> cd <1> cd <1> rm <1> ls rm <1> rm <1> rm <1> rm <1> rm <1> ls rm <1> rm <1> ls quota compress <1> quota cd <1> cd <1> cd <1> cd <1> rm <1> rm <1> rm <1> am <1> rm <1> quota ls cd <1> rm <1> quota rm <1> quota cd <1> rm <1> rm <1> more <1> ls quota cd <1> cd <1> cd <1> ls quota eject
+> USER2475
+ls quota cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd ls | more cd <1> cd <1> cd <1> cp <2> ls cd <1> ls | more rm <1> quota quota quota quota quota ls quota cd <1> cp <2> cd rm <2> logout
+> USER2476
+quota emacs cd <1> more <1> ls <1> cd <1> netscape & cd <1> eject volcheck ls duff <2> diff <2> xcc <2> xcc <2> xcc <2> xcc <2> xcc <2> a.out <1> ls rm <3> more <1> ls im <1> a.out <1> a.out <1> im <1> mv <2> ls rm <1> ghostview <1>
+> USER2477
+finger <1> finger <2> finger <1> netscape & cd <1> cp <2> quota ls cd <1> cd <1> ls more <1> ls ghostview -mke371.ps ls mv <2> ls rm -junk ls rm <1> rn <1> rm <1> ls mv <2> mv --junk <1> cd <1> rm <1> ls
+> USER2478
+emacs ls cd <1> xcc <2> a.out <1> cd <2> cp <2> a.out <1> xcc <2> a.out <1> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> > <1> xcc <2> a.out <1> > <1> xcc <2> xcc <2> a.out <1> a.out <1> > <1> cd <1> cd <1> cd <1> xdvi <1> ghostview <1> ghostview <1>
+> USER2479
+cd <1> xcc <2> a.out <1> xcc <3> xcc <2> a.out <1> a.out <1> xcc <2> a.out <1> xcc <2> a.out <1> a.out <1> rm <1> volcheck cd <1> emacs cd <1> latex <1> latex <1> bibtex <1> latex <1> latex <1> latex <1> dvips <1> ghostview <1> ghostview <1> eject
+> USER2480
+logout
+> USER2481
+which <1> which <1> cd <1> cd <1> cd <1>
+> USER2482
+filemgr bg cd <1> a.out <1> kernel.c <1> xcc <2> a.out <1> more <1>
+> USER2483
+cd <1> xcc <2> a.out <1> xv cd <1> cd <1> cd cd <1> more <1> cd <1> cd <1> cd <1> cd <1> xv <1> xv <1> xv <1> which <1> <GENSYM:24>/xv cd <1> cd <1> cd <1>
+> USER2484
+cd <1> a.out <1> xv man <1> help <1> xv - more <1> cd <1> more <1> more <1> rm <1> cd <1> cd <1> xcc <2> a.out <1> rm <1> a.out <1> ls more <1>
+> USER2485
+matlab
+> USER2486
+cd <1> cd <1> xdvi <1> latex <1> latex <1> bibtex <1> latex <1> latex <1> latex <1> more <1> latex <1> latex <1> dvips <1> ghostview <1> latex <1> ghostview <1> latex <1> dvips <1> ghostview <1> latex <1> latex <1> dvips <1> ghostview <1> lpp <1>
+> USER2487
+cd <1> im <1> cd <1> cd <1> cd <1> latex <1> latex <1> dvips <1> ghostview <1> ghostview <1> latex <1> latex <1> ghostview <1> dvips <1> ghostview <1>
+> USER2488
+cd <1> cd <1> latex <1> bibtex <1> latex <1> latex <1> dvips <1> ls ls -l more <1> netscape & ls diff <2> diff <2>
+> USER2489
+more <1> more <1> man <1> which <1> man <1> ls
+> USER2490
+cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> ls -l cd <1> more <1>
+> USER2491
+quota emacs
+> USER2492
+emacs ls cd <1> cd <1> cd <1> latex <1> bibtex <1> latex <1> latex <1> ghostview <1> dvips <1> latex <1> dvips <1> ghostview <1> latex <1> bibtex <1> latex <1> latex <1> latex <1> dvips <1> ghostview <1> ls mv <2> ftp <1> ls ghostview <1> ghostview <1> latex <1> bibtex <1> latex <1> latex <1> dvips <1> ghostview <1> ghostview <1> ghostview <1> mv <2> ls -l ftp <1> ls ghostview <1> ls lpp <1>
+> USER2493
+emacs emacs
+> USER2494
+ls cd <1> ls -l cd <1> ls -l netscape &
+> USER2495
+ls cd <1> cd <1> lpstat -o lpp <1> logout
+> USER2496
+emacs cd <1> cd <1> cd <1> uncompress <1> ls cd <1> cd <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> xdvi <1> latex <1> xdvi <1> latex <1> xdvi <1> qutoa ls mail <1> < <1> cd <1> cd <1> emacs
+> USER2497
+cd <1> cd <1> latex <1> bibtex <1> latex <1> latex <1> dvips <1> man <1> postreverse -o132 -r <1> > <1> alias <1> alias <1> pss -o132 <1> > <1> rm <1> pss -o132 <1> > <1> gs <1> pss -o140 <1> > <1> rm <1> pss -o140 <1> > <1> gs <1> rm <1> pss -o150 <1> > <1> gs <1> pss -o74 <1> > <1> gs <1> ls mv <2> mv <2> lpp <1> lpp <1> lpp <1> lpp <1> lpp <1> lpp <1> lpp <1>
+> USER2498
+cd <1> cd <1> latex <1> bibtex <1> latex <1> bibtex <1> latex <1> latex <1> dvips <1> ghostview <1> ghostview <1> ls rm <1> lpp <1> lpstat -o lpq <1> lpq -Ppuccps lpq -puccps lpq -Ppuccps lprm -Ppuccps <1> more <1>
+> USER2499
+man <1> man <1> lprm lprm -Ppuccps lpstat -o lpstat lpstat <1> cancel <1> cancel <1> man <1> cancel <2> cancel <1> cancel <1> cancel <1> man <1> cancel -u <2> cancel -u <2> cancel -u <1> lpstat lpstat <1> cancel -u <1> cancel -u <1> cancel -u <1> ls emacs
+> USER2500
+more <1>
+> USER2501
+cd <1> cd <1> latex <1> bibtex <1> latex <1> latex <1> more <1> latex <1> pss -o28 <1> > <1> mv <2> gs <1> dvips <1> pss -o28 <1> > <1> rm <1> pss -o28 <1> > <1> gs <1> ls gs <1> gs <1> pss -o1 <1> > <1> gs <1> gss -o14 <1> > <1> pss -o14 <1> > <1> rm <1> pss -o14 <1> > <1> gs <1> pss -o18 <1> > <1> gs <1> ls rm <1> more <1> more <1> gs <1> ls lpp <1> lpp <1> lpstat <1> rlogin <1> ls dvips <1>
+> USER2502
+cd <1> cd <1> ghostview <1> lpp <1> ghostview <1>
+> USER2503
+rlogin -l <2>
+> USER2504
+cd <1> cd <1> cd <1> man <1> man -k <1> man <1> man <1> man <1> man <1> man <1> man <1> man <1> ls man <1> latex <1> dvips <1> pss -o <2> > <1> ghostview <1> diff <2> ls pss -o <2> > <1> pss -o <2> > <1> ghostview <1> ghostview <1> lpp <1> diff <2> alias <1> which <1> cd <1> cd <1> cd <1> postreverse cd <1> cd <1> pss -o <2> > <1> lpp <1> pss -o <2> > <1> lpp <1>
+> USER2505
+emacs ls
+> USER2506
+quota emacs cd <1> cd <1> latex <1> bibtex <1> latex <1> dvips <1> pss -o <2> > <1> ghostview <1> lpp <1> lpp <1> lpp <1> lpp <1> lpp <1>
+> USER2507
+finger <1>
+> USER2508
+emacs
+> USER2509
+quota emacs
+> USER2510
+quota emacs
+> USER2511
+finger <1> finger <1> finger <1> finger finger <1>
+> USER2512
+emacs ls cd <1> cd <1> rm <1> cd <1> cdjthesis cd <1> lpp <1> lpp <1> lpp <1> lpp <1> netscape &
+> USER2513
+cd <1> cp <2> man <1> man <1> xcc <2> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> im <1> im <1> bg a.out <1> xcc <2> xcc <2> a.out <1>
+> USER2514
+cd <1> cd <1> cd <1> lpp <1> latex <1> bibtex <1> latex <1> latex <1> dvips <1> ghostview <1> ls pss -o <2> > <1> ghostview <1> lpp <1> lpp <1> lpp <1> lpp <1>
+> USER2515
+netscape & cd <1> cd <1> rm <1> quota netscape & netscape & rm <1>
+> USER2516
+cd <1> cd <1> ls <1> cd <1>
+> USER2517
+cd <1> cd <1> cd <1> ls lpp <1> lpp <1> lpp <1> lpp <1> lpp <1> lpp <1> lpp <1>
+> USER2518
+quota
+> USER2519
+emacs cd <1> cd <1> lpp <1> lpp <1>
+> USER2520
+emacs
+> USER2521
+finger <1> finger <1> finger <1> finger <1> netscape & emacs
+> USER2522
+quota emacs
+> USER2523
+rlogin <1> ls
+> USER2524
+cd <1> cd <1> mkdir <1> cd <1> mkdir <1> mkdir <1> mkdir <1> cd <1> ftp <1> ls du cd <1> cd <1> ftp <1> cd <1> ftp <1> ls cd <1> cd <1>
+> USER2525
+netscape &
+> USER2526
+quota emacs
+> USER2527
+ls rlogin <1>
+> USER2528
+rlogin <1>
+> USER2529
+logout
+> USER2530
+logout
+> USER2531
+cd <1> cd <1> cd <1> cd <1> cd <1> lpp <1> netscape & quota quota ls cd <1>
+> USER2532
+ls rm <1> quota ls cd <1> cd <1> quota cd <1> rm <3> rm <1> rm <1> quota ls rm <1> quota rm <1> compress <1> quota ls cd <1> cd <1> cd <1> cd <1> rm <4> quota ls cd <1> cd <1> cd <1> quota cd <1> cd <1> compress <1> quota cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> gs <1> gs <1> ls rm <1> rm <1> quota cd <1> cd <1> compress <1> quota cd <1> cd <1> cd <1> compress <1> quota
+> USER2533
+setenv <2> quota uncompress <1> emacs logout
+> USER2534
+cd <1> cd <1> cd <1> lpp <1> logout
+> USER2535
+quota emacs cd <1> cd <1> <GENSYM:15>/im <1> zip <2> ls cd <1> volcheck ff uncompress <1> ls rm <1> rm <2> more <1> cd <1> cd <1> cd <1> ls -l > <1> zip <2> ls zip <2> zip <2> zip <2> ls zip <2> zip <2> zip <2> quota
+> USER2536
+cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> cd <1> more <1> ls rm <1> ls cd <1> cd <1> rm <1> rm <2> rm <1> cd <1> cd <1> rm <2> uncompress <1> quota ls rm <4> quota ls rm <3> ls rm <1> ls ls -l ls -l > <1> ls cd <1> more <1> cd <1> rm <2> ls cd <1> cd <1> cd <1> cd <1> cd <1> ls <1> ls <1> ls <1> ls <1>
+> USER2537
+finger <1> emacs netscape &
+> USER2538
+cd <1> more <1> ls more <1> ls more <1> more <1> more <1> more <1> rlogin <1>
+> USER2539
+logout
+> USER2540
+df finger <1> rlogin <1> finger <1> finger <1> finger <1> quota emacs
+> USER2541
+cd <1> xcc <2> xcc <2> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1> a.out <1>
+> USER2542
+emacs
+> USER2543
+ls uncompress <1>
+> USER2544
+lsd ls netscape &
+> USER2545
+emac emacs
+> USER2546
+finger <1> cd <1> a.out <1>
+> USER2547
+quota emacs emacs emacs finger <1> finger <1>
+> USER2548
+finger <1>
+> USER2549
+finger <1> finger <1> logout
+> USER2550
+finger <1> finger <1>
+> USER2551
+finger <1>
+> USER2552
+setenv <2> emacs logout
+> USER2553
+setenv <2> quota emacs logout
+> USER2554
+quota ls rm <1> rm <1> rm <1> cd <1> rm <2> compress <1> quota cd <1> cd <1> cd <1> cd <1> cd <1> netscape & netscape & quota ls compress <1> quota cd <1> rm <2> rm <1> ls cd <1> cd <1> cd <1> compress <1> quota quota quota quota
+> USER2555
+quota emacs netscape & rlogin <1> ls lpp <1>
+> USER2556
+netscape &
+> USER2557
+volcheck eject
+> USER2558
+logout
+> USER2559
+logout
+> USER2560
+quota more ls mv <2> uncompress <1> emacs emacs quota quota rm <1> compress <1> quota ls compress <1> quota cd <1> compress <1> quota compress <1> quota
+> USER2561
+phone <1> ph <1> finger <1> finger <1>
+> USER2562
+netscape & finger <1> finger <1> finger <1> finger <1> ph <1> finger <1> finger <1> finger <1> volcheck ff eject volcheck ff eject volcheck ff eject cd <1> rm <1> ls rm <1> rm <1> ls rm <1> quota cd <1> ls cd <1> cd <1>
+> USER2563
+volcheck ls cd <1> cd <1> ls -l rm <1> ls eject volcheck ls cd <1> cd <1> cd <1> cd <1> cd <1> matlab
+> USER2564
+eject finger <1>
+> USER2565
+quota ls uncompress <1> uncompress <1> uncompress <1> emacs
+> USER2566
+cd <1> cd <1> cd <1> cd <1> matlab eject netscape &
+> USER2567
+cd <1> cd <1> cd <1> rm <3> gs <1> ls rm <1> rm <1> ls du volcheck
